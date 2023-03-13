@@ -31,6 +31,7 @@ def load_stock_price(
     df.to_sql(
             "daily_stock_price",
             con         = engine.connect());
+
     return 0;
 
 
