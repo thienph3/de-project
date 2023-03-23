@@ -276,5 +276,21 @@ services:
       airflow-init:
         condition: service_completed_successfully
 
+  dwh:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: crawler 
+      POSTGRES_PASSWORD: 123456 
+      POSTGRES_DB: dwh
+    ports: 
+      -5432:5432
+    volumes:
+      - postgres-db-volume:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 5s
+      retries: 5
+    restart: always
+
 volumes:
   postgres-db-volume:
