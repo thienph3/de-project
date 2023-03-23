@@ -1,0 +1,9 @@
+[ ] adding condition to stop scrolling
+[ ] loop via ward and crawling -> save to csv (by ward and district)
+  - data 
+      - district
+        - ward  
+
+[ ] save thành các file csv 
+
+
