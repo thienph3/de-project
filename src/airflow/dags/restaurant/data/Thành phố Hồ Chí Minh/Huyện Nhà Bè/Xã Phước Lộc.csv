@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Bánh Cuốn,2.5,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Vietnamese,"D8/44, Đoàn Nguyễn Tuân, Ấp 3, Xã Hưng Long, Huyện Bình Chánh, Thành Phố Hồ Chí Minh"
+1,Quán Nỗi Nhớ,2.5,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Restaurant,"D3/45A, Đoàn Nguyễn Tuân, Xã Hưng Long, Huyện Bình Chánh, Thành Phố Hồ Chí Minh"
+2,Quán 6 Trước,4.5,(4),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,66A
+3,Quán Ăn Điệp,3.8,(6),None,"['Dine-in', 'Takeout']",[],Restaurant,"F15/68, Ấp 6, Xã Hưng Long, Huyện Bình Chánh, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
+4,Cơm tắm BinBin,None,None,None,[],['Open 24 hours'],Restaurant,"MJ38+R3X, Đoàn Nguyễn Tuấn"
+5,Quán Ăn A Lũ,3.3,(3),None,"['Dine-in', 'Takeout']",[],Restaurant,"MJ76+G6M, An Phú Tây"
+6,Quán ăn Dì Năm,None,None,None,['Dine-in'],[],Family-friendly,70A Đường Ấp 6
+7,Quán Ăn Phương Anh,None,None,None,"['Dine-in', 'Takeout']",[],Bistro,"MJ8M+5R4, Hưng Long - Qui Đức"
+8,Quán ăn vặt Sáu Ánh,5.0,(3),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 3\u202fPM Fri']",Bistro,46 Đoàn Nguyễn Tuấn
+9,Cơm Tấm 379,5.0,(3),None,"['Dine-in', 'Takeout']",[],Bistro,"A36, 1 Đường Hưng Long - Qui Đức"
+10,Cháo dinh dưỡng NgonMêLy Hưng Long,4.6,(10),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5:40\u202fAM Fri']",Restaurant,40A Đoàn Nguyễn Tuấn
+11,Quán Cát Tường Cafe,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,"C10A/23, Đoàn Nguyễn Tuấn"
+12,Bến Cát quán,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Bistro,8c đường Hưng Long - Qui Đức
+13,Gà Ta Hội An Như Tâm,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Chicken,39 Ấp 4
+14,Lửa Hồng 4,4.1,(9),None,"['Dine-in', 'Takeout']",[],Restaurant,"MJ97+R8Q, An Phú Tây - Hưng Long"
+15,Quán Cơm Hưng Long,3.3,(4),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"MJ65+39H, An Phú Tây"
+16,Ốc Đêm 30K,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,"MJ97+R84, An Phú Tây - Hưng Long"
+17,Quán Ăn Hàn Quốc sashin,4.0,(4),None,"['Dine-in', 'Takeout']",[],Restaurant,"MJJ7+73F, An Phú Tây - Hưng Long"
+18,Vũ Tay Ga,None,None,None,['Dine-in'],[],Restaurant,"MJ76+84V, An Phú Tây - Hưng Long"
+19,Quán ăn tường vy 1,4.4,(5),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6\u202fAM Fri']",Bistro,D8/47

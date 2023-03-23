@@ -1,0 +1,60 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Chocolaterie,5.0,(1),,[],"['Open', ' ⋅ Closes 10\u202fPM']",Chocolate artisan,2 Lam Son Square
+1,Saigon Grill Restaurant,4.2,(923),$$$,"['Dine-in', 'Takeout', 'No delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Vietnamese,Pasteur/91 Ward
+2,Ngon Restaurant,4.0,"(7,389)",,['The best Chả giò in the world'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Vietnamese,160 Pasteur
+3,Anan Saigon,4.3,"(1,026)",,"['The 15 Best Restaurants in Ho Chi Minh City, Vietnam']","['Opens soon', ' ⋅ 5\u202fPM']",Vietnamese,89 Tôn Thất Đạm
+4,Au Parc Restaurant,4.4,"(1,386)",,['Where to Eat in Ho Chi Minh City : Western and Vietnamese Restaurant Recommendations'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,23 Hàn Thuyên
+5,Cloud Nine Restaurant Sai Gon,,,,"['Dine-in', 'Curbside pickup']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,180-188 Lý Tự Trọng
+6,RuNam d'Or,4.3,"(1,326)",,"['Dine-in', 'Takeout', 'No delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Modern French,3 Công xã Paris
+7,Sushi Tei Vietnam,4.2,"(1,782)",$$$,['The Top 7 Japanese Restaurants In Saigon'],"['Open', ' ⋅ Closes 11\u202fPM']",Sushi,200A Lý Tự Trọng
+8,Bambino,5.0,(1),,"['Dine-in', 'Takeout', 'No delivery']","['Opens soon', ' ⋅ 5\u202fPM']",Restaurant,Tôn Thất Thiệp/29-31 ward
+9,Le Jardin,4.3,(837),,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fPM']",French,31 Thái Văn Lung
+10,NGAM,4.0,(1),,"['Dine-in', 'Takeout']",[],Restaurant,38 Mạc Thị Bưởi
+11,Secret Garden Restaurant,4.2,"(3,537)",,"['The 15 Best Restaurants in Ho Chi Minh City, Vietnam']","['Open', ' ⋅ Closes 10\u202fPM']",Vietnamese,158 Pasteur
+12,Esta Saigon,4.6,(150),None,"['Dine-in', 'No delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Asian Fusion,27 Trần Quý Khoách
+13,Sushi Masa,4.4,"(1,063)",None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Sushi,52 Thạch Thị Thanh
+14,Å by TUNG,4.7,(138),None,"['Dine-in', 'No delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",Fine Dining,31-33 Đặng Dung
+15,Quán Út Nhung,4.1,(110),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 1:30\u202fAM']",Restaurant,243 Đ. Hoàng Sa
+16,Thang Restaurant,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"88, Tran Quang Khai Street, Da Kao Ward, District 1"
+17,Chocolaterie,5.0,(1),None,[],"['Open', ' ⋅ Closes 10\u202fPM']",Chocolate artisan,2 Lam Son Square
+18,Vị Quê Kitchen,4.7,(251),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Vegan,110 Đ. Sương Nguyệt Anh
+19,Phở Hiền,4.3,(50),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,88 Đ. Trần Khắc Chân
+20,TRÀ QUẾ Restaurant,2.3,(3),None,"['Dine-in', 'Takeout']",[],Vietnamese,49 Đ. Trần Nhật Duật
+21,LERESTO - Món Pháp Giá Việt,4.2,(178),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",French,359 Đ. Hoàng Sa
+22,Bánh Khọt &amp; Bánh Mì Hấp,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Vietnamese,Hẻm 54 Đ. Trần Khắc Chân
+23,Cháo Trắng,4.3,(6),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Vegetarian,10 Đ. Trần Khắc Chân
+24,Cơm Gà Sốt Tân Định,4.8,(12),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Vietnamese,81/14 Nguyễn Hữu Cầu
+25,Cuc Gach Quan Restaurant,4.3,"(2,958)",$$$,"['Weekend trip guide: Ho Chi Minh, Vietnam’s vibrant city of food, history, and culture']","['Open', ' ⋅ Closes 11:30\u202fPM']",Vietnamese,10 Đặng Tất
+26,Tàu Hủ Ly Cối,None,None,None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']",[],Restaurant,Thạch Thị Thanh
+27,Nhà hàng Chay Việt An,4.3,(206),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Vegetarian,11 Đ. Trần Nhật Duật
+28,Nhà hàng No Name,4.1,(305),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,357 Đ. Hoàng Sa
+29,Nhà Hàng Hoàng Ty,4.0,"(1,344)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,1 Nguyễn Hữu Cầu
+30,Miên Eatery,None,None,None,"['Dine-in', 'No takeout', 'No delivery']",[],Rice restaurant,50A Đặng Dung
+31,Cồng Cheng Cheng,4.9,(30),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,19 Đ. Trần Khắc Chân
+32,Buddha Chay,4.4,"(1,493)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Vegetarian,31 Đặng Tất
+33,Com Tam,5.0,(2),None,[],['Temporarily closed'],Restaurant,32 Lý Văn Phức
+34,Quan Hue Mo Te,None,None,None,[],['Temporarily closed'],Restaurant,2 Đ. Trần Nhật Duật
+35,Nhà hàng chay Phương Mai,4.3,(380),None,"['No dine-in', 'No takeout', 'No delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Vegetarian,86F Đ. Võ Thị Sáu
+36,Zâu Café &amp; Bistro,4.9,(24),None,"['""This is one of a kind ', 'cafe', '/ beer and bistro&nbsp;...""']","['Open', ' ⋅ Closes 9\u202fPM']",Beer Garden,154 Bis Đ. Trần Quang Khải
+37,Phở Hải,4.4,(418),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 1\u202fAM']",Pho,64 Đ. Trần Khánh Dư
+38,BLISS Bistro,4.6,(18),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,18/ 5 Trần Quý Khoách
+39,Cơm Tấm Bụi Sài Gòn,3.9,"(1,153)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Rice restaurant,100 Thạch Thị Thanh
+40,"Cơm tấm Dì Tám, chợ Tân Định",2.1,(73),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,319 Hai Bà Trưng
+41,Việt An Vegetarian Chay,4.3,(7),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Vegetarian,11 Đ. Trần Nhật Duật
+42,Nhà hàng cung cấp Sò dương tươi sống giá tốt nhất HCM,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Cajun,7 Đ. Trần Quang Khải
+43,Phở Hiền,4.3,(50),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 7:30\u202fAM Fri']",Restaurant,88 Đ. Trần Khắc Chân
+44,Quán Tino,3.8,(171),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 3\u202fPM Fri']",Seafood,391/7 Đ. Trần Hưng Đạo
+45,Nhà Hàng Các Món Chay RÔU,4.1,(251),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 10\u202fAM Fri']",Restaurant,567A Đ. Trần Hưng Đạo
+46,Quán A Phí,3.8,(5),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 11:30\u202fAM Fri']",Bistro,TK37/23 Đ. Nguyễn Cảnh Chân
+47,Quán Mẹ Tôi,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,13/8 Hẻm 457 Trần Hưng Đạo
+48,Restaurante autóctono,5.0,(1),None,"['Dine-in', 'Takeout']",[],Restaurant,391/19 Đ. Trần Hưng Đạo
+49,ZumWhere Đa Kao,4.4,(468),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,11 Nguyễn Thành Ý
+50,Cocotte - Da Kao,4.5,(208),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,Hẻm 18A/67 Nguyễn Thị Minh
+51,The Street,4.3,(423),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11:30\u202fPM']",Vietnamese,37 Đ. Mạc Đĩnh Chi
+52,NOIR. Ăn trong bóng tối | Dining in the Dark Saigon,4.7,"(1,222)",$$$,['Most Romantic Restaurants In Ho Chi Minh'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,180D Hai Bà Trưng
+53,MANMARU OSAKA RESTAURANT 1,4.4,"(1,361)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",Izakaya,"71 Mạc Đĩnh Chi Quận 1, Dakao Ward"
+54,The Gangs,4.3,"(1,448)",$$$,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Barbecue,32 Đ. Mạc Đĩnh Chi
+55,Al Fresco's Mac Dinh Chi,4.2,(794),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 11\u202fAM Fri']",Western,31 Bis Đ. Mạc Đĩnh Chi
+56,Hội An Sense Restaurant,4.5,(86),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Vietnamese,"Rooftop, 12 Phan Kế Bính"
+57,T Bistro - Không gian chill của riêng bạn,4.5,(4),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 6:30\u202fAM Fri']",French,6 Trần Doãn Khanh
+58,The Log Restaurant,4.2,(669),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"Rooftop, Gem Center, 8 Nguyễn Bỉnh Khiêm"

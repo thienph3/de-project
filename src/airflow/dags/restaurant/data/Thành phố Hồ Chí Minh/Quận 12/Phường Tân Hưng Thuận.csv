@@ -1,0 +1,19 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,HD Coffee &amp; Restaurant,4.3,(23),,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Restaurant,VJ4H+4RW
+1,Mina Restaurant,4.0,(333),,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6:30\u202fAM Fri']",Vietnamese,VJ4H+46H
+2,68 Beer Garden,5.0,(2),,"['Drive-through', 'No-contact delivery', 'No dine-in']","['Closed', ' ⋅ Opens 6\u202fPM']",Restaurant,37-37A D. Thị Mười
+3,Hai,,,,['Dine-in'],[],Restaurant,01 Tô Ký
+4,Bánh cuốn,5.0,(2),,"['Dine-in', 'Takeout']",[],Restaurant,12 Đông Bắc
+5,TAIWAN FOOD,4.5,(2),,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,55 D. Thị Mười
+6,Giòn Eatery,5.0,(1),,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,35-36 DN6
+7,Quán Ông Tý,5.0,(3),,[],"['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,123 Đông Bắc
+8,Ẩm Thực Hương An Kangen,,,,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 7\u202fPM']",Bistro,79 Tổ 12 Kp1
+9,Quán Tuấn Râu,4.1,(218),,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Hot Pot,155 Đông Bắc
+10,Cơm Chú Fòng,4.2,(26),,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Restaurant,A123 Tổ 14 Kp2
+11,Lối Xưa Cafe,3.6,(177),,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,2 Tô Ký
+12,Ốc Mèo,5.0,(2),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,B9 Tổ 2 KP3
+13,HẢI SẢN CẦN GIỜ,4.5,(6),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Seafood,73 D. Thị Mười
+14,Bò tơ 99,4.1,(141),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"76/2, 76/2 Tổ 10 Kp2"
+15,Ốc Thố Liti,4.5,(2),,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,8C6 DD6
+16,"MISA CUKCUK - Phần Mềm Quản Lý Nhà Hàng, Quán Cafe - Phâ",4.8,(4),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,VJ3G+4XQ
+17,Quán cơm Cô Bông,4.9,(38),,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,138 Đông Bắc

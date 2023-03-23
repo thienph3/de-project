@@ -1,0 +1,33 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Phú Đông,nan,nan,nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"VM6R+9FP, QL1A"
+1,Y,nan,nan,nan,"['Dine-in', 'Takeout']",[],Asian,VM6R+XF7
+2,QUÁN PHỞ NHƯ,3.5,(4),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,5A Vườn Lài
+3,ỐC BỜ KÊNH,4.3,(3),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12:30\u202fAM']",Family-friendly,59 Đ. An Phú Đông 09
+4,Quán 7 Minh,3.9,(54),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,2013 Tổ 27 kp2
+5,Ẩm Thực Sân Vườn XƯA,4.8,(21),nan,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,369/1e Đ. An Phú Đông 09
+6,Dê Vườn Lài,3.7,(6),nan,[],[],Restaurant,423 Vườn Lài
+7,Quán Dê Mò,5.0,(4),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,172 21/3
+8,Quán cô năm,nan,nan,nan,"['Dine-in', 'Takeout']",[],Restaurant,1064 An Phú Đông 1
+9,Nhà hàng Zườn Chim,5.0,(4),nan,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Family-friendly,138A Vườn Lài
+10,Song Tiên Quán,nan,nan,nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,VM3P+J6G
+11,Quán Óc Chú An,4.0,(43),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,1570/1G Tổ 9 - Kp1
+12,Ẩm Thực Sân Vườn XƯA,4.8,(21),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,369/1e Đ. An Phú Đông 09
+13,Quán Phú Đông,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"VM6R+9FP, QL1A"
+14,Y,None,None,None,"['Dine-in', 'Takeout']",[],Asian,VM6R+XF7
+15,Dê Vườn Lài,3.7,(6),None,[],[],Restaurant,423 Vườn Lài
+16,Nhà hàng Zườn Chim,5.0,(4),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Family-friendly,138A Vườn Lài
+17,Quán Ốc Bảo,4.6,(5),None,"['Dine-in', 'Takeout']",[],Gastropub,VM4V+5HQ
+18,A Quàng,None,None,None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closes soon', ' ⋅ 8\u202fPM ⋅ Opens 10\u202fAM Fri']",Bistro,92 Vườn Lài
+19,Quán cơm chay Cư Sĩ,5.0,(6),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,2797 QL1A
+20,Quán Phở 36 An Phú Đông,5.0,(4),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,1804/3B Tổ 39 kp3
+21,Lẩu Dê Tư Ký,4.1,(263),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,141 Vườn Lài
+22,Đak Nông Quán Vườn Lài Q12,5.0,(2),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,252 Vườn Lài
+23,Bếp cơm 0 đồng,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9:30\u202fAM Fri']",Asian,46/17/09 Vườn Lài
+24,Nhà Hàng Ẩm Thực Hương Quê,4.5,(11),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,92 Vườn Lài
+25,Nhóm Nấu Hoài Nam,4.0,(12),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,"915/3C, Quốc Lộ 1A, Phường An Phú Đông, Quận 12, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
+26,Quan lẩu 69 97c duong vuon lai phuong an phu dong quan 12 thanh pho ho chi minh,5.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Vietnamese,97c Vườn Lài
+27,Thế Giới Món Ăn Vặt Ngon,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 8\u202fPM ⋅ Opens 8\u202fAM Fri']",Restaurant,105/15 QL1A
+28,NHIÊN BÚN MẮM BÚN BÒ,4.7,(9),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Family-friendly,279 Vườn Lài
+29,Quán Cơm Anh Quân,3.8,(6),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 8\u202fPM ⋅ Opens 6\u202fAM Fri']",Restaurant,59 An Phú Đông 12
+30,Com Chay HOAN HI,4.3,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Vegan,0825/3D Tổ 49 KP3
+31,Nam Anh Catering 272/31,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,"272/31, QL1A"

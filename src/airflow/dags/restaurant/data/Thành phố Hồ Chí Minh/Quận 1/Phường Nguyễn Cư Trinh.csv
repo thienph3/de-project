@@ -1,0 +1,57 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Insalata Vietnam - Healthy Food,4.7,(121),,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 8:30\u202fPM']",Restaurant,71/17 Đ. Cô Bắc
+1,Tài Phở,,,,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,101 Cô Giang
+2,Thóc Grill &amp; Craft Beer,4.3,(202),,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 1\u202fAM']",Restaurant,89 Đ. Đề Thám
+3,Chill Thái,4.4,(121),,"['Dine-in', 'Takeout']",[],Thai,163 Cô Giang
+4,Quán Cafe Map Sài Gòn,,,,"['Dine-in', 'Takeout']",[],Restaurant,62 Cô Giang
+5,A.Kiệt Quán,4.6,(8),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 8\u202fPM']",Bistro,182 Cô Giang
+6,Cơm tấm Chị Thông,4.9,(8),,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 5\u202fPM ⋅ Opens 10\u202fAM Fri']",Restaurant,178 Cô Giang
+7,Bún Thịt Nướng Chị Tuyền,4.4,(123),,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,175c Cô Giang
+8,Quán Cơm Tấm,3.2,(6),,"['Dine-in', 'Takeout']","['Opens soon', ' ⋅ 5\u202fPM']",Rice restaurant,27 Cô Giang
+9,Cô Thảo Tôm Cá,5.0,(3),,"['Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Takeout Restaurant,42/2 Trần Đình Xu
+10,Cháo Lòng Bà Út,2.4,(36),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 7\u202fPM']",Bistro,193 Cô Giang
+11,cháo trắng,3.0,(2),,"['Dine-in', 'Takeout']",[],Porridge restaurant,71 Cô Giang
+12,quáng há cảo Đề Thám,,,,"['Dine-in', 'Takeout']",[],Restaurant,89 Cô Giang
+13,Good Morning Vietnam - Italian Restaurant Coffee Pizzeria,,,,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Italian,75 Hồ Hảo Hớn
+14,Quán Ăn 1$,5.0,(1),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,2 Đ. Đề Thám
+15,Nhà hàng ẩm thực Á - Âu GORDON,4.4,(43),,"['Dine-in', 'Curbside pickup']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,456 Đ. Võ Văn Kiệt
+16,Freedom Restaurant,4.1,(188),,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,58 Hồ Hảo Hớn
+17,Cháo lòng Chị Thanh,4.3,(172),,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Porridge restaurant,47 Cô Giang
+18,Bò lá lốt Hoàng Yến,4.2,(113),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Vietnamese,121 Cô Giang
+19,Quán ăn sáng chị Hoà &amp; Hồng,4.8,(8),,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,48/1 Trần Đình Xu
+20,Esta Saigon,4.6,(150),None,"['Dine-in', 'No delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Asian Fusion,27 Trần Quý Khoách
+21,Sushi Masa,4.4,"(1,063)",None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Sushi,52 Thạch Thị Thanh
+22,Å by TUNG,4.7,(138),None,"['Dine-in', 'No delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",Fine Dining,31-33 Đặng Dung
+23,Quán Út Nhung,4.1,(110),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 1:30\u202fAM']",Restaurant,243 Đ. Hoàng Sa
+24,Thang Restaurant,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"88, Tran Quang Khai Street, Da Kao Ward, District 1"
+25,Chocolaterie,5.0,(1),None,[],"['Open', ' ⋅ Closes 10\u202fPM']",Chocolate artisan,2 Lam Son Square
+26,Vị Quê Kitchen,4.7,(251),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Vegan,110 Đ. Sương Nguyệt Anh
+27,Phở Hiền,4.3,(50),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,88 Đ. Trần Khắc Chân
+28,TRÀ QUẾ Restaurant,2.3,(3),None,"['Dine-in', 'Takeout']",[],Vietnamese,49 Đ. Trần Nhật Duật
+29,LERESTO - Món Pháp Giá Việt,4.2,(178),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",French,359 Đ. Hoàng Sa
+30,Bánh Khọt &amp; Bánh Mì Hấp,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Vietnamese,Hẻm 54 Đ. Trần Khắc Chân
+31,Cháo Trắng,4.3,(6),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Vegetarian,10 Đ. Trần Khắc Chân
+32,Cơm Gà Sốt Tân Định,4.8,(12),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Vietnamese,81/14 Nguyễn Hữu Cầu
+33,Cuc Gach Quan Restaurant,4.3,"(2,958)",$$$,"['Weekend trip guide: Ho Chi Minh, Vietnam’s vibrant city of food, history, and culture']","['Open', ' ⋅ Closes 11:30\u202fPM']",Vietnamese,10 Đặng Tất
+34,Tàu Hủ Ly Cối,None,None,None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']",[],Restaurant,Thạch Thị Thanh
+35,Nhà hàng Chay Việt An,4.3,(206),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Vegetarian,11 Đ. Trần Nhật Duật
+36,Nhà hàng No Name,4.1,(305),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,357 Đ. Hoàng Sa
+37,Nhà Hàng Hoàng Ty,4.0,"(1,344)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,1 Nguyễn Hữu Cầu
+38,Miên Eatery,None,None,None,"['Dine-in', 'No takeout', 'No delivery']",[],Rice restaurant,50A Đặng Dung
+39,Cồng Cheng Cheng,4.9,(30),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,19 Đ. Trần Khắc Chân
+40,Buddha Chay,4.4,"(1,493)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Vegetarian,31 Đặng Tất
+41,Com Tam,5.0,(2),None,[],['Temporarily closed'],Restaurant,32 Lý Văn Phức
+42,Quan Hue Mo Te,None,None,None,[],['Temporarily closed'],Restaurant,2 Đ. Trần Nhật Duật
+43,Nhà hàng chay Phương Mai,4.3,(380),None,"['No dine-in', 'No takeout', 'No delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Vegetarian,86F Đ. Võ Thị Sáu
+44,Zâu Café &amp; Bistro,4.9,(24),None,"['""This is one of a kind ', 'cafe', '/ beer and bistro&nbsp;...""']","['Open', ' ⋅ Closes 9\u202fPM']",Beer Garden,154 Bis Đ. Trần Quang Khải
+45,Phở Hải,4.4,(418),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 1\u202fAM']",Pho,64 Đ. Trần Khánh Dư
+46,BLISS Bistro,4.6,(18),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,18/ 5 Trần Quý Khoách
+47,Cơm Tấm Bụi Sài Gòn,3.9,"(1,153)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Rice restaurant,100 Thạch Thị Thanh
+48,"Cơm tấm Dì Tám, chợ Tân Định",2.1,(73),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,319 Hai Bà Trưng
+49,Việt An Vegetarian Chay,4.3,(7),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Vegetarian,11 Đ. Trần Nhật Duật
+50,Nhà hàng cung cấp Sò dương tươi sống giá tốt nhất HCM,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Cajun,7 Đ. Trần Quang Khải
+51,Quán Tino,3.8,(171),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 3\u202fPM Fri']",Seafood,391/7 Đ. Trần Hưng Đạo
+52,Nhà Hàng Các Món Chay RÔU,4.1,(251),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 10\u202fAM Fri']",Restaurant,567A Đ. Trần Hưng Đạo
+53,Quán A Phí,3.8,(5),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 11:30\u202fAM Fri']",Bistro,TK37/23 Đ. Nguyễn Cảnh Chân
+54,Quán Mẹ Tôi,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,13/8 Hẻm 457 Trần Hưng Đạo
+55,Restaurante autóctono,5.0,(1),None,"['Dine-in', 'Takeout']",[],Restaurant,391/19 Đ. Trần Hưng Đạo

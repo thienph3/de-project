@@ -1,0 +1,46 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Ăn Minh Tuấn,3.0,(1),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"330A, Khu Phố 3, Phường Trung Mỹ Tây, Quận 12, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
+1,Quán Sơn Lâm,nan,nan,nan,"['Dine-in', 'Takeout']",[],Restaurant,121 Đ.Trung Mỹ Tây 2A
+2,Dũng 39 house,nan,nan,nan,"['Dine-in', 'Takeout']",[],Restaurant,138 Hà Đặc
+3,Nhận Tiệc Thanh Thảo,4.8,(12),nan,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closes soon', ' ⋅ 6\u202fPM ⋅ Opens 8\u202fAM Fri']",Buffet,35/3/6 Đ. Trung Mỹ Tây 19
+4,An's Kitchen Q12,5.0,(5),nan,"['Dine-in', 'Takeout', 'Delivery']",[],Bistro,B10/16 Tổ 21
+5,Quán Ốc Út Ù,4.3,(4),nan,"['Dine-in', 'Takeout']",[],Seafood,107 Đ.Trung Mỹ Tây 2A
+6,Bún bò O Kiếm,5.0,(3),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,1 Tổ 68 Tổ 57-KP3
+7,Bê Thui Nóng Quyết Thắng- Chi Nhánh 3,4.0,(426),nan,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,VJ36+M93
+8,Thế Giới Ẩm Thực,5.0,(2),nan,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 8\u202fPM']",Restaurant,215 Hà Đặc
+9,LANIE FOOD,nan,nan,nan,"['Dine-in', 'Takeout']",[],Restaurant,431A Tổ 68 KP3
+10,Quán Mị Linh,nan,nan,nan,"['Dine-in', 'Takeout']",[],Restaurant,"VJ36+Q44, Đ. TMT 17"
+11,Cơm Tấm 86,3.7,(3),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,232 Hà Bổng
+12,Bơ Tokbokki,4.9,(19),nan,"['""ở đây có bán app shopee ', 'food', ' nữa nha""']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,56 Tổ 19
+13,Bún riêu cô Điệp,nan,nan,nan,"['Dine-in', 'Takeout']",[],Bistro,70 Trung Mỹ Tây 3
+14,"6/4B, TMT13, phường Trung Mỹ Tây, quận 12",nan,nan,nan,[],['Open 24 hours'],Lechon restaurant,Đ. TMT 13
+15,Cửa Hàng Hải Sản Big Seafood,5.0,(1),nan,"['Dine-in', 'Takeout', 'Delivery']",[],Seafood,32 Trung Mỹ Tây 9
+16,"Quán Cháo Tim Cật, Cháo Thịt Bằm, Cháo Lươn, Miến Lươn",4.6,(40),nan,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 8\u202fPM']",Restaurant,219 Hà Đặc
+17,Cháo Dinh Dưỡng Cô Trang,5.0,(2),nan,"['Takeout', 'No dine-in']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Porridge restaurant,486a
+18,Trà sữa WinWin,nan,nan,nan,"['Dine-in', 'Takeout']",[],Bistro,5 Hà Đặc
+19,Đặc Sản Ngon,4.3,(12),nan,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Tacos,65/14 Tổ 46 Khu Phố 4
+20,Quán Ăn,4.5,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"B402, Khu Phố 3, Phường Tân Thới Hiệp, Quận 12, Thành Phố Hồ Chí Minh"
+21,Đặt tiệc tại nhà quận 12 - Nhà hàng Hoàn Hải,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,336 D. Thị Mười
+22,Hủ Tiếu Minh Long,5.0,(2),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,48/10 Tổ 15
+23,Quán Ăn 79 Tân Thới Hiệp,4.0,(34),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"79, Tân Thới Hiệp 2, Phường Tân Thới Hiệp, Quận 12, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
+24,Quán Ăn Tân Hải,3.8,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,87 QL1A
+25,Ốc pun 30k,4.3,(15),None,"['""You can enjoy fresh seashells here although it is not a ', 'restaurant', '.""']","['Open', ' ⋅ Closes 11:30\u202fPM']",Bistro,274 Đ. TTH21
+26,Quán Ăn 37,3.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,110 Đ.Trương Thị Hoa
+27,Đồng Quê,4.4,(18),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,437/9 Tân Thới Hiệp 22
+28,Quán Cầy Tơ 18A,3.9,(121),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"VJ5Q+4M5, Tân Thới Hiệp 22"
+29,Carrot Homemade food,4.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,15 Đ.Trương Thị Hoa
+30,Phở Ngân,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,91 Tân Thới Hiệp 8
+31,Dê tươi Trường Thành,3.7,(6),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,471 Đ. TTH21
+32,Cơm Tấm Na,4.7,(23),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,113 Đ. Nguyễn Thị Đặng
+33,Quán Bò 29,4.0,(1),None,"['Dine-in', 'Takeout']",[],Restaurant,229 Đ. TTH21
+34,Quán Ăn Thiên Nga,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,196 D. Thị Mười
+35,Quán net,4.4,(9),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,VJ8R+VG8
+36,Trà Sữa Lu Na,5.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,7 Tổ 4 Kp3
+37,Cửa Hàng Hải Sản Tươi Sống Tân Thới Hiệp,4.6,(5),None,[],['Permanently closed'],Restaurant,"349, Tân Thới Hiệp 22, Phường Tân Thới Hiệp, Quận 12, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
+38,Nhà,None,None,None,[],['Temporarily closed'],Restaurant,119/2/2 Nguyễn Thị Kiểu
+39,Quán cơm Hai Lượng,None,None,None,[],['Temporarily closed'],Restaurant,"QTSC9, Tòa nhà 9, Đường số 3"
+40,PHỞ KIM ANH,None,None,None,"['Dine-in', 'Takeout']",[],Bistro,32 Tổ 6 Kp3
+41,lẩu cháo dũng khương quận 12,5.0,(5),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Family-friendly,282a D. Thị Mười
+42,"Queen - Mì Ý, Pizza và Gà Chiên Phô Mai",5.0,(2),None,"['Dine-in', 'Drive-through', 'Delivery']",['Open 24 hours'],Fast Food,13 Tân Thới Hiệp 6
+43,Phở Phương,4.1,(17),None,"['Dine-in', 'Takeout']",[],Bistro,109 Đ.Trương Thị Hoa
+44,Cháo ếch singapore Ba Kun,4.6,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,138 Đ.Trương Thị Hoa

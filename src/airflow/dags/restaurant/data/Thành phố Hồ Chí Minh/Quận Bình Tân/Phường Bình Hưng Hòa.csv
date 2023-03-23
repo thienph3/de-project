@@ -1,0 +1,22 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,A Mà Kitchen,4.0,"(1,342)",,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,62 Võ Văn Tần
+1,Be Thui Nóng 145,1.0,(1),,"['Dine-in', 'Takeout']",[],Restaurant,145 Đường số 5
+2,Tango Quán,5.0,(4),,"['Dine-in', 'Takeout']",[],Seafood,247 Đ. 26/3
+3,Cố Nhân Quán,4.1,(56),,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,88 Đường số 5
+4,Công ty,,,,['Dine-in'],['Open now'],Restaurant,2B Đường số 5
+5,Quán Phở Phan Văn Chón,3.0,(2),,"['Dine-in', 'Takeout']",[],Restaurant,"195, Quốc Lộ 1A, Khu Phố 1, Phường Bình Hưng Hòa, Quận Bình Tân, Thành Phố Hồ Chí Minh"
+6,Hủ Tiếu - Cẩm Tú,4.0,(2),,"['Dine-in', 'Takeout']",[],Restaurant,"RJ43+VFV, Đường Số 4"
+7,Điểm lưu,,,,"['Dine-in', 'Takeout']",[],Restaurant,135 Đ. Số 7
+8,*CƠM TẤM 39*,4.5,(2),,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,39 Đ. Số 9
+9,Quán Ăn Chín Sơn,4.7,(13),,['Dine-in'],[],Restaurant,RJ22+37M
+10,Vịt Rôti Chín Màu,,,,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Vietnamese,82 Đ. Số 13
+11,Nha Tro Thang,4.6,(7),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,RJ84+C6X
+12,Quán Ốc Aka,4.4,(34),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,20 Đường số 5
+13,Phở Thiên Hưng,,,,"['Dine-in', 'Curbside pickup', 'Delivery']",['Open 24 hours'],Asian,125 Đường số 5
+14,Quán Cơm 425,,,,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,425 QL1A
+15,Quán Cơm Mỹ Huyền,5.0,(1),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,"Đường Số 15, Phường Bình Hưng Hòa, Quận Bình Tân, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
+16,Nhạc,,,,"['Dine-in', 'Takeout']",[],Restaurant,8 Đ. Số 4
+17,Cố Đô Quán,4.1,(8),,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,217 Đ. 26/3
+18,Quán Phở Cô Hai,4.8,(12),,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,46 Đường số 5
+19,Nhà Hàng 109,2.8,(4),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"180, Đường Số 1A, Phường Bình Hưng Hòa B, Quận Bình Tân, Thành Phố Hồ Chí Minh"
+20,Hồ Câu Tôm,4.0,(2),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Family-friendly,164 Đường số 8

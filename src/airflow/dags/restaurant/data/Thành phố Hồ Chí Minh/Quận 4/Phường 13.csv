@@ -1,0 +1,11 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cơm Tấm Bãi Rác,3.6,(377),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,73 Lê Văn Linh
+1,Localthai Restaurant,4.1,(329),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 9:30\u202fPM ⋅ Opens 10\u202fAM Fri']",Thai,89/19 Đoàn Văn Bơ
+2,Pho 29,4.2,(54),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Pho,29 Đoàn Văn Bơ
+3,Cơm Bình Dân,None,None,None,"['Dine-in', 'Takeout']",[],Vietnamese,520 Đoàn Văn Bơ
+4,Quán nướng Ớt Xanh 1/10,4.4,(20),None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,QP85+69G
+5,Quán 7 ngày 7 món,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,"QP43+R2Q, Đường số 13"
+6,Phở Hằng,4.7,(6),None,"['Dine-in', 'Takeout']",[],Bistro,QP65+W6X
+7,Việt Hàu 2 (1/15 Hoàng Diệu),None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 2\u202fAM']",Bistro,QP85+585
+8,Đồ ăn ngon,5.0,(1),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 6\u202fAM Fri']",Bistro,23 Đoàn Văn Bơ
+9,Thien Tan Restaurant,4.2,(460),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,13 Tôn Đản
