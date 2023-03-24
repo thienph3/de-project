@@ -283,7 +283,7 @@ services:
       POSTGRES_PASSWORD: 123456 
       POSTGRES_DB: dwh
     ports: 
-      -5432:5432
+      - 5432:5432
     volumes:
       - postgres-db-volume:/var/lib/postgresql/data
     healthcheck:
@@ -291,6 +291,15 @@ services:
       interval: 5s
       retries: 5
     restart: always
+  
+  pgadmin:
+    container_name: pgadmin_container
+    image: dpage/pgadmin4
+    volumes:
+       - pgadmin:/var/lib/pgadmin
+    ports:
+      - 80:80
+    restart: unless-stopped
 
 volumes:
   postgres-db-volume:
