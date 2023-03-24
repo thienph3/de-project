@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Sushi 107,4.6,(47),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,107 Đường số 10
+1,Mochi sushi,4.6,(15),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,150 Đường số 10
+2,Hảo Phong Quán,5.0,(10),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Mandarin restaurant,187/21 Minh Phụng
+3,Quán ăn gia đình Khải Thắng,4.8,(10),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Chinese,127 Đường số 26
+4,KHU 03,4.5,(99),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 12:30\u202fAM']",Restaurant,178/3 Đ. Hậu Giang
+5,Bò Nướng Ngói 52,4.8,(12),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,52 Đường số 10
+6,Quán Ăn Tám Hiền,2.4,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,93 Đường Số 10 Cx Rađa
+7,VƯỜN BIA CÔNG VIÊN,4.6,(183),None,"['""Combo ', 'food', ' &amp; bia ngon đáng giá tiền, nhất là ở quán có bán dòng&nbsp;...""']","['Open', ' ⋅ Closes 11:30\u202fPM']",Beer Garden,26 Đường Số 21
+8,Hẻm quán,4.1,(372),None,"['""Absolute favorite ', 'restaurant', ' HCM. ', 'Food', ' is always fantastic, no matter&nbsp;...""']","['Open', ' ⋅ Closes 11\u202fPM']",Bistro,227 Đường Trần Văn Kiểu
+9,Sen Trang Restaurant,4.3,(254),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 9:30\u202fPM ⋅ Opens 8\u202fAM Fri']",Vegan,37 Đường số 10
+10,Nhà Bún Đậu,4.6,(122),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 10:30\u202fAM Fri']",Bistro,23 Song Hành
+11,Rice Restaurant 68,3.9,(23),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 8\u202fAM Fri']",Restaurant,68 Đường Trần Văn Kiểu
+12,Tohi coffee,4.1,(177),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 6\u202fAM Fri']",Coffee shop,D46 Đường số 10
+13,Cafe Mori,4.1,(168),None,['Dine-in'],"['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 7:30\u202fAM Fri']",Coffee shop,120 Đường số 10
+14,Bún Bắp Bò Hương Xưa,4.4,(18),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Vietnamese,"26-27 Lô Q Cư Xá P. Lâm D, Bình Phú"
+15,Bánh Ướt- Nguyễn Văn Luông,4.3,(105),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 8\u202fAM Fri']",Restaurant,135 Đ. Nguyễn Văn Luông
+16,Chi Dao Bao Dimsum,4.1,(222),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 7\u202fAM Fri']",Restaurant,97-99 Đường Lý Chiêu Hoàng
+17,Quán 210,4.1,(18),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 9\u202fAM Fri']",Bistro,Đường Đ. Nguyễn Văn Luông
+18,Tuc Mach Seafood &amp; Beer,4.5,(40),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Asian,32 - 34 - 36 Đường Lý Chiêu Hoàng
+19,Lẩu Dê Thuận Phát,4.2,(60),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Vietnamese,52 Song Hành

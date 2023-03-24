@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Tính,4.8,(4),None,"['Dine-in', 'Takeout']",[],Bistro,07 Hố Bò
+1,Bò Tơ Tính,5.0,(1),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Bistro,4FHH+RXM
+2,Nhà Hàng Phú Mỹ,5.0,(2),None,['Dine-in'],"['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 7\u202fAM Fri']",Restaurant,"4FX6+HM5, Đ. Tỉnh Lộ 15"
+3,Quán Ăn Hồng Thắm,5.0,(4),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 9\u202fAM Fri']",Bistro,Trung Lập
+4,Nhà hàng Bến Dược Củ Chi,3.2,(62),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 6\u202fAM Fri']",Restaurant,"4FX5+CFG, Đường Không Tên"
+5,Điểm dừng chân Phú Mỹ Hưng củ chi,3.9,(39),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9:30\u202fPM ⋅ Opens 7\u202fAM Fri']",Restaurant,1925 Đ. Tỉnh Lộ 15
+6,Quán Ăn Thanh Hùng,4.5,(2),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9:30\u202fPM ⋅ Opens 6\u202fAM Fri']",Restaurant,1957 Đ. Tỉnh Lộ 15
+7,Ẩm thực Minh Quân,4.4,(5),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"4FX6+9QR, Đ. Tỉnh Lộ 15"
+8,Quán ăn hố bò,4.3,(8),None,"['Dine-in', 'Takeout']",[],Family-friendly,02 Hố Bò
+9,Quán Ăn Công Danh,4.5,(8),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 7\u202fAM Fri']",Restaurant,"4FQF+6JP, Đ. Tỉnh Lộ 15"
+10,Hồ câu hoàng anh,4.2,(16),None,['Dine-in'],['Open 24 hours'],Restaurant,4CGV+8PG
+11,Quán Cô Hai,3.3,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"4FMG+GQJ, Đ. Tỉnh Lộ 15"
+12,Quán ăn Hồng Đào,5.0,(1),None,"['Dine-in', 'Takeout']",[],Restaurant,"4F5Q+G4M, Bến Súc"
+13,Chè Bưởi Cô Thủy,None,None,None,"['Dine-in', 'Takeout']",[],Bistro,971 Trung Lập
+14,Quán Ốc Thanh Bình,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,2054 Đ. Tỉnh Lộ 15
+15,QUÁN ĂN PHƯƠNG LINH,4.7,(9),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 5\u202fAM Fri']",Breakfast,1066a Trung Lập
+16,Bò tơ Trường Lạc,4.1,(334),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 9\u202fAM Fri']",Restaurant,Tổ 1 Trung Lập
+17,Nhà vườn màu hồng,4.7,(3),None,[],['Open 24 hours'],Restaurant,37 Hà Thị Kiểm
+18,Quán ăn Phú Mỹ,5.0,(1),None,"['Dine-in', 'Drive-through', 'No delivery']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Bistro,2054 Đ. Tỉnh Lộ 15
+19,Cháu vịt.hồng Diễm,4.3,(7),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 1\u202fPM Fri']",Bistro,175 Phú Hiệp

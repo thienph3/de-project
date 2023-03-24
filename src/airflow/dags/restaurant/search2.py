@@ -15,7 +15,7 @@ import pandas as pd
 import random  
 import subprocess
 from tqdm import tqdm
-SCROLLING_NUMBER = 10
+SCROLLING_NUMBER = 10 
 def ward_district_search_term(city = None):
     root = './dags/restaurant'
     location_path = root + '/cfg/city_district_ward.csv' 
@@ -32,7 +32,7 @@ def ward_district_search_term(city = None):
     if not os.path.exists(city_path):
         os.mkdir(city_path)
 
-    for district in df['District'].unique()[0:6]: 
+    for district in df['District'].unique()[6:11]: 
         district_path = root + '/data/{}/{}'.format(city, district)
         if not os.path.exists(district_path):
              os.mkdir(district_path)
@@ -62,6 +62,7 @@ def find_values(web_element, css):
 
 
 def read_element(driver, fpath):
+
     if os.path.exists(fpath):
         print("----> not read")
         return 
@@ -92,7 +93,6 @@ def read_element(driver, fpath):
             open_time = find_values(
                     result, "div.W4Efsd > div.W4Efsd > span > span > span")
             #print(open_time)
-            
             b = find_values(result, "div.W4Efsd > div.W4Efsd > span > span")
             if b and len(b) > 3:
                 restaurant_type = b[0]
@@ -100,8 +100,9 @@ def read_element(driver, fpath):
             else: 
                 restaurant_type = None
                 address = None
-
-
+            restaurant_type = b[0]
+            address = b[2]
+             
             _data =  {'name': name, 
                      'stars': stars, 
                      'review': reviews, 
@@ -118,14 +119,12 @@ def read_element(driver, fpath):
 
         if os.path.exists(fpath):
             df_old = pd.read_csv(fpath, index_col=0)
-            #df_old = df_old.astype(str)
+            df_old = df_old.astype(str)
+            #print(df_old.dtypes)
             print("file exists, with {} rows".format(df_old.shape[0]))
             print(df_old.columns)
             print(df_old.head(3))
-            df = pd.concat(
-                    [df_old, df_temp],ignore_index=True
-                    ).drop_duplicates().reset_index(drop=True)
-
+            df = pd.concat([df_old, df_temp],ignore_index=True).drop_duplicates().reset_index(drop=True)
             print("-----> append to have total {}".format(df.shape[0]))
         else:
             df = df_temp
@@ -140,7 +139,6 @@ def read_element(driver, fpath):
             # TODO: save result here
     except Exception as e:
         print(e)
-    return 
 
 
 def scrolling_next(driver):

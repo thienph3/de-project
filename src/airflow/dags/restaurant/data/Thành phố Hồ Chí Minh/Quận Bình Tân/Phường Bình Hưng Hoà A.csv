@@ -1,0 +1,13 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Số 9 đường số một phường bình Hưng hoà a quận bình Tân,,,,['Dine-in'],['Open now'],Restaurant,9 Đường số 1
+1,A Cay Quán,,,,"['Dine-in', 'Takeout']",[],Restaurant,138 Đ. Số 4
+2,Nhạc,,,,"['Dine-in', 'Takeout']",[],Restaurant,8 Đ. Số 4
+3,Quán Bờ Hồ,4.0,(6),,"['Dine-in', 'Takeout', 'Delivery']",[],Bistro,3 Đ. Số 4
+4,Phở Thảo,5.0,(8),,"['Dine-in', 'Drive-through']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,33A Đường Số 19
+5,Quán Cơm Trưa,3.3,(3),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Lunch,25 Đ. Liên khu 8-9
+6,Ốc Hút,4.7,(23),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,81 Kênh Nước Đen
+7,Cơm Tấm Tí Nị,,,,"['Dine-in', 'Takeout']",[],Bistro,79 Đ. Số 4
+8,Hồ Đặng Trung Hiếu,,,,"['Dine-in', 'Curbside pickup']","['Closed', ' ⋅ Opens 10\u202fAM Sun']",Bistro,Đ. Liên khu 8-9
+9,Dê Tươi 81,3.0,(1),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,81 Đ. Gò Xoài
+10,Minh Duy,,,,['Dine-in'],[],Restaurant,462A Mã Lò
+11,Nhà Hàng Cầu Trắng,4.1,(122),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,285 Bình Long

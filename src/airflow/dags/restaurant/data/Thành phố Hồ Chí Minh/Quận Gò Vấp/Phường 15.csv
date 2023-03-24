@@ -1,0 +1,13 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Ăn 218,4.3,(3),,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Bistro,"218, Thống Nhất, Phường 15, Quận Gò Vấp, Thành Phố Hồ Chí Minh"
+1,Quán Giải Khát,,,,"['Dine-in', 'Takeout']",[],Restaurant,"646/27, Lê Đức Thọ, Phường 15, Quận Gò Vấp, Thành Phố Hồ Chí Minh"
+2,Quán Ốc Tre,3.8,(4),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,187 Đ. Số 6
+3,Phở Bát Đá Thuỷ Mộc,3.8,(19),,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,742 Đ. Lê Đức Thọ
+4,Cơm Phần Dĩa Hộp 799,,,,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,"799, Thống Nhất, Phường 13, Quận Gò Vấp, Thành Phố Hồ Chí Minh"
+5,Ốc Út Vân,4.0,(3),,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,79 Lê Hoàng Phái
+6,Phá Lấu Cô Ba Vân,5.0,(1),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Vietnamese,288 Đ. Thống Nhất
+7,Quán Ốc Thảo,3.8,(33),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,"42, Thống Nhất, Quận Gò Vấp, Đ. Thống Nhất"
+8,Quán Tứ Quý,5.0,(3),,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Asian,855 Đ. Thống Nhất
+9,Công Ty TNHH Thương Mại Nguyễn Hồng Hạnh,,,,['Dine-in'],[],Restaurant,1 Đ. Thống Nhất
+10,Cháo lòng Kim Thanh,,,,"['Dine-in', 'Takeout']",[],Vietnamese,790 Đ. Thống Nhất
+11,Quán cháo lòng Chú Tư,,,,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 7\u202fPM']",Family-friendly,126 Đ. Số 5

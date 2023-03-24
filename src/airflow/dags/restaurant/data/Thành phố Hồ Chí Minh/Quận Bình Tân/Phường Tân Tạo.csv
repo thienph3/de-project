@@ -1,0 +1,19 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà Hàng,4.0,(27),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"66, Đường 1A, Phường Tân Tạo A, Quận Bình Tân, Thành Phố Hồ Chí Minh"
+1,AT Coffee,4.2,(123),,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Cafe,34 Đường số 46
+2,Quán Cơm Dũng Thuận,4.1,(25),,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 7:30\u202fPM']",Rice restaurant,"Đường Số 1, Phường Tân Tạo A, Quận Bình Tân, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
+3,Phương Quán 2,3.9,(102),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,56-64 Đường số 3
+4,Nhà Hàng Tân Tạo,3.8,(89),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"PHRW+22M, Đ. Dương Bá Cung"
+5,Quán Cơm Chay Việt 8 4357,4.5,(13),,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Rice restaurant,"4357, Nguyễn Cửu Phú, Phường Tân Tạo A, Quận Bình Tân, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
+6,Dê Tươi Tân Tạo,4.1,(8),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,46 Đường số 8
+7,Hương Cau Quán,4.1,(41),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Fish restaurant,"Đường Số 3B, Phường Tân Tạo A, Quận Bình Tân, Thành Phố Hồ Chí Minh"
+8,QUÁN HỦ TIẾU MÌ TRIỀU CHÂU,4.5,(13),,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Bistro,"1123/6, 3A"
+9,Nhà hàng tiệc cưới Nhất Lan,3.9,(181),,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,1157 QL1A
+10,Tanchou Bình Tân - Quán ăn Nhật Bản,4.5,(142),,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Japanese,257 Đường số 7
+11,Saigon rose,4.1,(34),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,214 Đ. Vành Đai Trong
+12,Quán Cafe Mang Đi Góc Phố,5.0,(2),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"Tỉnh Lộ 10, Phường Tân Tạo, Quận Bình Tân, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
+13,Quán Phở 46,3.7,(3),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,46 Hồ Văn Long
+14,Quán Bún Mắm Thu Thảo,4.2,(6),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"607, Tỉnh Lộ 10, Phường Tân Tạo, Quận Bình Tân, Thành Phố Hồ Chí Minh"
+15,Quán Ăn 31A,5.0,(1),,"['Dine-in', 'Takeout']",[],Restaurant,15 Đường Số 4
+16,Quán Cơm Mỹ Ý,4.3,(3),,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Rice restaurant,"Đường Số 5, Phường Tân Tạo A, Quận Bình Tân, Thành Phố Hồ Chí Minh"
+17,Há Cảo - Ăn Vặt Phương Hà,5.0,(1),,"['Dine-in', 'Takeout']",[],Restaurant,3 Hẻm 1074
