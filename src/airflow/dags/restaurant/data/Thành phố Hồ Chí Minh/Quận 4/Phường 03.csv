@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Chilli Bbq Hotpot Restaurant,4.0,(635),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 12:30\u202fAM ⋅ Opens 4\u202fPM Fri']",Barbecue,232 Vĩnh Khánh
+1,HẺM QUÁN,5.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 3\u202fAM']",Bistro,99 Vĩnh Khánh
+2,Nhà Kem,5.0,(1),None,['Dine-in'],[],Restaurant,"956w6, Đoàn Văn Bơ"
+3,Tỷ Muội Quán,4.4,(23),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Seafood,59 Vĩnh Khánh
+4,Food in Q4,4.2,(17),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 7:30\u202fAM Fri']",Restaurant,"122/27/45Ter, Tôn Đản"
+5,Sushi Ko,4.1,"(1,141)",None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 11\u202fAM Fri']",Sushi,122 Vĩnh Khánh
+6,Hủ tiếu má heo,None,None,None,"['Dine-in', 'Takeout']",[],Family-friendly,811W Đường Số 20
+7,Quán Ốc 662,3.8,(6),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 8\u202fAM Fri']",Seafood,662 Vĩnh Khánh
+8,Quán Khói - Ốc Thuyền,4.1,(66),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 1\u202fAM']",Restaurant,"mặt tiền, 122, 37/9 Vĩnh Khánh"
+9,Ốc Đào 2,4.0,(441),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 9\u202fAM Fri']",Seafood,123 Vĩnh Khánh
+10,Quán Lãng 2,3.8,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 2\u202fAM']",Asian,232 Vĩnh Khánh
+11,Quán Cơm 346,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Rice restaurant,346 Đoàn Văn Bơ
+12,Localthai Restaurant,4.1,(329),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Thai,89/19 Đoàn Văn Bơ
+13,Vú Heo Nướng Tiến Lên,None,None,None,[],"['Open', ' ⋅ Closes 5\u202fAM Fri']",Restaurant,89 Vĩnh Khánh
+14,Sườn Muối Ớt Quận 4,4.0,(118),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 5\u202fAM Fri']",Restaurant,712 Vĩnh Khánh
+15,Quán Khánh Hào Kin Sushi,4.1,(23),None,"['""Nice ', 'food', ' amd good service,&nbsp;...""']",[],Bistro,122 Vĩnh Khánh
+16,Sushi H,4.7,(6),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Sushi takeaway,531 Vĩnh Khánh
+17,Ốc Đẹp,4.4,(5),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 3\u202fPM Fri']",Seafood,553 Vĩnh Khánh
+18,Bào Ngư Nướng Anh Sáu,4.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 3\u202fPM Fri']",Bistro,779 Vĩnh Khánh
+19,Gami Sushi,4.6,(44),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Japanese,158 Đường 20 Thước

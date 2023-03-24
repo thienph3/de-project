@@ -1,0 +1,14 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Cắt Tóc,None,None,None,['Dine-in'],[],None,None
+1,Thanh Thanh,None,None,None,['Dine-in'],[],None,None
+2,Nhà hàng ẩm thực hồ sen,4.1,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,94 P. Yên Sở
+3,Quán Phở Thúy Nga,4.2,(169),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fAM Sat']",Restaurant,"XV8F+4G6, Unnamed Road"
+4,Hoàng Mai Quán,4.6,(38),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,48 P. Hưng Thịnh
+5,Lakeside Restaurant,4.1,(8),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,XV65+MPH
+6,Anh Tien Seafood Restaurant,5.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Seafood,50 Đ. Tam Trinh
+7,Bia Hơi Hà Nội 122 Và Các Món Nhậu,4.3,(23),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,Ngõ 885 Đ. Tam Trinh
+8,Quán cơm xe tải sáng hòa,4.1,(17),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5\u202fPM']",Restaurant,Số 192 Phố Yên Sở
+9,Giò chả phương anh,4.5,(6),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 7\u202fPM']",Fast Food,"số nhà 22 ngõ, 59 phố P. Hưng Phúc"
+10,Quán Cơm Bình Dân 178,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+11,Nhà Hàng Hải Sản Yến,None,None,None,['Dine-in'],[],None,None
+12,Nhà Hàng Hoàng Mai,None,None,None,"['Dine-in', 'Takeout']",[],None,None

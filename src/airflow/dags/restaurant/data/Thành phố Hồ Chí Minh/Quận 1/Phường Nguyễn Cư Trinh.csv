@@ -55,3 +55,18 @@
 53,Quán A Phí,3.8,(5),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 11:30\u202fAM Fri']",Bistro,TK37/23 Đ. Nguyễn Cảnh Chân
 54,Quán Mẹ Tôi,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,13/8 Hẻm 457 Trần Hưng Đạo
 55,Restaurante autóctono,5.0,(1),None,"['Dine-in', 'Takeout']",[],Restaurant,391/19 Đ. Trần Hưng Đạo
+56,Kasen Omakase,4.4,(311),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM Fri']",Authentic Japanese,101 Đ. Lê Thị Riêng
+57,Bambino,5.0,(1),None,"['Dine-in', 'Takeout', 'No delivery']","['Open', ' ⋅ Closes 2\u202fAM']",Restaurant,Tôn Thất Thiệp/29-31 ward
+58,The First Bar,4.5,(280),None,"['""All time favorite, cozy bar and delicious ', 'food', '.""']","['Open', ' ⋅ Closes 1\u202fAM']",Grill,8A/7B2 Thái Văn Lung
+59,Torisho,4.4,(502),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 5\u202fPM Fri']",Izakaya,11B1 Thái Văn Lung
+60,NHAU NHAU,4.4,(35),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 5\u202fPM Fri']",Vietnamese,89 Tôn Thất Đạm
+61,Wakaba - Japanese restaurant,4.3,(275),$$$,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 1:30\u202fAM']",Japanese,28 Thái Văn Lung
+62,Saigon Grill Restaurant,4.2,(923),$$$,"['Dine-in', 'Takeout', 'No delivery']","['Closed', ' ⋅ Opens 4\u202fPM Fri']",Vietnamese,Pasteur/91 Ward
+63,Ngon Restaurant,4.0,"(7,393)",None,['The best Chả giò in the world'],"['Closed', ' ⋅ Opens 7:30\u202fAM Fri']",Vietnamese,160 Pasteur
+64,Anan Saigon,4.3,"(1,027)",None,"['The 15 Best Restaurants in Ho Chi Minh City, Vietnam']","['Closed', ' ⋅ Opens 5\u202fPM Fri']",Vietnamese,89 Tôn Thất Đạm
+65,Au Parc Restaurant,4.4,"(1,387)",None,['Where to Eat in Ho Chi Minh City : Western and Vietnamese Restaurant Recommendations'],"['Closed', ' ⋅ Opens 7:30\u202fAM Fri']",Restaurant,23 Hàn Thuyên
+66,TAN LAP,3.9,(339),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11:59\u202fPM']",Restaurant,277 Đ. Lê Thánh Tôn
+67,Chanh Bistro Rooftop Saigon,4.4,(702),$$$,"['Dine-in', 'Takeout', 'No delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM']",Western,"Rooftop level, 215 Lý Tự Trọng"
+68,Tra An Food,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+69,Sushi Tei Vietnam,4.2,"(1,784)",$$$,['The Top 7 Japanese Restaurants In Saigon'],"['Closed', ' ⋅ Opens 11\u202fAM']",Sushi,200A Lý Tự Trọng
+70,Chiyoda Sushi Bến Thành,4.4,"(1,227)",None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closed', ' ⋅ Opens 11\u202fAM']",Sushi,256 Đ. Lê Thánh Tôn

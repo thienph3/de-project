@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà Hàng Allante,3.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+1,Maison Vie,4.3,(454),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Haute French,Số 28 Phố P. Tăng Bạt Hổ
+2,RICO Seafood &amp; Grills,4.1,(75),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,1A P. Tăng Bạt Hổ
+3,Tây Bắc Quán,4.5,(54),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,12 P. Lê Văn Hưu
+4,Hoa Vien Restaurant,4.2,"(1,193)",$$$,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11:30\u202fPM']",Beer hall,1A P. Tăng Bạt Hổ

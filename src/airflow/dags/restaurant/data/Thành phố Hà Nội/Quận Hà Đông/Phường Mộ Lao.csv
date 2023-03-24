@@ -1,0 +1,25 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà Hàng Ẩm Thực Dân Tộc,4.2,(6),None,"['Dine-in', 'Takeout']",[],None,None
+1,Quán An Bình Cafe,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,quán ăn,5.0,(10),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5:30\u202fAM Sat']",Noodle Shop,6 Ngõ 6 Ngô Đình Mẫn
+3,Bún chả,4.5,(4),None,"['Dine-in', 'Takeout']",[],None,None
+4,Quán Thịt Cầy Lá Sông Đà 2,4.0,(3),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+5,Nhà hàng dê Sơn dương la khê,4.0,(55),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,307 tổ 4
+6,S Cafe,5.0,(7),None,['Dine-in'],[],None,None
+7,Nhà hàng Sông Quê,4.2,(37),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,299 P. Tố Hữu
+8,Nhà Hàng Thanh Dũng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,"LK50 - ngõ 22 đường Lê Trọng Tấn,, La Khê, Hà Đông, Hà Nội, Việt Nam",5.0,(3),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,ngõ 22 Đ. Lê Trọng Tấn
+10,Nhà Hàng Bảo Sơn,3.8,(21),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"Vòng xoay Lê Trọng Tấn, Tố Hữu"
+11,Nhà hàng cá Sông Đà,4.1,(21),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"XQ94+R89, Yên Lộ"
+12,"Nhà hàng Dê Ngon 82 - Dê Ngon Thả Ga, Không Lo Về Giá",4.2,(122),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,268 P. Tố Hữu
+13,"Quán nước số nhà 5E đường Chiến Thắng, Tổ 1",None,None,None,['Dine-in'],[],None,None
+14,Quán Cơm Thanh Lài,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+15,Nhà hàng Hưng Thuỷ - Gà già Đông Tảo,5.0,(11),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Chicken,"LK 783 Cầu La Khê, Đ. Lê Trọng Tấn"
+16,Hàng lòng lợn Hương Thắng,5.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4:30\u202fPM']",Bistro,"XQ96+F9F, Unnamed Road"
+17,Các món gà,3.2,(5),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+18,circle k hà đông,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+19,Café Như Ý Silk,3.0,(1),None,['Dine-in'],[],None,None
+20,Café 22,4.0,(1),None,['Dine-in'],[],None,None
+21,Nhà Hàng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"9, Xa La, Quận Hà Đông, Thành Phố Hà Nội"
+22,Quán cafe AHO,2.3,(7),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,28 Đường TT7
+23,Nhà Hàng Cầu Am,4.0,(93),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,12 Trưng Trắc

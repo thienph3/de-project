@@ -1,0 +1,23 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Biển Bia Đức Anh Cơ Sở ll,None,None,None,[],[],None,None
+1,Thu Quý số 1 Quang Trung,4.3,(3),None,['Dine-in'],[],None,None
+2,Nhà Hàng Hồng Kỳ,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,251 Đ. Quang Trung
+3,Vườn Bia Quang Trung,4.1,(39),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,Số 18 Ngõ 2
+4,Bảo Đan Cakes and Drinks,5.0,(6),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,17 Ng. 195 Đ. Quang Trung
+5,Cửa Hàng Hoa,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+6,Phở 257,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+7,Nhà Hàng Dũng Ộp,3.8,(93),None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,XQCF+M22
+8,Quán phở Tịnh,3.0,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Fast Food,171 Đ. Quang Trung
+9,Decor Hướng Nhật,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 12\u202fAM Sat']",Restaurant,269 Đ. Quang Trung
+10,Feeling Tea,3.8,(178),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Vietnamese,169 Đ. Quang Trung
+11,Nhà Hàng Hưng Dung,None,None,None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,677 Đ. Quang Trung
+12,Xôi Trung Béo,4.7,(15),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5:30\u202fPM']",Restaurant,168 Đ. Quang Trung
+13,Phở Hùng Gù,3.8,(145),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Pho,"XQ9F+FF6, Ng. 195 Đ. Quang Trung"
+14,Cơm Rang Thập Cẩm,4.2,(6),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,476 Đ. Quang Trung
+15,Super Tiger 179 Quang Trung,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,179 QL6
+16,Chè Sầu Thể Giao 117 Quang Trung,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Fast Food,117 Đ. Quang Trung
+17,Café Như Ý Silk,3.0,(1),None,['Dine-in'],[],None,None
+18,Café 22,4.0,(1),None,['Dine-in'],[],None,None
+19,Nhà Hàng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"9, Xa La, Quận Hà Đông, Thành Phố Hà Nội"
+20,Quán cafe AHO,2.3,(7),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,28 Đường TT7
+21,Nhà Hàng Cầu Am,4.0,(93),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,12 Trưng Trắc

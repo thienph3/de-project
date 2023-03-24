@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Phở Lý Quốc Sư,4.2,(195),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,120B1 P. Thành Công
+1,La Pizza Restaurant,4.6,(98),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,"H3, 101 P. Thành Công"
+2,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+3,Ita Food Trung Hoà,3.8,(26),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,74 P.Trung Hòa
+4,Cô Tô Restaurant Chelsea,3.8,(302),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Seafood,116 P. Trung Kính
+5,Cửa Hàng Rau An Toàn Hapro Food,3.3,(10),None,"['Dine-in', 'Takeout']",[],None,None
+6,Cafe &amp; Restaurant,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+7,Doncook Corn Grill &amp; BBQ,4.4,(634),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Korean,130 P.Trung Hòa
+8,Meat King BBQ Restaurant,4.5,(356),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Korean BBQ,Số 4 P. Trần Kim Xuyến
+9,Nhà hàng Dê Ré Song Dương,4.0,(815),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,39 P. Trần Kim Xuyến
+10,Nollowa Chicken Restaurant,4.1,(423),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Korean,"Số 3 lô 12A đường, Trung Yên 6"
+11,A Bản - 𝐌𝐨𝐮𝐧𝐭𝐚𝐢𝐧 𝐃𝐞𝐰 -,4.6,(136),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Vietnamese,76 P. Trần Phú
+12,Joy House Steak Restaurant,4.6,(25),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Steak,72 P.Trung Hòa
+13,Pao Quán Giảng Võ,4.0,(415),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,78 P. Giảng Võ
+14,Hà Anh Quán,None,None,None,['Dine-in'],[],None,None
+15,CityFood,4.5,(24),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"Trung tâm chiếu phim Quốc Gia (cổng, 378 P. Thái Hà"
+16,Quán Nhậu Thắng Quỳnh,4.4,(18),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"110 B2A, P. Thành Công"
+17,Quán Ao Làng,4.0,(14),None,"['Dine-in', 'Takeout']",[],None,None
+18,Cửa Hàng Hoa Quả Sạch Việt Nam,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,"Kiot 74, Trần Quý Cáp, Quận Đống Đa, Thành Phố Hà Nội"
+19,Nama Sushi,4.5,(250),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Japanese,42 P. Vũ Phạm Hàm

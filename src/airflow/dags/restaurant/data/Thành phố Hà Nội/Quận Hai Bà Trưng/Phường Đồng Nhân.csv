@@ -1,0 +1,5 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Phương an quán,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,686 P. Minh Khai
+1,Hà Nội,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,Huyền Diệu Cafe,4.5,(2),None,['Dine-in'],[],None,None
+3,Cafe Tùng Dương,4.0,(1),None,['Dine-in'],[],None,None

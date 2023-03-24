@@ -1,0 +1,44 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Ốc Nóng ngõ 51 Quốc Tử Giám,4.4,(24),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 3:30\u202fPM']",Restaurant,Ngõ 51 P. Quốc Tử Giám
+1,",mộc",None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,Cafe Liberty,4.0,(1),None,['Dine-in'],[],None,None
+3,Café Sàn Gỗ Anh Thơ,5.0,(1),None,['Dine-in'],[],None,None
+4,Quán Ẩm Thực phố Cổ,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+5,Quán Vịt 88,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+6,What the B Restaurant,4.6,(27),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Asian,23 P. Ngô Tất Tố
+7,Phố Cổ Phở Gà 41,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Hà Anh Quán,None,None,None,['Dine-in'],[],None,None
+9,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+10,Yamato,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+11,Nhà Hàng 56,None,None,None,['Dine-in'],"['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,56 P. Quốc Tử Giám
+12,Cafe Tre Việt,None,None,None,['Dine-in'],[],None,None
+13,Thu Huong,None,None,None,['Dine-in'],[],None,None
+14,Nương Bắc Món Ngon Hà Nội,4.2,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Hawker stall,27I P. Quốc Tử Giám
+15,Nhà A Phong,None,None,None,['Dine-in'],[],None,None
+16,Quán Phở Hồng Hạnh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+17,Gia Restaurant,4.6,(90),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 1:30\u202fPM ⋅ Reopens 6\u202fPM']",Fine Dining,61 P. Văn Miếu
+18,Nhà hàng cơm biryani,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,Cơm sườn nướng,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+20,Cháo trai 24 Đoàn Thị Điểm,4.2,(32),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6:15\u202fPM']",Porridge restaurant,2RGM+G44
+21,Gia Restaurant,4.6,(90),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fPM']",Fine Dining,61 P. Văn Miếu
+22,Quán Gà Ri,None,None,None,[],[],None,None
+23,Quán Bún Long Thành,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,WHJJ+QVX
+24,Gạch Đỏ Quán,4.7,(18),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,"WHJC+W3V, cổng làng"
+25,"tư Dâu-ăn sáng ,ăn đêm",4.6,(11),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 3\u202fAM']",Restaurant,WH9V+6PR
+26,Nhân Nghĩa Quán Tiểu Hổ,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,WHVX+MM9
+27,chơ phố cầu,None,None,None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,"WHJJ+VVM, Unnamed"
+28,Nhà hàng Nhà sàn BactomFarm,5.0,(1),None,['Dine-in'],[],None,None
+29,Ốc Bốn Mùa,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None
+30,Bún chả hà nội,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+31,Quán ăn Tư Râu,5.0,(1),None,"['Dine-in', 'Drive-through', 'Delivery']",[],None,None
+32,bia hơi Bông Bống,None,None,None,['Dine-in'],[],None,None
+33,Quán bún lòng Lương Tín,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+34,Quán Ngoan Dưỡng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+35,Bún phở kim xa,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+36,Cửa hàng bia hơi Tạo Lan,4.5,(2),None,['Dine-in'],[],None,None
+37,Phú Sơn Restaurant,4.6,(14),None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,"WHQ6+H2F, QL21"
+38,Việt Anh Quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+39,Nhà Hàng Ánh Nhung,4.7,(3),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Restaurant,"Km30, Quốc Lộ 6, Thôn Yên Kiện, Xã Đông Sơn, Huyện Chương Mỹ, Thành Phố Hà Nội, Thành Phố Hà Nội"
+40,Quán Ốc 86,5.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Bistro,WHWH+G28
+41,Nhà Hàng Bốn Khuyên,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+42,Ốc Nóng ngõ 51 Quốc Tử Giám,4.4,(24),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,Ngõ 51 P. Quốc Tử Giám

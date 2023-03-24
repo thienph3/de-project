@@ -1,0 +1,10 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Cơm Hiền,4.3,(28),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,214 P.Khương Trung
+1,Cửa Hàng Hoa Quả Tươi,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,Quán Café Tố Uyên,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+3,Công Ty TNHH Sinh Thịnh An Sang,None,None,None,"['Dine-in', 'Delivery']",[],None,None
+4,Quán Lẩu Lòng Bò,4.4,(20),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,426 Đ. Khương Đình
+5,Quán Ăn Thanh Loan,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+6,Du mục Quán,4.2,(10),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,381 P. Vũ Tông Phan
+7,Hiệu Lác Quán,4.4,(17),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,6 Ngh. 342/101 Đ. Khương Đình
+8,Khương Đình Quán,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Bistro,22 Đ. Khương Đình

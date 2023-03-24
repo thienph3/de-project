@@ -4,3 +4,38 @@
 2,Quán chòi xéo,4.7,(6),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"3F42+MGH, Unnamed Road"
 3,Trung Lap Thuong Primary School,4.2,(10),None,[],['Open 24 hours'],School,499Trung Lập
 4,Trạm Y Tế Xã Trung Lập Thượng,4.5,(2),None,[],[],Community health centre,83 Trung Lập
+5,Quán Thỏ Hoà Phú,None,None,None,"['Dine-in', 'Takeout']",[],Family-friendly,1478 TL8
+6,Ốc Minh,4.0,(1),None,['Dine-in'],[],Restaurant,"XJH8+HX9, Đường số 222"
+7,Nhà Hàng Ẩm Thực Hòa Phú,4.1,(74),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,1681 TL8
+8,Quán ăn Quốc Tuấn,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Restaurant,17 Nguyễn thị Hai
+9,Quán Phở Trang,4.1,(16),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Pho,1664 TL8
+10,Chi Nhánh 6 - Công Ty TNHH Một Thành Viên Thương Mại Dịch Vụ Thượng Hảo,None,None,None,['Dine-in'],[],Restaurant,359 Bến Than
+11,Quán Chị 5,4.1,(24),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,XJF7+PRW
+12,Công Ty TNHH Nhà Hàng Ẩm Thực Hòa Phú,3.7,(3),None,"['Dine-in', 'Takeout']",[],Restaurant,1681 TL8
+13,Quán Ăn Nhà Xưa,5.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Bistro,1481 TL8
+14,Quán Ăn Chị Năm,4.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8:30\u202fAM Fri']",Restaurant,Bến Than
+15,Quân Thò Hoà Phú,None,None,None,['Dine-in'],"['Closed', ' ⋅ Opens 10\u202fAM Fri']",Beer Garden,1478 TL8
+16,Kim Anh Quán,None,None,None,['Dine-in'],[],Bistro,XJGG+43H
+17,Ốc 39k Mỹ Dung,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,1725 TL8
+18,Quán ăn Hai He,3.9,(279),None,"['""Unique ', 'food', ' with reasonable pricing. Highly recommended!""']","['Closed', ' ⋅ Opens 10:30\u202fAM Fri']",Bistro,Ấp 1 Bến Than
+19,Quán Bác Ba,5.0,(1),None,"['Dine-in', 'Takeout']",[],Bistro,"XJF9+826, Đường Số 233"
+20,Quán Chị 5 (2),4.0,(25),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 3\u202fPM Fri']",Restaurant,XJHC+536
+21,Quán ăn 59,None,None,None,"['Dine-in', 'Takeout']",[],Bistro,1840 TL8
+22,Trung thu Quán,4.2,(33),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5\u202fAM Fri']",Restaurant,Đường Số 6
+23,"Bún riêu, hủ tiếu",None,None,None,"['Dine-in', 'Takeout']",[],Bistro,XHMW+2C8
+24,Quán cơm Hà Tiên,5.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Restaurant,XJJ4+G8Q
+25,Quán a tài,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Opens soon', ' ⋅ 9\u202fAM']",Restaurant,69/8 đường Cây Trôm Mỹ Khánh
+26,Út Tình Quán,4.0,(9),None,"['Dine-in', 'Takeout']",[],Restaurant,11A Đường 618
+27,Phong Đoàn,5.0,(2),None,['Dine-in'],[],Bistro,103 lê thị chừng
+28,Quán Bờ Kênh - Út Lan,4.2,(88),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 8:30\u202fPM']",Restaurant,2F22+PQF
+29,Hải sản 86,4.9,(8),None,"['Dine-in', 'Takeout']",[],Seafood,510 AH1
+30,Hủ tiếu Tư Dung,4.7,(12),None,"['Dine-in', 'Takeout']",['Open now'],Breakfast,53 Cây Trôm Mỹ Khánh
+31,Quán chay Bồ Đề,3.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,"364 quốc lộ 22, ấp cây trôm"
+32,Quán phở hà nội,None,None,None,"['Dine-in', 'Takeout']",[],Bistro,"2C3X+M89, Ba Sa"
+33,Quán Phở Lam Sơn,4.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,525 QL22
+34,Quán Út Đen,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10:30\u202fAM']",Restaurant,72 Cây Trôm Mỹ Khánh
+35,Bò tơ Phương Râu,4.0,(103),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"XCXX+26C, Unnamed Road"
+36,Gà Rán Khoai Lang Lắc Street Food Phước,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9:30\u202fAM']",Vietnamese,"Phước Hiệp 413 QL22 , Mui Con Dai Hamlet"
+37,Quán Ăn Thanh Hiền,3.0,(1),None,"['Dine-in', 'Takeout']",[],Restaurant,494 QL22
+38,Nhà : Trương Minh Vương,None,None,None,"['Dine-in', 'Takeout']",[],Family-friendly,549 QL22
+39,TRẠM DỪNG CHÂN XUYÊN Á ( Thùy Dương ),4.0,(11),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,552 QL22

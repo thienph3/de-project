@@ -1,0 +1,22 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,La Table Hanoia,4.3,(712),$$$,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,12 P. Lý Đạo Thành
+1,Quán E4 Cafe,4.2,(11),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Pho,"K17, 107"
+2,Dịch Vụ Quavatcongso.vn,None,None,None,['Dine-in'],[],None,None
+3,Nhà ăn A1-5 Bách Khoa,3.8,"(1,301)",None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,A15 P. Tạ Quang Bửu
+4,Phở Tái Nam,4.7,(3),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Pho,108 K9 P. Tạ Quang Bửu
+5,Quán Bụi Quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+6,Cơm tấm Sài Gòn Nam Phương,3.8,(96),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Barbecue,111E5 P. Tạ Quang Bửu
+7,Quán Phở Long Bách Khoa,3.9,(291),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,105 P. Nguyễn Hiền
+8,Pleiku Quán,3.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+9,Quán Thương Béo,4.2,(191),None,"['Dine-in', 'Curbside pickup']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,Ngõ 183 P. Trần Đại Nghĩa
+10,Quán Bún Cá Bách Khoa,4.1,(245),None,"['""Good ', 'restaurant', ' and affordable price.""']","['Open', ' ⋅ Closes 10\u202fPM']",Hawker stall,112 k3
+11,Nướng Sài Gòn,4.5,(10),None,['Dine-in'],['Open 24 hours'],Barbecue,10 P. Tạ Quang Bửu
+12,Quán Bánh Mì Chảo Hiệu Lực,4.1,(69),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,326 P. Bà Triệu
+13,Street Sushi,4.3,(304),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Sushi,464 Đội Cấn
+14,RAINBOW 분식,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 8\u202fPM']",Restaurant,6 Ng. 27 P.Tạ Quang Bửu
+15,Quán Ăn Bảo Khánh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+16,My Hai Restaurant,4.3,(109),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Bistro,63 P. Lò Sũ
+17,Phở Thanh Hà,4.0,(484),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,238 P. Lạc Trung
+18,Quán Buffet Sinh Viên,4.3,(3),None,['Dine-in'],[],None,None
+19,Quán Cơm rang Cô Tám,4.1,(283),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 3\u202fPM ⋅ Reopens 5\u202fPM']",Bistro,126 P. Hồng Mai
+20,Cơm thố Bách Khoa,4.0,(133),None,"['""If you wanna find a local ', 'restaurant', ' when arrived Hanoi this&nbsp;...""']","['Closes soon', ' ⋅ 2:50\u202fPM ⋅ Reopens 5\u202fPM']",Bistro,111 K2 Ng. 48 P. Tạ Quang Bửu

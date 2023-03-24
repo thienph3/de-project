@@ -1,0 +1,13 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Phở Dung,2.3,(3),None,"['Dine-in', 'Takeout']",[],None,None
+1,Quán Phở - Giải Khát,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+2,Phở Tùng,4.6,(41),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fAM Sat']",Restaurant,223 P. Kim Ngưu
+3,"Ha Noi Electrical Co.,Ltd",5.0,(2),None,['Dine-in'],[],None,None
+4,Nhà Hàng Bia Hơi Hà Nội Anh Dũng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Cafe Kiên,4.0,(2),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,170 P. Lạc Trung
+6,Phở Hòa,4.5,(23),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6:15\u202fAM Sat']",Restaurant,30 P. Lạc Trung
+7,Vũ Cafe,5.0,(1),None,['Dine-in'],[],None,None
+8,Phở Thanh Hà,4.0,(484),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,238 P. Lạc Trung
+9,Anna Steak,4.3,(75),None,"['""Great ', 'food', ' at good prices.""']","['Open', ' ⋅ Closes 10\u202fPM']",Steak,130A P. Lạc Trung
+10,Quán Cafe Vân,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+11,Hoang Lan Anh Restaurant,4.2,(9),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",African,880 Đ. Bạch Đằng

@@ -1,0 +1,9 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà Hàng Phù Đổng,4.5,(114),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,Thôn
+1,Ẩm Thực Minh Phú,5.0,(5),None,"['Dine-in', 'Curbside pickup', 'Delivery']",['Open 24 hours'],Restaurant,·
+2,Sky Coffee,3.8,(410),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,6R65+94C
+3,Cafe’ Phố Huyện,5.0,(41),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Cafe,34 Đa Phúc
+4,What the B Restaurant,4.6,(27),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Asian,23 P. Ngô Tất Tố
+5,Phở Phú,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Pho,"Ngõ 135, Hồ Đầm Tròn"
+6,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+7,Gia Restaurant,4.6,(90),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fPM']",Fine Dining,61 P. Văn Miếu

@@ -1,2 +1,22 @@
 ,name,stars,review,price,note,open_time,restautant_type,address
 0,Phường 13,None,None,None,[],[],Gò Vấp,Vietnam
+1,Alo Cơm Trưa,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5\u202fPM']",Restaurant,49 Đ. Kênh Tân Hóa
+2,CAO's Café - Cafe de Garden,4.4,(230),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,13 Đ. Kênh Tân Hóa
+3,"Trại Dê - 90 Luỹ Bán Bích, Tân Thới Hoà, Tân Phú",4.8,(32),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 11\u202fAM']",Vietnamese,90 Lũy Bán Bích
+4,Hủ tiếu mỳ cô Tài,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,ẨM THỰC 135,4.7,(11),None,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,135 Lũy Bán Bích
+6,Quán 47 Hoà Bình,4.6,(32),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,47 Hòa Bình
+7,O nở quán - Hotpot&amp;Grill,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None
+8,Nhà Hàng 70 Seventy,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,Quán Bánh Ướt Như Lan,4.4,(52),None,"['Dine-in', 'Drive-through']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,85 Hòa Bình
+10,Quán Cafe Chất,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+11,Quán Ăn Kỳ Anh,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,176 Hòa Bình
+12,Điểm Ăn Uống A &amp; Em,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+13,Ăn sáng cô Vân,5.0,(2),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10\u202fAM ⋅ Opens 6\u202fAM Sat']",Restaurant,13 Lương Đắc Bằng
+14,Cá viên chiên street food,5.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4:30\u202fPM']",Bistro,56 Lũy Bán Bích
+15,Nhà Hàng Sân Vườn 72,4.4,(22),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,72A Lũy Bán Bích
+16,Bữa Sáng Mẹ Nấu,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fAM Tue']",Breakfast,"Phòng A9-08, chung cư Quang Thái, 111B Lý Thánh Tông"
+17,Hủ Tiếu Cô Hạnh,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fAM']",Bistro,75/13 Lý Thánh Tông
+18,Cửa hàng ăn vặt,5.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 1:30\u202fPM']",Restaurant,49/8 Lương Thế Vinh
+19,Hoa Mai Quán - Chi Nhánh 1,4.0,(56),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 11\u202fAM']",Restaurant,23A Tô Hiệu
+20,Cơm gà chợ lớn,None,None,None,"['Dine-in', 'Takeout']",[],None,None

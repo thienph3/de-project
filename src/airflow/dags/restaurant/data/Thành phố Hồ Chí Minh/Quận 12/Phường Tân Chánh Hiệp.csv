@@ -1,24 +1,24 @@
 ,name,stars,review,price,note,open_time,restautant_type,address
-0,Ốc Ngã Tư phường tân chánh hiệp,4.5,(13),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,340 Tân Chánh Hiệp 10
-1,Quán Tuấn Anh,3.0,(2),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"313, Tân Chánh Hiệp 21, Phường Tân Chánh Hiệp, Quận 12, Thành Phố Hồ Chí Minh"
-2,Quán Sinh Tố Nước Ép Trái Cây Tô À Ngon,nan,nan,nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,132 Tân Chánh Hiệp 35
-3,QUÊ TA 4,4.0,(1),nan,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,31 Tân Chánh Hiệp 10
-4,Lê Minh Sài Gòn,5.0,(2),nan,"['Dine-in', 'Takeout']",[],Restaurant,Đường HT 44
-5,Vũ Tuấn Grill &amp; Hot Pot,5.0,(18),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Barbecue,115/2 Nguyễn Thị Búp
-6,The Monday Coffee,nan,nan,nan,"['Dine-in', 'Takeout']",[],Restaurant,"A12-A13, Đ. Nguyễn Ảnh Thủ"
-7,PHỐ 675 | Chill quận 12,3.8,(45),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,675 Đ. Nguyễn Ảnh Thủ
-8,Buffet Xiên Sạch Quận 12 | Buffet Quận 12 | Cà Phê Đại Việt,5.0,(13),nan,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,135 Lâm Thị Hố
-9,Quán Ăn Minh 6 Đơ,nan,nan,nan,"['Dine-in', 'Takeout']",[],Restaurant,73 Đ. Tân Chánh Hiệp 24
-10,Quán Bún Chả Thu Thủy,3.8,(6),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"Khu Phố 4, Lâm Thị Hố, Phường Tân Chánh Hiệp, Quận 12, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
-11,Thịt dê tươi Thạch Thảo,4.8,(5),nan,"['Dine-in', 'Takeout', 'Delivery']",[],Meat,"23/1e Tổ 30a Kp5, Tân Chánh Hiệp 35"
-12,GIA HÂN QUÁN,4.0,(2),nan,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,92/2 Tân Chánh Hiệp 34
-13,Ốc Như 2,nan,nan,nan,"['Dine-in', 'Takeout']",[],Restaurant,10/4 Tân Chánh Hiệp 25
-14,Bán lảu,nan,nan,nan,"['Dine-in', 'Takeout']",[],Restaurant,272 Tô Ký
-15,Quán Quê Ta,3.8,(14),nan,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Family-friendly,68 Đ. Huỳnh Thị Hai
-16,Quán Ốc 169,nan,nan,nan,"['Dine-in', 'Takeout']",[],Bistro,168 Tân Chánh Hiệp 10
-17,Quán ỐC Mười &amp; Lẩu,nan,nan,nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,435 Tân Chánh Hiệp 10
-18,ỐC GARAGE,5.0,(1),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,288 Tân Chánh Hiệp 10
-19,Ốc Lệ,3.9,(14),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,89 Tân Chánh Hiệp 10
+0,Ốc Ngã Tư phường tân chánh hiệp,4.5,(13),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,340 Tân Chánh Hiệp 10
+1,Quán Tuấn Anh,3.0,(2),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"313, Tân Chánh Hiệp 21, Phường Tân Chánh Hiệp, Quận 12, Thành Phố Hồ Chí Minh"
+2,Quán Sinh Tố Nước Ép Trái Cây Tô À Ngon,,,,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,132 Tân Chánh Hiệp 35
+3,QUÊ TA 4,4.0,(1),,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,31 Tân Chánh Hiệp 10
+4,Lê Minh Sài Gòn,5.0,(2),,"['Dine-in', 'Takeout']",[],Restaurant,Đường HT 44
+5,Vũ Tuấn Grill &amp; Hot Pot,5.0,(18),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Barbecue,115/2 Nguyễn Thị Búp
+6,The Monday Coffee,,,,"['Dine-in', 'Takeout']",[],Restaurant,"A12-A13, Đ. Nguyễn Ảnh Thủ"
+7,PHỐ 675 | Chill quận 12,3.8,(45),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,675 Đ. Nguyễn Ảnh Thủ
+8,Buffet Xiên Sạch Quận 12 | Buffet Quận 12 | Cà Phê Đại Việt,5.0,(13),,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,135 Lâm Thị Hố
+9,Quán Ăn Minh 6 Đơ,,,,"['Dine-in', 'Takeout']",[],Restaurant,73 Đ. Tân Chánh Hiệp 24
+10,Quán Bún Chả Thu Thủy,3.8,(6),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"Khu Phố 4, Lâm Thị Hố, Phường Tân Chánh Hiệp, Quận 12, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
+11,Thịt dê tươi Thạch Thảo,4.8,(5),,"['Dine-in', 'Takeout', 'Delivery']",[],Meat,"23/1e Tổ 30a Kp5, Tân Chánh Hiệp 35"
+12,GIA HÂN QUÁN,4.0,(2),,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,92/2 Tân Chánh Hiệp 34
+13,Ốc Như 2,,,,"['Dine-in', 'Takeout']",[],Restaurant,10/4 Tân Chánh Hiệp 25
+14,Bán lảu,,,,"['Dine-in', 'Takeout']",[],Restaurant,272 Tô Ký
+15,Quán Quê Ta,3.8,(14),,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Family-friendly,68 Đ. Huỳnh Thị Hai
+16,Quán Ốc 169,,,,"['Dine-in', 'Takeout']",[],Bistro,168 Tân Chánh Hiệp 10
+17,Quán ỐC Mười &amp; Lẩu,,,,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,435 Tân Chánh Hiệp 10
+18,ỐC GARAGE,5.0,(1),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,288 Tân Chánh Hiệp 10
+19,Ốc Lệ,3.9,(14),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,89 Tân Chánh Hiệp 10
 20,Ốc Ngã Tư phường tân chánh hiệp,4.5,(13),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,340 Tân Chánh Hiệp 10
 21,Quán Tuấn Anh,3.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"313, Tân Chánh Hiệp 21, Phường Tân Chánh Hiệp, Quận 12, Thành Phố Hồ Chí Minh"
 22,Quán Sinh Tố Nước Ép Trái Cây Tô À Ngon,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,132 Tân Chánh Hiệp 35
@@ -39,3 +39,23 @@
 37,Quán ỐC Mười &amp; Lẩu,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,435 Tân Chánh Hiệp 10
 38,ỐC GARAGE,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,288 Tân Chánh Hiệp 10
 39,Ốc Lệ,3.9,(14),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,89 Tân Chánh Hiệp 10
+40,Kasen Omakase,4.4,(311),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM Fri']",Authentic Japanese,101 Đ. Lê Thị Riêng
+41,Bambino,5.0,(1),None,"['Dine-in', 'Takeout', 'No delivery']","['Open', ' ⋅ Closes 2\u202fAM']",Restaurant,Tôn Thất Thiệp/29-31 ward
+42,The First Bar,4.5,(280),None,"['""All time favorite, cozy bar and delicious ', 'food', '.""']","['Open', ' ⋅ Closes 1\u202fAM']",Grill,8A/7B2 Thái Văn Lung
+43,Torisho,4.4,(502),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 5\u202fPM Fri']",Izakaya,11B1 Thái Văn Lung
+44,NHAU NHAU,4.4,(35),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 5\u202fPM Fri']",Vietnamese,89 Tôn Thất Đạm
+45,Wakaba - Japanese restaurant,4.3,(275),$$$,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 1:30\u202fAM']",Japanese,28 Thái Văn Lung
+46,Saigon Grill Restaurant,4.2,(923),$$$,"['Dine-in', 'Takeout', 'No delivery']","['Closed', ' ⋅ Opens 4\u202fPM Fri']",Vietnamese,Pasteur/91 Ward
+47,Ngon Restaurant,4.0,"(7,393)",None,['The best Chả giò in the world'],"['Closed', ' ⋅ Opens 7:30\u202fAM Fri']",Vietnamese,160 Pasteur
+48,Anan Saigon,4.3,"(1,027)",None,"['The 15 Best Restaurants in Ho Chi Minh City, Vietnam']","['Closed', ' ⋅ Opens 5\u202fPM Fri']",Vietnamese,89 Tôn Thất Đạm
+49,Au Parc Restaurant,4.4,"(1,387)",None,['Where to Eat in Ho Chi Minh City : Western and Vietnamese Restaurant Recommendations'],"['Closed', ' ⋅ Opens 7:30\u202fAM Fri']",Restaurant,23 Hàn Thuyên
+50,TAN LAP,3.9,(339),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11:59\u202fPM']",Restaurant,277 Đ. Lê Thánh Tôn
+51,Chanh Bistro Rooftop Saigon,4.4,(702),$$$,"['Dine-in', 'Takeout', 'No delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM']",Western,"Rooftop level, 215 Lý Tự Trọng"
+52,Tra An Food,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+53,Sushi Tei Vietnam,4.2,"(1,784)",$$$,['The Top 7 Japanese Restaurants In Saigon'],"['Closed', ' ⋅ Opens 11\u202fAM']",Sushi,200A Lý Tự Trọng
+54,Chiyoda Sushi Bến Thành,4.4,"(1,227)",None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closed', ' ⋅ Opens 11\u202fAM']",Sushi,256 Đ. Lê Thánh Tôn
+55,Quán Tino,3.8,(171),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 3\u202fPM']",Seafood,391/7 Đ. Trần Hưng Đạo
+56,Restaurante autóctono,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+57,Nhà Hàng Các Món Chay RÔU,4.1,(251),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,567A Đ. Trần Hưng Đạo
+58,Thanh's Kitchen,None,None,None,['Dine-in'],"['Closed', ' ⋅ Opens 11\u202fAM']",Restaurant,21/40a Trần Đình Xu
+59,Mì Ý Double B,4.3,"(1,472)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Italian,391TK40/24 Đ. Trần Hưng Đạo

@@ -4,3 +4,48 @@
 2,Quán chòi xéo,4.7,(6),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"3F42+MGH, Unnamed Road"
 3,Trung Lap Thuong Primary School,4.2,(10),None,[],['Open 24 hours'],School,499Trung Lập
 4,Trạm Y Tế Xã Trung Lập Thượng,4.5,(2),None,[],[],Community health centre,83 Trung Lập
+5,Quán 6 cua,4.4,(7),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Fri']",Restaurant,"XJGR+J6G, Unnamed Road"
+6,Nhà của Mr.Thái,None,None,None,['Dine-in'],[],Jewish,HL6
+7,Thanh Mân,None,None,None,['Dine-in'],[],Restaurant,1937 TL8
+8,Quán Ăn Tràm Chim,3.8,(353),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,49 Hà Duy Phiên
+9,Nhà Hàng Rạch Dứa,4.5,(65),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Family-friendly,53/4 Đường 181
+10,Bếp ăn tình thương,None,None,None,"['Dine-in', 'Takeout']",[],Vegetarian,"149, Đường Bình Mỹ/tổ 8 ấp 8"
+11,Quán Ăn Sáu Cua,3.0,(3),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Fri']",Restaurant,"XJFV+P4G, TL8"
+12,Nhà Hàng Bờ Sông Bình Mỹ( Lan Anh Villa),4.0,(21),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9:30\u202fAM Fri']",Restaurant,Đường 264 Hà Duy Phiên
+13,Hội Quán Chào Mào Bình Mỹ,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,"WJC2+VQQ, Võ Văn Bích"
+14,Quán Nghệ sĩ,4.3,(23),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Restaurant,"XJ4W+C32, Đ. Số 173"
+15,thanh nhi,None,None,None,['Dine-in'],['Open 24 hours'],Buffet,XJFP+8FW
+16,Quán Ăn Tình Cờ,4.5,(2),None,"['Dine-in', 'Takeout']",[],Restaurant,269 Võ Văn Bích
+17,Làng sinh thai Binh My,3.2,(12),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7:30\u202fAM Fri']",Restaurant,"XJ6X+X9H, Unnamed Road"
+18,Phở An Bình,4.2,(64),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Bistro,"WJVW+PMJ, TL9"
+19,Nồi Hâm Buffet - Dụng Cụ Buffet Tại Hồ Chí Minh,5.0,(2),None,['Dine-in'],"['Closed', ' ⋅ Opens 7:30\u202fAM Fri']",Restaurant,12B Đường 152
+20,Quán Ăn Bờ Sông,4.3,(69),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Restaurant,XJ5X+FR5
+21,Phở Danh,5.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Pho,118A TL9
+22,Quán Thỏ Hoà Phú,None,None,None,"['Dine-in', 'Takeout']",[],Family-friendly,1478 TL8
+23,Nhà hàng hoa giấy,5.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,XJGH+29J
+24,Hai Châu Bình Mỹ,4.3,(79),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Restaurant,8/1 Đường 162 Ấp 5
+25,Anh Kiệt Quán,3.9,(16),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Fri']",Restaurant,XJFG+RHM
+26,Lẩu bò Thầy Chương,5.0,(1),None,"['Dine-in', 'Takeout']",[],Restaurant,WJQP+X26
+27,LẨU BÒ TÈO HAI,3.7,(6),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8:30\u202fAM Fri']",Restaurant,"số 7, tỉnh lộ 9, Ấp 4"
+28,Quán Ăn Bình Mỹ,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6:30\u202fAM Fri']",Restaurant,38 Đường Bình Mỹ
+29,DÊ TƯƠI HOA LƯ,4.5,(47),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Restaurant,57 Hà Duy Phiên
+30,Ốc Hân 79,4.5,(10),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closed', ' ⋅ Opens 3:30\u202fPM Fri']",Bistro,276
+31,"Cháo Lòng , Bún Riêu Bình Dân",5.0,(3),None,"['Dine-in', 'Takeout']",[],Restaurant,Vo Thuong cafe
+32,Hoa viên Vườn Mai,4.5,(6),None,['Dine-in'],"['Closed', ' ⋅ Opens 7\u202fAM Fri']",Restaurant,"XJGH+MJP, Unnamed Road"
+33,Quán Bắp Bắp Sinh Tố - Nước Ép,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,2100 TL8
+34,Bún Bò Dì8,5.0,(1),None,"['Dine-in', 'Drive-through']",[],Bistro,32 Đ. 164
+35,Quán a tài,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Opens soon', ' ⋅ 9\u202fAM']",Restaurant,69/8 đường Cây Trôm Mỹ Khánh
+36,Út Tình Quán,4.0,(9),None,"['Dine-in', 'Takeout']",[],Restaurant,11A Đường 618
+37,Phong Đoàn,5.0,(2),None,['Dine-in'],[],Bistro,103 lê thị chừng
+38,Quán Bờ Kênh - Út Lan,4.2,(88),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 8:30\u202fPM']",Restaurant,2F22+PQF
+39,Hải sản 86,4.9,(8),None,"['Dine-in', 'Takeout']",[],Seafood,510 AH1
+40,Hủ tiếu Tư Dung,4.7,(12),None,"['Dine-in', 'Takeout']",['Open now'],Breakfast,53 Cây Trôm Mỹ Khánh
+41,Quán chay Bồ Đề,3.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,"364 quốc lộ 22, ấp cây trôm"
+42,Quán phở hà nội,None,None,None,"['Dine-in', 'Takeout']",[],Bistro,"2C3X+M89, Ba Sa"
+43,Quán Phở Lam Sơn,4.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,525 QL22
+44,Quán Út Đen,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10:30\u202fAM']",Restaurant,72 Cây Trôm Mỹ Khánh
+45,Bò tơ Phương Râu,4.0,(103),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"XCXX+26C, Unnamed Road"
+46,Gà Rán Khoai Lang Lắc Street Food Phước,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9:30\u202fAM']",Vietnamese,"Phước Hiệp 413 QL22 , Mui Con Dai Hamlet"
+47,Quán Ăn Thanh Hiền,3.0,(1),None,"['Dine-in', 'Takeout']",[],Restaurant,494 QL22
+48,Nhà : Trương Minh Vương,None,None,None,"['Dine-in', 'Takeout']",[],Family-friendly,549 QL22
+49,TRẠM DỪNG CHÂN XUYÊN Á ( Thùy Dương ),4.0,(11),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,552 QL22

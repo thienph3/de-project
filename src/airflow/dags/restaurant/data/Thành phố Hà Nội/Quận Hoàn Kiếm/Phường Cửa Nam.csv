@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,La Table Hanoia,4.3,(712),$$$,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,12 P. Lý Đạo Thành
+1,Rico South American Steakhouse,4.4,(227),$$$,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,56 P. Trần Quốc Toản
+2,Thế Giới Hải Sản - Seafood World - 75A Trần Hưng Đạo,4.2,(73),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Seafood,75A Trần Hưng Đạo
+3,Ganeya Japanese Restaurant,4.8,(455),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Japanese,41 P. Trần Quốc Toản
+4,Cồ Đàm Chay,4.5,(77),None,"['Dine-in', 'Takeout']",[],None,None

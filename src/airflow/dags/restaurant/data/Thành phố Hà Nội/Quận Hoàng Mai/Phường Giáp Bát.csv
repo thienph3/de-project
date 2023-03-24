@@ -1,0 +1,26 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cafe 214,None,None,None,['Dine-in'],[],None,None
+1,Bia Nhà Nấu - Công Nghệ Tiệp,5.0,(3),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,56 Ng. Giáp Bát
+2,Quán Ăn Cô Hòa,5.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,892 Trương Định
+3,Tuyet Thanh Restaurant,4.1,(237),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,24 P. Kim Đồng
+4,Nam Son Restaurant,3.8,(411),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,809 Giải Phóng
+5,658 Trương Định Giáp bát hoàng mai hà nội,None,None,None,['Dine-in'],[],None,None
+6,Cửa Hàng Hoa Quả Sạch Bốn Mùa,3.9,(23),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"6, Giáp Nhị, Phường Thịnh Liệt, Quận Hoàng Mai, Thành Phố Hà Nội"
+7,Rau sạch Hà Thanh Do,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Cửa Hàng Hoa Quả Tươi Tiến Nhanh,4.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Restaurant,"175, Giáp Bát, Quận Hoàng Mai, Thành Phố Hà Nội"
+9,Cafe Thực,None,None,None,['Dine-in'],[],None,None
+10,Quán Kent,4.8,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 4\u202fAM']",Restaurant,"15, Trương Định, Phường Giáp Bát, Thành Phố Hà Nội"
+11,Phuong Mai Street Food,4.8,(6),None,"['Dine-in', 'Takeout']",[],None,None
+12,Café Sơn,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+13,Quán Ăn Bình Nhân,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+14,Nhà Hàng Nam Sơn 2,1.8,(4),None,['Dine-in'],[],None,None
+15,Nhà Hàng Bia Tươi 760,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+16,Trương Xuân Thành,None,None,None,['Dine-in'],[],None,None
+17,Tí Quán Lẩu Thái Tom Yum,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Cháo lòng Kim Thanh hồ Kim Đồng,4.5,(2),None,"['Dine-in', 'Takeout']",[],None,None
+19,Phở Chất,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,271 Đ. Giáp Bát
+20,Nhà Hàng Hàn Quốc,4.4,(24),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,39 P. Kim Đồng
+21,Hải Sản Bề 18,4.5,(2),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Seafood,68 Ng. 41 P. Tương Mai
+22,Quán Bún Chả Sinh Béo,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+23,Hoa Hong Street Food,3.6,(5),None,['Takeout'],"['Open', ' ⋅ Closes 10\u202fPM']",Hawker stall,"26, Alley 192, Giap Bat Street, Hoang Mai District"
+24,Ẩm Thực Đường Phố Trương Định Food,None,None,None,"['Dine-in', 'Takeout']",[],None,None

@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Chay,3.9,(7),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Bistro,4G64+F47
+1,Quán ăn Hồng Đào,5.0,(1),None,"['Dine-in', 'Takeout']",[],Restaurant,"4F5Q+G4M, Bến Súc"
+2,"Sáng 5h =&gt; 10h30"" Hủ Tiếu Bò Kho",4.3,(12),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6:30\u202fAM Fri']",Restaurant,4G73+785
+3,quán ăn Mười Then,3.7,(16),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,"4G83+33V, Đ. Tỉnh Lộ 15"
+4,Toàn Phương,None,None,None,"['Dine-in', 'Takeout']",[],Vietnamese,xóm thuốc
+5,Quán Phở Bò Hà Nội,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,"4G35+4PR, 1138Tỉnh Lộ 15"
+6,Quán Bảo Anh,4.5,(4),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Fri']",Bistro,10 Nguyễn Thị Sữa
+7,Bún riêu canh bún sáng -&gt; chiều,4.5,(4),None,"['Dine-in', 'Takeout']",[],Bistro,"4G65+MQP, Unnamed Road"
+8,Quán Tính,4.8,(4),None,"['Dine-in', 'Takeout']",[],Bistro,07 Hố Bò
+9,Phương Thảo Cafe Giải Khát,5.0,(1),None,['Dine-in'],[],Restaurant,1592 Đ. Tỉnh Lộ 15
+10,Cháo lòng,4.0,(8),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 3\u202fPM Fri']",Bistro,175 Bến Súc
+11,Cơm tấm thu thảo,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,1532 Đ. Tỉnh Lộ 15
+12,Nhà Cô Dâu - Ngọc Trắng,5.0,(1),None,['Dine-in'],"['Closed', ' ⋅ Opens 12\u202fAM Sun']",Family-friendly,481 Cây Gõ
+13,Quán Dì Hai,None,None,None,['Dine-in'],[],Restaurant,1236 Đ. Tỉnh Lộ 15
+14,Quán Dê tươi Hoàng Hạnh,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Restaurant,24 Đường An Nhơn Tây
+15,Quán Cơm Cô Năm,3.8,(14),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Fri']",Restaurant,4G82+5X8
+16,Quán bò tơ,4.0,(18),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Bistro,3GV7+V33
+17,Hana Cà Phê,None,None,None,['Dine-in'],[],Restaurant,1409 Đ. Tỉnh Lộ 15
+18,Ngọc khanh quán,4.2,(72),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,Số 02 Đường 808 ấp Phú Trung
+19,Quán Hùng Chuột,4.0,(45),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Bistro,"52/1C đường 779, ấp Xóm Thuốc"

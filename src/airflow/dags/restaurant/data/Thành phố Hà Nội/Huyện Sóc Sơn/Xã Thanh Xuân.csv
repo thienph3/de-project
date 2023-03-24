@@ -1,0 +1,4 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Phở Minh,3.7,(734),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Pho,"8, Thạch Lỗi, Xã Thanh Xuân, Huyện Sóc Sơn, Thành Phố Hà Nội, Thành Phố Hà Nội"
+1,Sữa chua Trân châu Hạ Long,4.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,99 Kim Anh
+2,Nhà Hàng Hải Yến 20,3.6,(980),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open 24 hours'],Restaurant,Số 2A

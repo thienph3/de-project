@@ -4,3 +4,28 @@
 2,Tengu Japanese Dining,4.6,(66),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 10:30\u202fAM Fri']",Japanese,16 Đường Hoa Cau
 3,ZumWhere Phú Nhuận,4.4,(266),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Izakaya,117B Nguyễn Đình Chính
 4,Công Ty TNHH Nhà Hàng Tình Nghĩa,None,None,None,[],['Temporarily closed'],Restaurant,"Lô A1, 6, Phan Xích Long, Phường 7, Quận Phú Nhuận, Thành Phố Hồ Chí Minh"
+5,Ốc Sinh Viên,4.1,(111),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 2\u202fAM']",Restaurant,205 Đ. Hoàng Diệu 2
+6,Quán Ốc Sam,3.9,(829),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 2\u202fAM']",Seafood,203 Đ. Hoàng Diệu 2
+7,Nhớ Rooftop,4.6,(65),None,['Dine-in'],"['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 4\u202fPM Fri']",Beer Garden,103 Đ. Hoàng Diệu 2
+8,Ốc Vỉa Hè 170,3.9,(288),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 1\u202fAM']",Restaurant,170 Đ. Hoàng Diệu 2
+9,Nhà hàng Ốc Nhảy,4.0,(156),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 4\u202fAM']",Seafood,"VQ39+P7M, Đ. Số 7"
+10,Nhà hàng Trường An,4.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Restaurant,893 Đ. Kha Vạn Cân
+11,Sushi &amp; Tea,3.6,(51),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Japanese,146 Đ. Hoàng Diệu 2
+12,Nhà hàng Bò Khỏa Thân - Naked Cow,4.1,(21),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Restaurant,"13/1 Đường số 11, Linh Chiểu"
+13,Steak bin &amp; pizza Thủ Đức,4.0,(50),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Italian,168 Đ. Hoàng Diệu 2
+14,Quán Gà ta Miền Trung,4.1,(20),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Bistro,158 Đ. Hoàng Diệu 2
+15,AKI SUSHI THỦ ĐỨC,4.1,(131),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5\u202fPM Fri']",Sushi,2 Số 1
+16,Sphin Coffee,3.9,(83),None,['Dine-in'],"['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,47 Đ. Số 20
+17,Quán Cơm Minh Thư 5,4.1,(40),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Rice restaurant,56 Đường số 17
+18,Quán Chè Thái 17,4.2,(297),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM Fri']",Bistro,112 Đường số 17
+19,Cơm tấm nụ,3.4,(9),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Restaurant,VQ39+V4M
+20,Trà Sữa Ăn Vặt Thanh Thúc,5.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM Fri']",Restaurant,10 Đ. Số 7
+21,Tuyet Nga Rice Diner,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Restaurant,1190A Đ. Kha Vạn Cân
+22,Đồ Ăn Sáng 1 Phút 30 Giây,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6:30\u202fAM Fri']",Restaurant,11 Tô Vĩnh Diện
+23,Cháo vịt Thanh Trúc,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Fri']",Asian,21 Đ. Số 8
+24,SUPER BÒ THỦ ĐỨC,4.4,(208),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5\u202fPM Fri']",Restaurant,254 Đường Đ. Hoàng Diệu 2
+25,Tomorrow,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,821 Đ. Kha Vạn Cân
+26,Lẩu dê,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,1 Đường Nguyễn Văn Lịch
+27,Nhà Hàng,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,99 Lê Văn Chí
+28,The Steak Bar,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 2\u202fPM']",Restaurant,31 Đặng Thị Rành
+29,Nhà hàng Trường An,4.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,893 Đ. Kha Vạn Cân

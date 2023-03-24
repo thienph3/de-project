@@ -1,0 +1,23 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Café Như Ý Silk,3.0,(1),None,['Dine-in'],[],None,None
+1,Café 22,4.0,(1),None,['Dine-in'],[],None,None
+2,Quán Cô Hiện,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+3,Quán Ngon Thảo Bò,3.9,(399),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,178 P. Yên Bình
+4,Quán cafe AHO,2.3,(7),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,28 Đường TT7
+5,Quán Cô Hiện,None,None,None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,33 P. Xa La
+6,2Food Center Xa La,5.0,(1),None,['Dine-in'],[],None,None
+7,Quán lòng Thức Trọc,4.2,(77),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"XQCP+W8G, Unnamed Road"
+8,Phở bò Trường An,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,Lươn Thành Cuông,4.3,(74),None,"['Dine-in', 'Drive-through', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",None,None
+10,40 Văn Yên,None,None,None,['Dine-in'],[],None,None
+11,Quán Cơm Thành Chung,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+12,Quán ăn sáng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,83a P. Tô Hiến Thành
+13,Hải Lâm,None,None,None,['Dine-in'],"['Open', ' ⋅ Closes 7\u202fPM']",Restaurant,159 Đường 19/5
+14,Phở Lý Quốc Sư,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+15,Tiệc Phúc Thành ( Gia Đình - Cưới Hỏi ),None,None,None,['Dine-in'],[],None,None
+16,Quán 2 vịt,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+17,Nhà Hàng Phong Quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Coffee Giọt Đắng - Phường Phúc La,None,None,None,['Dine-in'],[],None,None
+19,Cơm Niêu Sala,4.2,(22),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Rice restaurant,"Phòng 1101, tòa CT1B2"
+20,52 Ngõ 7 Yên Phúc,None,None,None,['Dine-in'],['Open 24 hours'],Restaurant,52 P. Yên Phúc
+21,Nhà Hàng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"9, Xa La, Quận Hà Đông, Thành Phố Hà Nội"

@@ -1,0 +1,37 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Ốc Nóng ngõ 51 Quốc Tử Giám,4.4,(24),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 3:30\u202fPM']",Restaurant,Ngõ 51 P. Quốc Tử Giám
+1,",mộc",None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,Cafe Liberty,4.0,(1),None,['Dine-in'],[],None,None
+3,Café Sàn Gỗ Anh Thơ,5.0,(1),None,['Dine-in'],[],None,None
+4,Quán Ẩm Thực phố Cổ,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+5,Quán Vịt 88,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+6,What the B Restaurant,4.6,(27),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Asian,23 P. Ngô Tất Tố
+7,Phố Cổ Phở Gà 41,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Cháo trai 24 Đoàn Thị Điểm,4.2,(32),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6:15\u202fPM']",Porridge restaurant,2RGM+G44
+9,Hà Anh Quán,None,None,None,['Dine-in'],[],None,None
+10,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+11,Yamato,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+12,Nhà Hàng 56,None,None,None,['Dine-in'],"['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,56 P. Quốc Tử Giám
+13,Cafe Tre Việt,None,None,None,['Dine-in'],[],None,None
+14,Thu Huong,None,None,None,['Dine-in'],[],None,None
+15,Lẩu Phúc An,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+16,Nhà Hàng Bé Toan,4.3,(3),None,"['Dine-in', 'Takeout']",[],None,None
+17,Chiến Hà Nội,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None
+18,Quán Ước,4.9,(9),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",None,None
+19,Quán Ốc 86,5.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Bistro,WHWH+G28
+20,Nhân Nghĩa Quán Tiểu Hổ,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,WHVX+MM9
+21,Minh Vượng Quán,5.0,(3),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Bistro,XG8G+29J
+22,Quán Gà Ri,None,None,None,[],[],None,None
+23,Thành Công Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+24,Trang Anh Restaurant 102,3.7,(6),None,"['Dine-in', 'Takeout']",[],None,None
+25,Nhà hàng hoa chiến,None,None,None,['Dine-in'],[],None,None
+26,Dung Nhuần Restaurant,3.5,(15),None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,"XG8G+JR4, Vai Réo"
+27,Cây Đa Restaurant,3.4,(9),None,"['Dine-in', 'Takeout']",[],None,None
+28,"tư Dâu-ăn sáng ,ăn đêm",4.6,(11),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 3\u202fAM']",Restaurant,WH9V+6PR
+29,Cẩn Ngần Restaurant Lẩu Cua Đồng,4.1,(269),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Hot Pot,XJJ3+VPG
+30,Trạm Xăng Dầu Đông Xuân HFC,4.1,(10),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Bistro,XG7F+73W
+31,Bún Phở Hà Lực,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+32,Nhà hàng Cơm niêu 1976,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,XJ39+H88
+33,Firefly Hill,4.2,(12),None,['Dine-in'],['Open 24 hours'],Restaurant,Đồng Răm Road
+34,Nam Cường Restaurant,3.8,(36),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",None,None
+35,Ốc Nóng ngõ 51 Quốc Tử Giám,4.4,(24),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,Ngõ 51 P. Quốc Tử Giám

@@ -1,0 +1,22 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Hoa Việt Quán,4.4,(35),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,WQP5+M9W
+1,Quán Phở Thúy Nga,3.8,(23),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Pho,"299, Tổ 10, Phường Phú Lương, Quận Hà Đông"
+2,Quang Minh Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+3,Nhà hàng Thắng Thúy cơ sở 1,None,None,None,['Dine-in'],[],None,None
+4,ỐC 68 Phú Lương Hà Đông,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Bigseafood Hà Đông,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Seafood,205 P. Phú Lương
+6,Nhà Hàng Vân Anh Cừ,3.7,(3),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,WQPC+G5R
+7,Phố Nướng Thanh Hà,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Grill,Kiot 12 HH02E
+8,Thịt Chó Trường Ngọc,5.0,(3),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,18 Đ. Nguyễn Trực
+9,Quán bia Thành Toan,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Family-friendly,"WQQ7+94V, Ngõ 7 - Trinh Lương"
+10,Café Như Ý Silk,3.0,(1),None,['Dine-in'],[],None,None
+11,Café 22,4.0,(1),None,['Dine-in'],[],None,None
+12,Nhà Hàng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"9, Xa La, Quận Hà Đông, Thành Phố Hà Nội"
+13,Quán cafe AHO,2.3,(7),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,28 Đường TT7
+14,Nhà Hàng Cầu Am,4.0,(93),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,12 Trưng Trắc
+15,Cửa Hàng Hoa Quả Sạch Trần Hưng Đạo,None,None,None,['Dine-in'],[],None,None
+16,Quán Cà Phê Hưng Phương,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+17,Quán Cơm Thạch Đan,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Nam Sơn quán,4.5,(22),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"Lô 12 Dãy A, khu đấu cá"
+19,Bìa Hải Xồm,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,7 Đ. Phùng Hưng
+20,Nhà hàng Hải Yến,4.1,(101),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,18 Đ. Phùng Hưng

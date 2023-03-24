@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Cơm Hiền,4.3,(28),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,214 P.Khương Trung
+1,Cửa Hàng Hoa Quả Tươi,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,Quán Café Tố Uyên,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+3,Công Ty TNHH Sinh Thịnh An Sang,None,None,None,"['Dine-in', 'Delivery']",[],None,None
+4,Quán Lẩu Lòng Bò,4.4,(20),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,426 Đ. Khương Đình
+5,Quán Ăn Thanh Loan,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+6,Du mục Quán,4.2,(10),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,381 P. Vũ Tông Phan
+7,Hiệu Lác Quán,4.4,(17),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,6 Ngh. 342/101 Đ. Khương Đình
+8,Khương Đình Quán,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Bistro,22 Đ. Khương Đình
+9,TRUNG TÂM ẨM THỰC NGHỊ HẰNG,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+10,Ba food,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",Bistro,8D P. Khương Hạ
+11,Quán Circle Cafe,3.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"92, Khương Đình, Quận Thanh Xuân, Thành Phố Hà Nội"
+12,Sinh Bún Riêu Cua Bắp Bò,2.8,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Bistro,252 Đ. Khương Đình
+13,Vịt vân đình,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+14,Phở Đường Tăng,3.8,(829),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Pho,35 P. Khương Hạ
+15,Bia Việt Hà,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,247 P.Khương Trung
+16,Lang Thang Quán,4.1,(80),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,312 Đ. Khương Đình
+17,OCHA QUÁN - Tiệm trà chanh - Đồ ăn vặt đường phố - Nhận ship 24h,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Takeout Restaurant,22 Ngõ 20 Bùi Xương Trạch
+18,Quán xoài và cóc bao tử,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Family-friendly,Đ. Khương Đình
+19,Chien Nhung Restaurant,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],African,117/19 Đ. Khương Đình

@@ -9,3 +9,34 @@
 7,Việt Hàu 2 (1/15 Hoàng Diệu),None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 2\u202fAM']",Bistro,QP85+585
 8,Đồ ăn ngon,5.0,(1),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 6\u202fAM Fri']",Bistro,23 Đoàn Văn Bơ
 9,Thien Tan Restaurant,4.2,(460),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,13 Tôn Đản
+10,Cơm Tấm Bãi Rác,3.6,(378),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,73 Lê Văn Linh
+11,Localthai Restaurant,4.1,(329),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Thai,89/19 Đoàn Văn Bơ
+12,Quán nướng Ớt Xanh 1/10,4.4,(20),None,"['Dine-in', 'Takeout']",[],Restaurant,QP85+69G
+13,Đồ ăn ngon,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Bistro,23 Đoàn Văn Bơ
+14,Thien Tan Restaurant,4.2,(461),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,13 Tôn Đản
+15,quán ốc,None,None,None,"['Dine-in', 'Takeout']",[],Bistro,477 Đoàn Văn Bơ
+16,BÚN THỊT NƯỚNG 181BIS,5.0,(4),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fAM Fri']",Bistro,"527 (số cũ 181bis, Đoàn Văn Bơ"
+17,Việt Hàu 2,None,None,None,['Dine-in'],"['Open', ' ⋅ Closes 2\u202fAM']",Bistro,15 Đ. Hoàng Diệu
+18,Quán nhậu ÚT XỈN (Bia Tươi - Bia Boom - Bia Lạnh - Bia Sệt) + Heo rừng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Barbecue,105 Đoàn Văn Bơ
+19,nướng sa tế _462_đồ nướng_ đoàn văn bơ,None,None,None,"['Dine-in', 'Takeout']",[],Seafood,462 Đoàn Văn Bơ
+20,Phá lấu anh Hai,None,None,None,"['Dine-in', 'Takeout']",[],Fast Food,"QP65+8H9, Đoàn Văn Bơ"
+21,477 đoàn văn bơ. P13. Q4,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 2\u202fPM Fri']",Bistro,477 Đoàn Văn Bơ
+22,Ăn sáng Má Thuý,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Bistro,46 Đoàn Văn Bơ
+23,Phở Đào,4.7,(3),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 2\u202fAM']",Restaurant,"QP65+G7M, Hẻm C13 Tôn Đản"
+24,Quán Cơm Ngọc Nhi,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Restaurant,43 Đoàn Văn Bơ
+25,Gà Đất Sét,5.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 3\u202fPM Fri']",Chicken,286 Nguyễn Tất Thành
+26,Cơm Tấm Bãi Rác,3.6,(378),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 4:30\u202fPM Fri']",Restaurant,73 Lê Văn Linh
+27,Pho 29,4.2,(54),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 4\u202fPM Fri']",Pho,29 Đoàn Văn Bơ
+28,Cơm Tấm Bãi Rác,3.6,(378),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4:30\u202fPM']",Restaurant,73 Lê Văn Linh
+29,Pho 29,4.2,(54),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4\u202fPM']",Pho,29 Đoàn Văn Bơ
+30,Việt Hàu 2 (1/15 Hoàng Diệu),None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 2:30\u202fPM']",Bistro,QP85+585
+31,Đồ ăn ngon,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,23 Đoàn Văn Bơ
+32,Việt Hàu 2,None,None,None,['Dine-in'],"['Closed', ' ⋅ Opens 2:30\u202fPM']",Bistro,15 Đ. Hoàng Diệu
+33,Quán nhậu ÚT XỈN (Bia Tươi - Bia Boom - Bia Lạnh - Bia Sệt) + Heo rừng,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM']",Barbecue,105 Đoàn Văn Bơ
+34,BÚN THỊT NƯỚNG 181BIS,5.0,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fPM']",Bistro,"527 (số cũ 181bis, Đoàn Văn Bơ"
+35,477 đoàn văn bơ. P13. Q4,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 2\u202fPM']",Bistro,477 Đoàn Văn Bơ
+36,Thien Tan Restaurant,4.2,(461),None,"['Dine-in', 'Drive-through', 'Delivery']","['Closed', ' ⋅ Opens 2\u202fPM']",Restaurant,13 Tôn Đản
+37,Ăn sáng Má Thuý,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:33\u202fAM']",Bistro,46 Đoàn Văn Bơ
+38,Hồng Trà Ngô Gia Xóm Chiếu,2.8,(24),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,C6 Xóm Chiếu
+39,Phở Đào,4.7,(3),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,"QP65+G7M, Hẻm C13 Tôn Đản"
+40,Quán Cơm Ngọc Nhi,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,43 Đoàn Văn Bơ

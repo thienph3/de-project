@@ -1,0 +1,23 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Phở Thanh Hoa,4.0,(59),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Pho,47 P. Văn Miếu
+1,Hoa Lan Restaurant,4.2,(235),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,"Q, Đường số 1/TT4 P"
+2,Nhà Hàng Trường Xuân,4.1,(44),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,Dốc QL21B
+3,Cửa hàng tạp hoa_thức ăn gia súc Thành Bích,None,None,None,['Dine-in'],['Open 24 hours'],Restaurant,"QP5Q+5JG, Thôn"
+4,Quán Công Lợi,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None
+5,Quán Ăn Thanh Thủy 52,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+6,Quán Bia Trần Thanh,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+7,Nhà Hàng Thu Hà,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+8,Bia Hơi Huấn Đà,4.6,(11),None,"['No dine-in', 'No takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,Thôn Đống Vũ
+9,Gỏi cá Quan Sơn,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+10,Nhà Hàng Châu Lan,4.3,(25),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,36 Cầu Thanh Ấm
+11,Bún Bò Huế A Thắng,None,None,None,[],"['Closed', ' ⋅ Opens 5\u202fAM Sat']",Family-friendly,128 Đ. Lê Lợi
+12,Nhà Hàng 286 Thắng Cố Ngựa,3.9,(9),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,QQ68+PF7
+13,Vườn Ăn Lá Cọ,3.6,(26),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,118 Nguyễn Thượng Hiền
+14,Nhà Hàng 168,4.5,(20),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open 24 hours'],None,None
+15,Bia Thanh Ánh,3.9,(7),None,"['Dine-in', 'Takeout']",[],None,None
+16,Mộc 89 Bbq,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+17,Thế Năng Quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Nhà Hàng Toàn Thắng,4.4,(22),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,QQGM+H5C
+19,Nhà hàng Thành Sáu,4.7,(6),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4:30\u202fAM Sat']",Gastropub,28 QL21B
+20,Việt Soup,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+21,Ăn Sáng Lương Thực,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None

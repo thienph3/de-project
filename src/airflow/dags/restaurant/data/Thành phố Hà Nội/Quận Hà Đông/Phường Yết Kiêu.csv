@@ -1,0 +1,11 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Silk food,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+1,Phủi Quán,3.9,(13),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11:30\u202fPM']",Hot Pot,3A Chu Văn An
+2,Nhà hàng hải sản phụng cua,5.0,(9),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,3 P. Chu Văn An
+3,Nhà Hàng Cây Xoan,3.5,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,3 P. Chu Văn An
+4,Flawless Ăn ngon,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",None,None
+5,Café Như Ý Silk,3.0,(1),None,['Dine-in'],[],None,None
+6,Café 22,4.0,(1),None,['Dine-in'],[],None,None
+7,Nhà Hàng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"9, Xa La, Quận Hà Đông, Thành Phố Hà Nội"
+8,Quán cafe AHO,2.3,(7),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,28 Đường TT7
+9,Nhà Hàng Cầu Am,4.0,(93),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,12 Trưng Trắc

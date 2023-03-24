@@ -1,0 +1,11 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,What the B Restaurant,4.6,(27),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Asian,23 P. Ngô Tất Tố
+1,Cửa Hàng Rau An Toàn Hapro Food,3.3,(10),None,"['Dine-in', 'Takeout']",[],None,None
+2,EMM's French Bistro,4.5,(260),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 2:30\u202fPM ⋅ Reopens 5\u202fPM']",French,28 P. Đỗ Quang
+3,Ha Noi 2 Pho Restaurant,4.5,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",African,"19/5 Street, 36, 19/5 Apartment The Police, Van Quan Ward, Ha Dong Distric"
+4,Quán Café Tố Uyên,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Potomac Restaurant West Lake,4.0,(215),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,9b P. Nguyễn Đình Thi
+6,Lahata Restaurant,4.1,(145),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 8\u202fPM']",Restaurant,"2QCP+PV3 Tòa nhà CT3, 88 Dương Đình Nghệ"
+7,Ship Đồ Ăn Đêm T-Food,4.3,(13),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 4\u202fPM']",Fast Food,"Văn Chương I, Khâm Thiên"
+8,Nhà hàng Dê Ré Song Dương,4.0,(815),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,39 P. Trần Kim Xuyến
+9,Quán Ăn Ngon Restaurant Trung Hòa,4.1,"(2,331)",None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Vietnamese,"Tầng 1 Tòa nhà 25T2 Hoàng Đạo Thúy, P. Nguyễn Thị Thập"

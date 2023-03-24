@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Thức Ăn Nhanh 389,4.2,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"389, Trương Định, Phường Tương Mai, Quận Hoàng Mai, Thành Phố Hà Nội"
+1,Trương Xuân Thành,None,None,None,['Dine-in'],[],None,None
+2,Quán Cafe Âm Thanh,4.4,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"122, Định Công, Quận Hoàng Mai, Thành Phố Hà Nội"
+3,Cửa Hàng Hoa Quả Trần Tuấn,4.3,(3),None,['Dine-in'],[],None,None
+4,Quán Tào Phớ Và Cà Phê Trà Đài Loan,4.8,(4),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"82, Nguyễn An Ninh, Quận Hoàng Mai, Thành Phố Hà Nội"
+5,Cafe Thành Nhâm,None,None,None,['Dine-in'],[],None,None
+6,Café Hảo Hiền,4.5,(2),None,"['Dine-in', 'Takeout']",[],None,None
+7,Cafe Còi,4.5,(2),None,['Dine-in'],[],None,None
+8,Quán Bia Hà Nội Anh Chử,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,Nhà Hàng Vạn Xuân,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Quán Phở Tái Lăn,4.2,(6),None,"['Dine-in', 'Takeout']",[],None,None
+11,Ha Phong II Restaurant,4.5,(8),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"493, Đường Trương Định, Quận Hoàng Mai"
+12,Cửa Hàng Hoa Quả Tươi Tiến Nhanh,4.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Restaurant,"175, Giáp Bát, Quận Hoàng Mai, Thành Phố Hà Nội"
+13,Quán cơm bình dân,3.4,(5),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,6 ngõ 20 Phố Tân Mai
+14,Nam Son Restaurant,3.8,(411),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,809 Giải Phóng
+15,Café Đợi,4.0,(3),None,['Dine-in'],[],None,None
+16,Nhà hàng số 43,3.9,(9),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,Ngõ 53 P. Nguyễn An Ninh
+17,Quán 79,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Cofetti Cafe,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,18 Food - Phở Bò,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Sat']",Bistro,18 P. Nguyễn An Ninh

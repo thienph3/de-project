@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Akira Back Hanoi,4.5,(125),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5:30\u202fPM']",Asian Fusion,8 Đỗ Đức Dục
+1,Cốm Thu Thắng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,Quán Thịt Chó Thanh Hiền,4.1,(228),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,2Q3J+C63
+3,Ngan Son Restaurant,3.9,(284),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"Số 88 Mễ Trì, Nam Từ Liêm"
+4,Nhà Hàng Umidama,None,None,None,['Dine-in'],[],None,None
+5,Đan Hoài Bia Quán,3.7,(3),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,190 P. Mễ Trì Thượng
+6,Tâm Chay Vegan Restaurant,4.5,(156),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 2:30\u202fPM ⋅ Reopens 5\u202fPM']",Vegan,"Nhà B3, Khu Nhà ở để bán Mễ Trì, Số, 2 Đỗ Đức Dục"
+7,Hải Năm Vịt Ngan Quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Cơm Thố Anh Nguyễn - Mễ Trì,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 9:45\u202fPM']",Asian,57 Đ. Mễ Trì
+9,Nhà Hàng Thắng Hói,3.9,(80),None,"['Dine-in', 'Takeout']",[],None,None
+10,John Anthony Restaurant,4.5,(85),None,['20 best new Asia-Pacific restaurants to try in 2020'],"['Closes soon', ' ⋅ 2:30\u202fPM ⋅ Reopens 5:30\u202fPM']",Cantonese,"8 Do Duc Duc, Me Tri, South"
+11,French Grill,4.3,(230),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fPM']",Modern French,"8 Do Duc Duc, Me Tri, South Tu Liem"
+12,Gia Nguyễn Restaurant,4.0,(266),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,2 Đỗ Đức Dục
+13,Cơm Mễ Trì,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Bistro,74 P. Mễ Trì Thượng
+14,JW Café,4.5,(942),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Buffet,8 Đỗ Đức Dục
+15,Quán Tiểu Hổ Mạnh Đức,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+16,Thu Hang Beer Restaurant,3.7,(362),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Beer hall,34 P. Miếu Đầm
+17,Matchandeul Bbq Restaurant,4.4,(387),$$$,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Korean BBQ,101+102 CT4 Mỹ Đình Nam Từ Liêm Hanoi City
+18,Hà Đăng Restaurant &amp; Cafe,3.8,(193),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,2Q7M+V5W
+19,M Decor Cafe,3.7,(18),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None

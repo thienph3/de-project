@@ -1,0 +1,39 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà Hàng Ẩm Thực Dân Tộc,4.2,(6),None,"['Dine-in', 'Takeout']",[],None,None
+1,Quán An Bình Cafe,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,quán ăn,5.0,(10),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5:30\u202fAM Sat']",Noodle Shop,6 Ngõ 6 Ngô Đình Mẫn
+3,Bún chả,4.5,(4),None,"['Dine-in', 'Takeout']",[],None,None
+4,Quán Thịt Cầy Lá Sông Đà 2,4.0,(3),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+5,Nhà hàng dê Sơn dương la khê,4.0,(55),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,307 tổ 4
+6,S Cafe,5.0,(7),None,['Dine-in'],[],None,None
+7,Nhà hàng Sông Quê,4.2,(37),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,299 P. Tố Hữu
+8,Nhà Hàng Thanh Dũng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,"LK50 - ngõ 22 đường Lê Trọng Tấn,, La Khê, Hà Đông, Hà Nội, Việt Nam",5.0,(3),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,ngõ 22 Đ. Lê Trọng Tấn
+10,Nhà Hàng Bảo Sơn,3.8,(21),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"Vòng xoay Lê Trọng Tấn, Tố Hữu"
+11,Nhà hàng cá Sông Đà,4.1,(21),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"XQ94+R89, Yên Lộ"
+12,"Nhà hàng Dê Ngon 82 - Dê Ngon Thả Ga, Không Lo Về Giá",4.2,(122),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,268 P. Tố Hữu
+13,"Quán nước số nhà 5E đường Chiến Thắng, Tổ 1",None,None,None,['Dine-in'],[],None,None
+14,Quán Cơm Thanh Lài,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+15,Nhà hàng Hưng Thuỷ - Gà già Đông Tảo,5.0,(11),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Chicken,"LK 783 Cầu La Khê, Đ. Lê Trọng Tấn"
+16,Hàng lòng lợn Hương Thắng,5.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4:30\u202fPM']",Bistro,"XQ96+F9F, Unnamed Road"
+17,Các món gà,3.2,(5),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+18,circle k hà đông,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+19,Cafe Bất Động Sản La Khê,None,None,None,['Dine-in'],[],None,None
+20,Café Như Ý Silk,3.0,(1),None,['Dine-in'],[],None,None
+21,Café 22,4.0,(1),None,['Dine-in'],[],None,None
+22,Nhà Hàng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"9, Xa La, Quận Hà Đông, Thành Phố Hà Nội"
+23,Quán cafe AHO,2.3,(7),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,28 Đường TT7
+24,Nhà Hàng Cầu Am,4.0,(93),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,12 Trưng Trắc
+25,Lẩu Nhất Quán,4.6,(5),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"BT04_8, Đường An Phú"
+26,Sành Quán,4.4,(18),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Noodle Shop,211 Đường Ỷ La
+27,Phở bò thúy thành,4.0,(22),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None
+28,Kiên Mèo Restaurant,3.8,(71),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,no08 lk05 khu dịch vụ
+29,Café Huyền,4.8,(4),None,['Dine-in'],[],None,None
+30,Cơm thố Anh Nguyễn - Biệt thự Dương Nội,5.0,(11),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"BT-L15, 19"
+31,Hongkong Town Hà Đông,5.0,(3),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"Vườn Ẩm Thực,Tầng 3, Aeon Mall"
+32,Phở Bát Đàn,4.0,(22),None,"['Dine-in', 'Takeout']",[],None,None
+33,"Bếp Thái Koh Yam - Tầng 2, TTTM AEON MALL Hà Đông, Hà Nội",4.6,(238),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Thai,TTTM AEON MALL
+34,iSushi Hà Đông,4.5,(124),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Sushi,"Lô T162, Tầng 1 Aeon Mall Hà Đông, phường Dương Nội, quận Hà Đông"
+35,Phương Thảo chè quán,4.8,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Bistro,Đường Ỷ La
+36,Thành Nam Restaurant,3.8,(331),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fPM']",Restaurant,"CT1-Chung cư The Pride, Tố Hữu"
+37,PHỞ LÝ QUỐC SƯ - HỌC VIỆN ẨM THỰC,None,None,None,"['Dine-in', 'Takeout', 'No-contact delivery']",[],None,None

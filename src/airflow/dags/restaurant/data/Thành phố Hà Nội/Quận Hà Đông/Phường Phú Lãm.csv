@@ -1,0 +1,29 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Hoa Việt Quán,4.4,(35),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,WQP5+M9W
+1,Quán Phở Thúy Nga,3.8,(23),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Pho,"299, Tổ 10, Phường Phú Lương, Quận Hà Đông"
+2,Quang Minh Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+3,Café Như Ý Silk,3.0,(1),None,['Dine-in'],[],None,None
+4,Café 22,4.0,(1),None,['Dine-in'],[],None,None
+5,Nhà Hàng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"9, Xa La, Quận Hà Đông, Thành Phố Hà Nội"
+6,Quán cafe AHO,2.3,(7),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,28 Đường TT7
+7,Nhà Hàng Cầu Am,4.0,(93),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,12 Trưng Trắc
+8,Nhà hàng Thanh Xuân Quán,4.8,(20),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,80 P. Ba La
+9,Thái Thú,None,None,None,['Dine-in'],[],None,None
+10,Nhà Hàng Gia Phú,3.9,(9),None,"['Dine-in', 'Takeout']",[],None,None
+11,Nhà Hàng Khánh An,3.8,(16),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,"274, Cầu Khâu, Phường Phú Lãm, Quận Hà Đông, Thành Phố Hà Nội, Thành Phố Hà Nội"
+12,Bia hơi Hà Nội Trung Thành,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+13,Phạm gia quán,None,None,None,['Dine-in'],[],None,None
+14,Dâng Minh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+15,Quán Ăn Hiểu Sự,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+16,Quán Ốc Chỉ,3.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+17,Phở Thanh Sơn,4.3,(9),None,"['Dine-in', 'Takeout']",[],None,None
+18,QUÁN ĂN TÙNG DƯƠNG,5.0,(10),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 5\u202fAM Sat']",Fast Food,142 Thanh Lãm
+19,Nhà Hàng Trúc Thuỷ Viên,3.8,(74),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,P. Ba La
+20,Rượu baly,3.7,(3),None,['Dine-in'],[],None,None
+21,Phở Lý Quốc Sư - Hương Vị Hà Thành,4.9,(32),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Pho,"Kiot 04, tòa nhà V3, The Vesta"
+22,BÙI Cafe,5.0,(2),None,['Dine-in'],[],None,None
+23,Bún chả An Mận &amp;&amp; Nướng Phủi &amp;&amp; Ốc,5.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Family-friendly,226 P. Xốm
+24,Thịt Chó Trường Ngọc,5.0,(3),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,18 Đ. Nguyễn Trực
+25,Thảo Tít. Lẩu Cua Đồng,5.0,(1),None,['Dine-in'],['Open 24 hours'],Restaurant,25 Thanh Lãm
+26,Nhà hàng Bia hơi Mạnh Dung,5.0,(2),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,Tổ 10 Khu đấu giá
+27,Nhà Hàng Phúc Hưng chuyên bê thui - gà tươi,4.3,(11),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None

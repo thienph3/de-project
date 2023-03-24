@@ -1,0 +1,8 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Ba Vi Restaurant,3.7,(148),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,"5CPR+65H, QL32"
+1,Nhà Hàng Tản Viên,4.1,(140),None,"['Dine-in', 'Takeout']",['Open 24 hours'],None,None
+2,Du Lịch Suối Hai,3.8,(12),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,597F+3CW
+3,Quán Thịt Chó Quang Vinh,4.0,(6),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Deli,"5CJW+88V, Xã Đông Quang, Huyện Ba Vì, Thành Phố Hà Nội"
+4,Nhà hàng Tản Viên Sơn,3.9,(81),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"4C38+PG2, TL87A"
+5,Hải Nam Quán,4.1,(49),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 12\u202fAM Sat']",Restaurant,614 QL32
+6,Nhà Hàng Lá Cọ Ba Vì,4.0,(562),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,Cầu Và

@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,SoftWater Restaurant,4.3,(861),$$$,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,42 Đ. 9
+1,Quán Ao Làng,4.0,(14),None,"['Dine-in', 'Takeout']",[],None,None
+2,Tổ hợp Công viên nhỏ,4.1,(249),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,36 Ng. 76 An Dương
+3,Ngan phố 29 LK6B,4.4,(5),None,"['Dine-in', 'Takeout']",[],None,None
+4,Công Viên Nhỏ,4.3,(28),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Vietnamese,Số 36 Ng. 76 An Dương
+5,Nhà Hàng Lẩu Khô Hồng Kông - Trùng Dương,4.0,(7),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+6,Hong Hoai's Restaurant,4.8,"(3,323)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Vietnamese,20 P. Bát Đàn
+7,Xóm Nướng,4.8,(12),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",None,None
+8,Cafe &amp; Restaurant,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+9,Duong Cooking Class Hanoi Old Quarter Vietnam,5.0,(13),None,"['""The food itself is wonderful, delicately spiced and nuanced.""']","['Open', ' ⋅ Closes 7:30\u202fPM']",Restaurant,"House 32 - condominium, 16A P. Lý Nam Đế"
+10,Nhà Hàng Nguyễn Thị Hảo,4.1,(14),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Brunch,XRJ2+QC3
+11,Lương Sơn Restaurant,3.9,"(1,432)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,1 P. Quan Nhân
+12,Duong's Restaurant,4.6,"(1,178)",None,['Top 10 Restaurants in Hanoi Old Quarter'],"['Open', ' ⋅ Closes 9:30\u202fPM']",Vietnamese,27 Ng. Huyện
+13,Gà rán Hàn quốc ENGGO - Chicken Restaurant,4.2,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Fried Chicken,ngõ 73 P. Nguyên Hồng
+14,6 Degrees,4.3,"(1,323)",None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,189 Nghi Tàm
+15,Quán rượu Ốc Núi,3.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fPM']",Asian,74 Đ.Tân Triều
+16,Quán rượu ốc Hồng Triệu,1.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fPM']",Seafood,39 Ng. 68 P. Triều Khúc
+17,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+18,Hanoi Street Food Restaurant,4.0,(4),None,"['Dine-in', 'Takeout']",[],None,None
+19,Hanoi Fine Dining Restaurant &amp; Cooking Class - Duong Dining,4.7,(618),None,"['Dine-in', 'Takeout', 'No delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,101 P. Mã Mây

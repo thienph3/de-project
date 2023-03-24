@@ -1,0 +1,41 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Hoa Lan Restaurant,4.2,(235),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,"Q, Đường số 1/TT4 P"
+1,Nhà Hàng Hoa Viên,4.1,(340),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 2\u202fPM ⋅ Reopens 4:30\u202fPM']",Chinese,Ngõ 1 P. Hoàng Đạo Thúy
+2,Nhà hàng Hoa An Viên,3.9,"(1,123)",$$$,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Vietnamese,95 Đ. Lê Đức Thọ
+3,Hanoi Street Food Restaurant,4.0,(4),None,"['Dine-in', 'Takeout']",[],None,None
+4,Ha Noi 2 Pho Restaurant,4.5,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",African,"19/5 Street, 36, 19/5 Apartment The Police, Van Quan Ward, Ha Dong Distric"
+5,Nhà Hàng Ẩm Thực Trung Hoa - Kiều Hương Viên,4.6,(22),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,24 P. Nguyễn Hữu Huân
+6,SoftWater Restaurant,4.3,(861),$$$,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,42 Đ. 9
+7,Lạc Viên vegetarian restaurant,4.1,(11),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 2\u202fPM']",Vegetarian,ngõ 26 P. Nhân Hòa
+8,Lương Sơn Restaurant,3.9,"(1,432)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,1 P. Quan Nhân
+9,Cafe &amp; Restaurant,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+10,Quán Cà Phê Nước Hoa Quả,5.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,"195G, Đại La, Phường Trương Định, Quận Hai Bà Trưng, Thành Phố Hà Nội"
+11,Nhà Hàng Hà Nội Xưa,3.5,(37),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open now'],Restaurant,236 P. Hoàng Ngân
+12,Đại Lý Hoa Quả Tươi,4.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+13,Quán Trà Hoa Đặng,3.5,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"105, Khu Tập Thể Viện Lâm Nghiệp, Đức Thắng, Phường Đức Thắng, Quận Bắc Từ Liêm, Thành Phố Hà Nội"
+14,CCCP Café &amp; Restaurant,4.3,(426),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 2\u202fPM ⋅ Reopens 5:30\u202fPM']",Russian,"103, Nha TT Mac-Lenin Ngõ 84 Phố Ngọc Khánh, Ng. 84 P. Ngọc Khánh"
+15,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+16,Phở An Hương Hà nội phố,4.2,(5),None,"['Dine-in', 'Takeout']",[],None,None
+17,Quán Ăn Ngon Restaurant Trung Hòa,4.1,"(2,331)",None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Vietnamese,"Tầng 1 Tòa nhà 25T2 Hoàng Đạo Thúy, P. Nguyễn Thị Thập"
+18,Phuong Nguyen Restaurant,4.0,"(1,316)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,51 Ng. 52 Đ. Tô Ngọc Vân
+19,Nama Japanese Cuisine,4.4,(248),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 1:30\u202fPM ⋅ Reopens 5\u202fPM']",Japanese,19 Ng. 30 P. Mai Anh Tuấn
+20,Nhà Hàng Trường Xuân,4.1,(44),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,Dốc QL21B
+21,Cửa hàng tạp hoa_thức ăn gia súc Thành Bích,None,None,None,['Dine-in'],['Open 24 hours'],Restaurant,"QP5Q+5JG, Thôn"
+22,Quán Công Lợi,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None
+23,Quán Ăn Thanh Thủy 52,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+24,Quán Bia Trần Thanh,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+25,Nhà Hàng Thu Hà,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+26,Bia Hơi Huấn Đà,4.6,(11),None,"['No dine-in', 'No takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,Thôn Đống Vũ
+27,Gỏi cá Quan Sơn,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+28,Nhà Hàng Châu Lan,4.3,(25),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,36 Cầu Thanh Ấm
+29,Bún Bò Huế A Thắng,None,None,None,[],"['Closed', ' ⋅ Opens 5\u202fAM Sat']",Family-friendly,128 Đ. Lê Lợi
+30,Nhà Hàng 286 Thắng Cố Ngựa,3.9,(9),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,QQ68+PF7
+31,Vườn Ăn Lá Cọ,3.6,(26),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,118 Nguyễn Thượng Hiền
+32,Nhà Hàng 168,4.5,(20),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open 24 hours'],None,None
+33,Bia Thanh Ánh,3.9,(7),None,"['Dine-in', 'Takeout']",[],None,None
+34,Mộc 89 Bbq,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+35,Thế Năng Quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+36,Nhà Hàng Toàn Thắng,4.4,(22),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,QQGM+H5C
+37,Nhà hàng Thành Sáu,4.7,(6),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4:30\u202fAM Sat']",Gastropub,28 QL21B
+38,Việt Soup,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+39,Ăn Sáng Lương Thực,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None

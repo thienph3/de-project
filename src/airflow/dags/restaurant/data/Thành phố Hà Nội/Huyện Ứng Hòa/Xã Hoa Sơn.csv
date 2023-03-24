@@ -1,0 +1,41 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà hàng Cơm Tuấn Sơn,4.0,(119),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,87 P.Trung Hòa
+1,Cafe Mộc Hoa Trà,2.0,(2),None,['Dine-in'],[],None,None
+2,Sông Quê Restaurant,3.9,(542),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"Mandarin Garden Apartments, Block B, Tầng 1 Ô B5, 1 Đ. Hoàng Minh Giám"
+3,Sushibar,4.0,(200),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Japanese,120 P.Trung Hòa
+4,Lương Sơn Restaurant,3.9,"(1,432)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,1 P. Quan Nhân
+5,Gà Yến Thoa,3.6,(321),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Asian,338 P. Tây Sơn
+6,Nhà Hàng Hoa Viên,4.1,(340),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 2\u202fPM ⋅ Reopens 4:30\u202fPM']",Chinese,Ngõ 1 P. Hoàng Đạo Thúy
+7,Sơn Thủy Restaurant,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+8,Hoà Bình - Bia Hà Nội,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,Long Phụng Restaurant,4.2,(602),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Chinese,29T2 P. Hoàng Đạo Thúy
+10,Nhà Hàng Phố Xưa,4.2,(130),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 2:30\u202fPM ⋅ Reopens 5:30\u202fPM']",Restaurant,8 Ng. 298 Tây Sơn
+11,EMM's French Bistro,4.5,(260),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 2:30\u202fPM ⋅ Reopens 5\u202fPM']",French,28 P. Đỗ Quang
+12,BB Family Restaurant,4.2,(276),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 2:30\u202fPM ⋅ Reopens 5\u202fPM']",Restaurant,36 P.Trung Hòa
+13,Yu Tang - Trung Hoà Nhân Chính,3.2,(11),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"17 T5, P. Hoàng Đạo Thúy"
+14,Ashima Restaurant,4.5,(417),$$$,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"Nhà N04, Tầng 2, tòa, P. Hoàng Đạo Thúy"
+15,Ita Food Trung Hoà,3.8,(26),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,74 P.Trung Hòa
+16,Quán Trà Nghệ Thuật Trung Hoa,3.5,(6),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"64, Chùa Láng, Quận Đống Đa, Thành Phố Hà Nội"
+17,Burger King,4.3,(178),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Fast Food,số 99 P.Trung Hòa
+18,Coffee Phố Đêm,4.5,(19),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11:30\u202fPM']",Restaurant,"8, Thôn Yên Xá, Xã Tân Triều, Huyện Thanh Trì, Thành Phố Hà Nội"
+19,Quán Sơn béo bánh tráng cuốn thịt heo,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+20,Nhà Hàng Trường Xuân,4.1,(44),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,Dốc QL21B
+21,Cửa hàng tạp hoa_thức ăn gia súc Thành Bích,None,None,None,['Dine-in'],['Open 24 hours'],Restaurant,"QP5Q+5JG, Thôn"
+22,Quán Công Lợi,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None
+23,Quán Ăn Thanh Thủy 52,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+24,Quán Bia Trần Thanh,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+25,Nhà Hàng Thu Hà,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+26,Bia Hơi Huấn Đà,4.6,(11),None,"['No dine-in', 'No takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,Thôn Đống Vũ
+27,Gỏi cá Quan Sơn,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+28,Nhà Hàng Châu Lan,4.3,(25),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,36 Cầu Thanh Ấm
+29,Bún Bò Huế A Thắng,None,None,None,[],"['Closed', ' ⋅ Opens 5\u202fAM Sat']",Family-friendly,128 Đ. Lê Lợi
+30,Nhà Hàng 286 Thắng Cố Ngựa,3.9,(9),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,QQ68+PF7
+31,Vườn Ăn Lá Cọ,3.6,(26),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,118 Nguyễn Thượng Hiền
+32,Nhà Hàng 168,4.5,(20),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open 24 hours'],None,None
+33,Bia Thanh Ánh,3.9,(7),None,"['Dine-in', 'Takeout']",[],None,None
+34,Mộc 89 Bbq,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+35,Thế Năng Quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+36,Nhà Hàng Toàn Thắng,4.4,(22),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,QQGM+H5C
+37,Nhà hàng Thành Sáu,4.7,(6),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4:30\u202fAM Sat']",Gastropub,28 QL21B
+38,Việt Soup,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+39,Ăn Sáng Lương Thực,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None

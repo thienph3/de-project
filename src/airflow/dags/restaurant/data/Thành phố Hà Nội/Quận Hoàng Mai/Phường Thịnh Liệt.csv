@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Thức Ăn Nhanh 389,4.2,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"389, Trương Định, Phường Tương Mai, Quận Hoàng Mai, Thành Phố Hà Nội"
+1,Love Restaurant,4.0,(83),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,23 Đ. Hoàng Mai
+2,Mỳ vằn thắn Thành Vy,4.4,(109),None,"['Dine-in', 'Drive-through']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Restaurant,157a Trương Định
+3,Quán Cafe Anh Khoa,None,None,None,['Dine-in'],[],None,None
+4,Café Bin,4.3,(4),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+5,Anh Tú Dog Restaurant,3.8,(345),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,"37 Tam Trinh, Quận Hoàng Mai, Hà Nội"
+6,Quán Bia Hà Nội Anh Chử,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+7,Cửa Hàng Hoa Quả Tươi Tiến Nhanh,4.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Restaurant,"175, Giáp Bát, Quận Hoàng Mai, Thành Phố Hà Nội"
+8,Quán Cơm Thanh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,Cafe Thanh Long,5.0,(1),None,['Dine-in'],[],None,None
+10,Quán Tào Phớ Và Cà Phê Trà Đài Loan,4.8,(4),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"82, Nguyễn An Ninh, Quận Hoàng Mai, Thành Phố Hà Nội"
+11,Café Họa Mi,4.2,(13),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"Lô 2, Khu Đô Thị Đền Lừ 1, 25, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Thành Phố Hà Nội"
+12,Café Ngõ - Bánh Mì Chảo,4.0,(10),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"17, Tương Mai, Quận Hoàng Mai, Thành Phố Hà Nội"
+13,Quán Bia Hơi Cường E6,4.2,(10),None,"['Dine-in', 'Takeout']",[],None,None
+14,Café 86,3.9,(14),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"Lô 6, Khu Đô Thị Đền Lừ 2, 8, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Thành Phố Hà Nội, 8 Đền Lừ 2"
+15,Nhà Hàng Nguyễn Thị Hồng Hải,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Brunch,"19 Lô 6, Đường Tam Trinh, Phường Hoàng Văn Thụ, Quận Hoàng Mai, 411 Đ. Tam Trinh"
+16,Cơm 113 thịnh liệt,4.1,(24),None,"['Dine-in', 'Takeout']",[],None,None
+17,Cửa Hàng Hoa Quả Trần Tuấn,4.3,(3),None,['Dine-in'],[],None,None
+18,"Steak ""Chon""",1.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,15 Ng. Gốc Đề
+19,Quán Phở Phương,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None

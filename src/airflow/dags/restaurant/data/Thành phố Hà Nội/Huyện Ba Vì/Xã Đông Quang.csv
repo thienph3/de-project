@@ -1,0 +1,25 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Cơm Văn Phòng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,What the B Restaurant,4.6,(27),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Asian,23 P. Ngô Tất Tố
+2,Nhà A Phong,None,None,None,['Dine-in'],[],None,None
+3,phở A. Bảo,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+4,Caballo Wine Club - Thông Phong,4.3,(47),None,['Dine-in'],"['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,23 Ng. Thông Phong
+5,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+6,Banh Cuon 3 Chi Em,4.2,(15),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 1:30\u202fPM']",Mung bean pancake,17 P. Phan Phù Tiên
+7,Ba Vi Restaurant,3.7,(148),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,"5CPR+65H, QL32"
+8,Nhà Hàng Tản Viên,4.1,(140),None,"['Dine-in', 'Takeout']",['Open 24 hours'],None,None
+9,Du Lịch Suối Hai,3.8,(12),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,597F+3CW
+10,Quán Thịt Chó Quang Vinh,4.0,(6),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Deli,"5CJW+88V, Xã Đông Quang, Huyện Ba Vì, Thành Phố Hà Nội"
+11,Nhà hàng Tản Viên Sơn,3.9,(81),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"4C38+PG2, TL87A"
+12,Chai Talay Restaurant,3.7,(427),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fPM']",Thai,474 P. Xã Đàn
+13,Son Dong Baba Restaurant,4.0,(152),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,416 P. Xã Đàn
+14,PHỞ BÁT ĐÁ 98 THÁI THỊNH,4.2,(113),None,"['Dine-in', 'No-contact delivery']",[],None,None
+15,Bếp Thái Koh Yam - Thái Hà,4.1,(494),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Thai,330 P. Thái Hà
+16,Botanica Restaurant,4.2,(353),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",French,3 P. Thái Phiên
+17,Cube Beefsteak &amp; Drinks,4.1,(322),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Steak,"20 Ngõ, 211 P. Xã Đàn"
+18,Phở Ấp Thái Hà,5.0,(25),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:35\u202fPM']",Fast Food,352 P. Thái Hà
+19,Quán Bia Hoàn Béo,3.9,(743),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Beer Garden,21 P. Đông Các
+20,Nhà Hàng Cơm 123,4.3,(746),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,482 P. Xã Đàn
+21,559 Restaurant Ba Vi,4.3,(262),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",None,None
+22,Hiệu Chè Cát Thành,3.8,(107),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+23,Quán Chè Ngon,4.2,(19),None,"['Dine-in', 'Takeout']",[],None,None

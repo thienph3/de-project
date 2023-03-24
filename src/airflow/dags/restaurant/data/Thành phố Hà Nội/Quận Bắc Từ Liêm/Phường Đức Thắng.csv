@@ -1,0 +1,26 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cafe Quân,4.7,(6),None,['Dine-in'],[],None,None
+1,Nhà Hàng Đức Hạnh,5.0,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"Ngõ 193, Phú Diễn, Phường Phú Diễn, Quận Bắc Từ Liêm, Thành Phố Hà Nội"
+2,Nhà Hàng Chính Vũ,4.5,(2),None,['Dine-in'],[],None,None
+3,Vịt Cỏ Vân Đình,4.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,232 Đ. Cầu Diễn
+4,Vua Lòng Chần,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+5,quán Ăn 24h,5.0,(3),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,ngách 195 Ng. 68 Đ. Phú Diễn
+6,Bưởi Food,None,None,None,"['Takeout', 'Delivery']","['Open', ' ⋅ Closes 8\u202fPM']",Takeout Restaurant,Số 80 Ngh. 193/64
+7,Cửa hàng ăn sáng,None,None,None,['Dine-in'],[],None,None
+8,Thịt chó Phan Nguyễn cơ sở 1,4.2,(5),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,160
+9,Nhà Hàng Nhung Lùn,None,None,None,['Dine-in'],[],None,None
+10,Viet Made In Vietnam,None,None,None,['Dine-in'],[],None,None
+11,Quán Lươn Đêm,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Bistro,Ng. 193 Phú Diễn
+12,Nhà Hàng Ba Chỏm,None,None,None,['Dine-in'],[],None,None
+13,Kaku,None,None,None,"['Dine-in', 'Delivery']",[],None,None
+14,Quán Phở Bò Tuấn Cò,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+15,Cháo 192,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4\u202fPM']",Breakfast,192 Đ. Phú Diễn
+16,Kira Bbq Restaurant Phú Diễn,4.6,(26),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 2\u202fPM ⋅ Reopens 5:30\u202fPM']",Restaurant,159 Đ. Phú Diễn
+17,vinachao,4.3,(4),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 3\u202fPM']",Restaurant,17 Ng. 75 Đ. Phú Diễn
+18,OPPA Quán Lẩu &amp; Nướng,5.0,(7),None,"['Dine-in', 'Drive-through', 'Delivery']",['Open 24 hours'],Fast Food,30 Đ. Phú Diễn
+19,3CE Quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+20,Minh Quân Nhà Đất,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+21,Thanh Tâm,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+22,u,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+23,Kim Pap Quán,5.0,(1),None,['Dine-in'],[],None,None
+24,Thành Nam Quán,None,None,None,['Dine-in'],[],None,None

@@ -1,0 +1,7 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Trung Dũng Restaurant Tiểu Hổ,4.4,(22),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,MQW2+3XM
+1,Thịnh Sinh Restaurant Tiểu Hổ,4.3,(25),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,MQR2+5M6
+2,Nhà Hàng Thắng Béo,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+3,Sinh Cúc Mèo Restaurant,3.8,(97),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,MQV2+6X3
+4,Quán Nước Cô Hằng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Quán Hoa Thiên Lý,None,None,None,['Dine-in'],[],None,None

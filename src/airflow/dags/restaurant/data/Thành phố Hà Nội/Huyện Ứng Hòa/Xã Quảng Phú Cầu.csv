@@ -1,0 +1,26 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà Hàng Hoa Viên,4.1,(340),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 2\u202fPM ⋅ Reopens 4:30\u202fPM']",Chinese,Ngõ 1 P. Hoàng Đạo Thúy
+1,Trà Hoa Quán Đại học Hà Nội,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,18A9 Khu Tập thể Đại học Hà Nội
+2,"Nhà hàng Chợ Tình Sa Pa - Số 1 Quan Nhân, Hà Nội",4.1,(776),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,1 P. Quan Nhân
+3,Ha Noi 2 Pho Restaurant,4.5,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",African,"19/5 Street, 36, 19/5 Apartment The Police, Van Quan Ward, Ha Dong Distric"
+4,Hà Nội Quán Hoa Sữa,4.2,(32),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,XR89+W7P
+5,EMM's French Bistro,4.5,(260),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 2:30\u202fPM ⋅ Reopens 5\u202fPM']",French,28 P. Đỗ Quang
+6,Quán Ăn Ngon Restaurant Trung Hòa,4.1,"(2,331)",None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Vietnamese,"Tầng 1 Tòa nhà 25T2 Hoàng Đạo Thúy, P. Nguyễn Thị Thập"
+7,Lạc Viên vegetarian restaurant,4.1,(11),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 2\u202fPM']",Vegetarian,ngõ 26 P. Nhân Hòa
+8,Ngan Phố Restaurant,4.4,(44),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Vietnamese,147 P. Nguyễn Thị Định
+9,Cafe &amp; Restaurant,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+10,Chay Tịnh Thực Quán - Tinh Thuc Vegetarian Restaurant,4.2,(812),None,"['The Best Vegan Restaurants in Hanoi, Vietnam']","['Open', ' ⋅ Closes 9:30\u202fPM']",Vegetarian,10 P. Huỳnh Thúc Kháng
+11,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+12,Lương Sơn Restaurant,3.9,"(1,432)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,1 P. Quan Nhân
+13,Nhà Hàng Hà Nội Xưa,3.5,(37),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open now'],Restaurant,236 P. Hoàng Ngân
+14,Quán Trà Nghệ Thuật Trung Hoa,3.5,(6),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"64, Chùa Láng, Quận Đống Đa, Thành Phố Hà Nội"
+15,Long Phụng Restaurant,4.2,(602),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Chinese,29T2 P. Hoàng Đạo Thúy
+16,Nhà Hàng Chả Cá Anh Vũ,4.2,"(1,000)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 2\u202fPM ⋅ Reopens 5\u202fPM']",Fish restaurant,103 P.Trung Hòa
+17,Nhà hàng Thế giới bia,4.8,(11),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,Số 169 P. Hoàng Ngân
+18,Ngọc Hằng Beer Restaurant,3.7,"(1,691)",None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,110 P. Huỳnh Thúc Kháng
+19,Paula’s Wines Restaurant,4.2,(181),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",French,"B1 Mandarin Garden (Behind Grand Plaza hotel, next to Hanoi-Amsterdam School Hanoi City, P. Hoàng Ngân"
+20,Ita Food Trung Hoà,3.8,(26),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,74 P.Trung Hòa
+21,Nhan Sushi Ha Noi,4.2,(104),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 2\u202fPM ⋅ Reopens 6\u202fPM']",Japanese,"Nhà vườn, B35 P. Nguyễn Thị Định"
+22,CCCP Café &amp; Restaurant,4.3,(426),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 2\u202fPM ⋅ Reopens 5:30\u202fPM']",Russian,"103, Nha TT Mac-Lenin Ngõ 84 Phố Ngọc Khánh, Ng. 84 P. Ngọc Khánh"
+23,Aroma Restaurant &amp; Cafe,3.8,(384),$$$,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:55\u202fPM']",Restaurant,65 Đ. Hoàng Minh Giám
+24,VIP Restaurant Trung Hòa,4.1,(215),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Korean,A49 P. Đỗ Quang

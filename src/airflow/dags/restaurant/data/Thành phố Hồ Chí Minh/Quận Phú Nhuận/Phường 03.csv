@@ -9,3 +9,26 @@
 7,Sushi Haru,4.4,(935),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Japanese,398 Phan Xích Long
 8,Vinh Steak 'n Ale,4.6,(83),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,43 Hoa Lan
 9,Carina Cafe shop Cafe Food And Eggs Delicious,4.1,(170),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 7\u202fAM Fri']",Cafe,08 Hoa Cúc
+10,Cục Than Bistro,4.3,(141),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 11:30\u202fPM ⋅ Opens 11\u202fAM Fri']",Restaurant,306 Nguyễn Thượng Hiền
+11,3 Râu,3.0,(35),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Fried Chicken,70 Thích Quảng Đức
+12,Another Round (Food &amp; Beer),4.4,(19),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,47E Hoa Lan
+13,Nhà hàng Thuyền Buồm 3,3.3,(3),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Fri']",Seafood,"34-36-38, Trường Sa, Phường 13, Quận Phú Nhuận, Thành Phố Hồ Chí Minh"
+14,Chang Modern Thai Cuisine 347 Phan Xích Long,4.0,(217),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 11\u202fAM Fri']",Thai,347 Phan Xích Long
+15,5A Phú Nhuận Quán,4.1,(39),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 12\u202fPM Fri']",Restaurant,476 Phan Xích Long
+16,Cafe Vườn Nhà Ai,3.9,(812),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Cafe,3 Hoàng Minh Giám
+17,Restaurant Ngoc Suong Marina Boat,4.2,"(1,822)",None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Seafood,11 D. Nguyễn Văn Trỗi
+18,Tengu Japanese Dining,4.6,(66),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM Fri']",Japanese,16 Đường Hoa Cau
+19,Cửa Hàng Nước Ép Trái Cây 553/3,None,None,None,[],['Temporarily closed'],Restaurant,"553/3, Nguyễn Kiệm, Phường 9, Quận Phú Nhuận, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh"
+20,Le Van Sang Street Food,3.8,(5),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Restaurant,"6b, Phan Xinh Long Street, Ward 03, Phu Nhuan District"
+21,Nhà Hàng 261,None,None,None,[],['Temporarily closed'],Restaurant,261 Nguyễn Trọng Tuyển
+22,"Ẩm thực Á Âu - Bánh Takoyaki, beefsteak, bò lúc lắc, mì Ý Spaghetti, phở",3.9,(123),None,"['""Their ', 'food', ' is very delicious at cheap price!""']","['Closed', ' ⋅ Opens 6:30\u202fAM Fri']",Bistro,431 Nguyễn Kiệm
+23,Ốc Đào 3,4.0,(182),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 11\u202fPM ⋅ Opens 11\u202fAM Fri']",Restaurant,320 Trường Sa
+24,Sushi Haru,4.4,(935),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM Fri']",Japanese,398 Phan Xích Long
+25,Quán Ăn Gia ĐÌnh Bạn Tôi Cơ Sở 3,3.9,(378),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Down Home Cooking,599 Đường Nguyễn Kiệm
+26,Làm Tí - Food &amp; Beer,4.2,(624),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closes soon', ' ⋅ 11\u202fPM ⋅ Opens 3:30\u202fPM Fri']",Brewpub,436 Trường Sa
+27,Here &amp; Now Vegetarian (Open kitchen &amp; chill),4.4,(306),None,['Let’s make a tour around the best 7 vegetarian restaurants in Ho Chi Minh city!'],"['Closed', ' ⋅ Opens 10\u202fAM Fri']",Health Food,220/12 Nguyễn Trọng Tuyển
+28,HOME RAMEN Japanese Restaurant,4.2,(108),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM Fri']",Japanese,3 Hoa Cúc
+29,ZumWhere Phú Nhuận,4.4,(266),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 4\u202fPM']",Izakaya,117B Nguyễn Đình Chính
+30,Cục Than Bistro,4.3,(141),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 11\u202fAM']",Restaurant,306 Nguyễn Thượng Hiền
+31,Shiba Sushi,4.7,(269),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Japanese,281 Phan Xích Long
+32,Nhà hàng Thuyền Buồm 3,3.3,(3),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Seafood,"34-36-38, Trường Sa, Phường 13, Quận Phú Nhuận, Thành Phố Hồ Chí Minh"

@@ -1,16 +1,16 @@
 ,name,stars,review,price,note,open_time,restautant_type,address
-0,Quán Phú Đông,nan,nan,nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"VM6R+9FP, QL1A"
-1,Y,nan,nan,nan,"['Dine-in', 'Takeout']",[],Asian,VM6R+XF7
-2,QUÁN PHỞ NHƯ,3.5,(4),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,5A Vườn Lài
-3,ỐC BỜ KÊNH,4.3,(3),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12:30\u202fAM']",Family-friendly,59 Đ. An Phú Đông 09
-4,Quán 7 Minh,3.9,(54),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,2013 Tổ 27 kp2
-5,Ẩm Thực Sân Vườn XƯA,4.8,(21),nan,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,369/1e Đ. An Phú Đông 09
-6,Dê Vườn Lài,3.7,(6),nan,[],[],Restaurant,423 Vườn Lài
-7,Quán Dê Mò,5.0,(4),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,172 21/3
-8,Quán cô năm,nan,nan,nan,"['Dine-in', 'Takeout']",[],Restaurant,1064 An Phú Đông 1
-9,Nhà hàng Zườn Chim,5.0,(4),nan,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Family-friendly,138A Vườn Lài
-10,Song Tiên Quán,nan,nan,nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,VM3P+J6G
-11,Quán Óc Chú An,4.0,(43),nan,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,1570/1G Tổ 9 - Kp1
+0,Quán Phú Đông,,,,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"VM6R+9FP, QL1A"
+1,Y,,,,"['Dine-in', 'Takeout']",[],Asian,VM6R+XF7
+2,QUÁN PHỞ NHƯ,3.5,(4),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,5A Vườn Lài
+3,ỐC BỜ KÊNH,4.3,(3),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12:30\u202fAM']",Family-friendly,59 Đ. An Phú Đông 09
+4,Quán 7 Minh,3.9,(54),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,2013 Tổ 27 kp2
+5,Ẩm Thực Sân Vườn XƯA,4.8,(21),,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,369/1e Đ. An Phú Đông 09
+6,Dê Vườn Lài,3.7,(6),,[],[],Restaurant,423 Vườn Lài
+7,Quán Dê Mò,5.0,(4),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,172 21/3
+8,Quán cô năm,,,,"['Dine-in', 'Takeout']",[],Restaurant,1064 An Phú Đông 1
+9,Nhà hàng Zườn Chim,5.0,(4),,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Family-friendly,138A Vườn Lài
+10,Song Tiên Quán,,,,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,VM3P+J6G
+11,Quán Óc Chú An,4.0,(43),,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,1570/1G Tổ 9 - Kp1
 12,Ẩm Thực Sân Vườn XƯA,4.8,(21),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,369/1e Đ. An Phú Đông 09
 13,Quán Phú Đông,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"VM6R+9FP, QL1A"
 14,Y,None,None,None,"['Dine-in', 'Takeout']",[],Asian,VM6R+XF7
@@ -31,3 +31,23 @@
 29,Quán Cơm Anh Quân,3.8,(6),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 8\u202fPM ⋅ Opens 6\u202fAM Fri']",Restaurant,59 An Phú Đông 12
 30,Com Chay HOAN HI,4.3,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Vegan,0825/3D Tổ 49 KP3
 31,Nam Anh Catering 272/31,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,"272/31, QL1A"
+32,Kasen Omakase,4.4,(311),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM Fri']",Authentic Japanese,101 Đ. Lê Thị Riêng
+33,Bambino,5.0,(1),None,"['Dine-in', 'Takeout', 'No delivery']","['Open', ' ⋅ Closes 2\u202fAM']",Restaurant,Tôn Thất Thiệp/29-31 ward
+34,The First Bar,4.5,(280),None,"['""All time favorite, cozy bar and delicious ', 'food', '.""']","['Open', ' ⋅ Closes 1\u202fAM']",Grill,8A/7B2 Thái Văn Lung
+35,Torisho,4.4,(502),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 5\u202fPM Fri']",Izakaya,11B1 Thái Văn Lung
+36,NHAU NHAU,4.4,(35),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 5\u202fPM Fri']",Vietnamese,89 Tôn Thất Đạm
+37,Wakaba - Japanese restaurant,4.3,(275),$$$,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 1:30\u202fAM']",Japanese,28 Thái Văn Lung
+38,Saigon Grill Restaurant,4.2,(923),$$$,"['Dine-in', 'Takeout', 'No delivery']","['Closed', ' ⋅ Opens 4\u202fPM Fri']",Vietnamese,Pasteur/91 Ward
+39,Ngon Restaurant,4.0,"(7,393)",None,['The best Chả giò in the world'],"['Closed', ' ⋅ Opens 7:30\u202fAM Fri']",Vietnamese,160 Pasteur
+40,Anan Saigon,4.3,"(1,027)",None,"['The 15 Best Restaurants in Ho Chi Minh City, Vietnam']","['Closed', ' ⋅ Opens 5\u202fPM Fri']",Vietnamese,89 Tôn Thất Đạm
+41,Au Parc Restaurant,4.4,"(1,387)",None,['Where to Eat in Ho Chi Minh City : Western and Vietnamese Restaurant Recommendations'],"['Closed', ' ⋅ Opens 7:30\u202fAM Fri']",Restaurant,23 Hàn Thuyên
+42,TAN LAP,3.9,(339),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11:59\u202fPM']",Restaurant,277 Đ. Lê Thánh Tôn
+43,Chanh Bistro Rooftop Saigon,4.4,(702),$$$,"['Dine-in', 'Takeout', 'No delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM']",Western,"Rooftop level, 215 Lý Tự Trọng"
+44,Tra An Food,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+45,Sushi Tei Vietnam,4.2,"(1,784)",$$$,['The Top 7 Japanese Restaurants In Saigon'],"['Closed', ' ⋅ Opens 11\u202fAM']",Sushi,200A Lý Tự Trọng
+46,Chiyoda Sushi Bến Thành,4.4,"(1,227)",None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closed', ' ⋅ Opens 11\u202fAM']",Sushi,256 Đ. Lê Thánh Tôn
+47,Quán Tino,3.8,(171),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 3\u202fPM']",Seafood,391/7 Đ. Trần Hưng Đạo
+48,Restaurante autóctono,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+49,Nhà Hàng Các Món Chay RÔU,4.1,(251),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,567A Đ. Trần Hưng Đạo
+50,Thanh's Kitchen,None,None,None,['Dine-in'],"['Closed', ' ⋅ Opens 11\u202fAM']",Restaurant,21/40a Trần Đình Xu
+51,Mì Ý Double B,4.3,"(1,472)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Italian,391TK40/24 Đ. Trần Hưng Đạo

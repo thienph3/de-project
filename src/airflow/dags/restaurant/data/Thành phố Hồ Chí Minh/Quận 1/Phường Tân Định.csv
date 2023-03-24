@@ -61,3 +61,39 @@
 59,Quán A Phí,3.8,(5),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9\u202fPM ⋅ Opens 11:30\u202fAM Fri']",Bistro,TK37/23 Đ. Nguyễn Cảnh Chân
 60,Quán Mẹ Tôi,None,None,None,"['Dine-in', 'Takeout']",[],Restaurant,13/8 Hẻm 457 Trần Hưng Đạo
 61,Restaurante autóctono,5.0,(1),None,"['Dine-in', 'Takeout']",[],Restaurant,391/19 Đ. Trần Hưng Đạo
+62,Esta Saigon,4.6,(150),None,[],"['Closed', ' ⋅ Opens 9\u202fAM Fri']",Chocolate artisan,2 Lam Son Square
+63,LastCall Rooftop &amp; Kitchen,4.3,(118),None,['Dine-in'],"['Open', ' ⋅ Closes 1\u202fAM']",Restaurant,Số 2Bis Công Trường Quốc Tế
+64,Esta Saigon,4.6,(150),None,"['Dine-in', 'No delivery']","['Closed', ' ⋅ Opens 6\u202fPM Fri']",Asian Fusion,27 Trần Quý Khoách
+65,CƠM HẺM,None,None,None,"['Dine-in', 'Curbside pickup']","['Open', ' ⋅ Closes 2:30\u202fAM']",Bistro,27/8 Đ. Trần Khắc Chân
+66,Phở Hiền,4.3,(50),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7:30\u202fAM Fri']",Restaurant,88 Đ. Trần Khắc Chân
+67,Å by TUNG,4.7,(138),None,"['Dine-in', 'No delivery']","['Closes soon', ' ⋅ 11:30\u202fPM ⋅ Opens 6\u202fPM Fri']",Fine Dining,31-33 Đặng Dung
+68,Sushi Masa,4.4,"(1,066)",None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closed', ' ⋅ Opens 11\u202fAM Fri']",Sushi,52 Thạch Thị Thanh
+69,TRÀ QUẾ Restaurant,2.3,(3),None,"['Dine-in', 'Takeout']",[],None,None
+70,Thang Restaurant,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Restaurant,"88, Tran Quang Khai Street, Da Kao Ward, District 1"
+71,LERESTO - Món Pháp Giá Việt,4.2,(178),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",French,359 Đ. Hoàng Sa
+72,Cháo Trắng,4.3,(6),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Vegetarian,10 Đ. Trần Khắc Chân
+73,Cơm Gà Sốt Tân Định,4.8,(12),None,"['Dine-in', 'Drive-through', 'Delivery']","['Closed', ' ⋅ Opens 9:30\u202fAM Fri']",Vietnamese,81/14 Nguyễn Hữu Cầu
+74,Cuc Gach Quan Restaurant,4.3,"(2,958)",$$$,"['Weekend trip guide: Ho Chi Minh, Vietnam’s vibrant city of food, history, and culture']","['Closes soon', ' ⋅ 11:30\u202fPM ⋅ Opens 9\u202fAM Fri']",Vietnamese,10 Đặng Tất
+75,Tàu Hủ Ly Cối,None,None,None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']",[],None,None
+76,Nhà hàng Chay Việt An,4.3,(206),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fAM Fri']",Vegetarian,11 Đ. Trần Nhật Duật
+77,Nhà hàng No Name,4.1,(305),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Restaurant,357 Đ. Hoàng Sa
+78,Nhà Hàng Hoàng Ty,4.0,"(1,344)",None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Restaurant,1 Nguyễn Hữu Cầu
+79,Cồng Cheng Cheng,4.9,(30),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 7\u202fAM Fri']",Restaurant,19 Đ. Trần Khắc Chân
+80,Cháo Ếch Singapore Tân Định,None,None,None,[],['Temporarily closed'],Restaurant,2 Nguyễn Hữu Cầu
+81,Å by TUNG,4.7,(138),None,"['Dine-in', 'No delivery']","['Closed', ' ⋅ Opens 6\u202fPM Fri']",Fine Dining,31-33 Đặng Dung
+82,Cuc Gach Quan Restaurant,4.3,"(2,958)",$$$,"['Weekend trip guide: Ho Chi Minh, Vietnam’s vibrant city of food, history, and culture']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Vietnamese,10 Đặng Tất
+83,Miên Eatery,None,None,None,"['Dine-in', 'No takeout', 'No delivery']",[],None,None
+84,Buddha Chay,4.4,"(1,493)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Vegetarian,31 Đặng Tất
+85,An vặt ngon,None,None,None,[],['Temporarily closed'],Restaurant,QMRV+CV6
+86,Esta Saigon,4.6,(150),None,"['Dine-in', 'No delivery']","['Closed', ' ⋅ Opens 6\u202fPM']",Asian Fusion,27 Trần Quý Khoách
+87,Å by TUNG,4.7,(138),None,"['Dine-in', 'No delivery']","['Closed', ' ⋅ Opens 6\u202fPM']",Fine Dining,31-33 Đặng Dung
+88,Sushi Masa,4.4,"(1,066)",None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closed', ' ⋅ Opens 11\u202fAM']",Sushi,52 Thạch Thị Thanh
+89,Bánh Khọt &amp; Bánh Mì Hấp,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fPM']",Vietnamese,Hẻm 54 Đ. Trần Khắc Chân
+90,Cơm Gà Sốt Tân Định,4.8,(12),None,"['Dine-in', 'Drive-through', 'Delivery']","['Closed', ' ⋅ Opens 9:30\u202fAM']",Vietnamese,81/14 Nguyễn Hữu Cầu
+91,Cuc Gach Quan Restaurant,4.3,"(2,958)",$$$,"['Weekend trip guide: Ho Chi Minh, Vietnam’s vibrant city of food, history, and culture']","['Closed', ' ⋅ Opens 9\u202fAM']",Vietnamese,10 Đặng Tất
+92,LERESTO - Món Pháp Giá Việt,4.2,(178),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",French,359 Đ. Hoàng Sa
+93,Nhà hàng Chay Việt An,4.4,(207),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Vegetarian,11 Đ. Trần Nhật Duật
+94,Nhà hàng No Name,4.1,(305),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,357 Đ. Hoàng Sa
+95,Nhà Hàng Hoàng Ty,4.0,"(1,344)",None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,1 Nguyễn Hữu Cầu
+96,Buddha Chay,4.4,"(1,493)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Vegetarian,31 Đặng Tất
+97,CƠM HẺM,None,None,None,"['Dine-in', 'Curbside pickup']","['Closed', ' ⋅ Opens 10:30\u202fAM']",Bistro,27/8 Đ. Trần Khắc Chân

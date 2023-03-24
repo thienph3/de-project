@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Cafe Âm Thanh,4.4,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"122, Định Công, Quận Hoàng Mai, Thành Phố Hà Nội"
+1,Quán Thức Ăn Nhanh 389,4.2,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"389, Trương Định, Phường Tương Mai, Quận Hoàng Mai, Thành Phố Hà Nội"
+2,Nhà Hàng Nam Sơn 2,1.8,(4),None,['Dine-in'],[],None,None
+3,Cơm tám Nam Xuân,4.0,(4),None,"['Dine-in', 'Takeout']",[],None,None
+4,Nam Son Restaurant,3.8,(411),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,809 Giải Phóng
+5,An Phuc Vegetarian Food,4.1,(326),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 5:30\u202fPM']",Delivery Restaurant,31 Đ. Bờ Sông Sét
+6,Công Ty TNHH Thương Mại Dịch Vụ Và Xuất Nhập Khẩu Linh Chi,5.0,(1),None,['Dine-in'],[],None,None
+7,Doanh Nghiệp Tư Nhân Dịch Vụ Phạm Ngọc Tráng,3.7,(3),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"150, Định Công Hạ, Phường Định Công, Quận Hoàng Mai, Thành Phố Hà Nội"
+8,Café Hảo Hiền,4.5,(2),None,"['Dine-in', 'Takeout']",[],None,None
+9,Cửa Hàng Hoa Quả Tươi Tiến Nhanh,4.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Restaurant,"175, Giáp Bát, Quận Hoàng Mai, Thành Phố Hà Nội"
+10,House Coffee,4.4,(14),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"349/192, Lê Trọng Tấn, Quận Hoàng Mai, Thành Phố Hà Nội"
+11,Nhà Hàng Ngọc Ngân,None,None,None,['Dine-in'],[],None,None
+12,Tí Quán Lẩu Thái Tom Yum,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+13,Cửa Hàng Hoa Quả Trần Tuấn,4.3,(3),None,['Dine-in'],[],None,None
+14,Cafe Còi,4.5,(2),None,['Dine-in'],[],None,None
+15,Quán Lá Làng Tôi,4.2,(6),None,"['Dine-in', 'Takeout']",[],None,None
+16,Hola Hotpot &amp; Grill,4.1,(10),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4:30\u202fPM']",Restaurant,609 Trương Định
+17,Tuyet Thanh Restaurant,4.1,(237),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,24 P. Kim Đồng
+18,Ẩm Thực Đường Phố Trương Định Food,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,Café Bin,4.3,(4),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None

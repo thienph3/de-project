@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Cafe Âm Thanh,4.4,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"122, Định Công, Quận Hoàng Mai, Thành Phố Hà Nội"
+1,Brothers Beer,4.1,(35),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Family-friendly,"196-198-200, P. Trần Điền"
+2,Quán Thức Ăn Nhanh 389,4.2,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"389, Trương Định, Phường Tương Mai, Quận Hoàng Mai, Thành Phố Hà Nội"
+3,Cửa Hàng Hoa Quả Trần Tuấn,4.3,(3),None,['Dine-in'],[],None,None
+4,Bún ốc Quạt Trần Định Công,4.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+5,Nhà Hàng Việt Anh,3.8,(74),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,100A P. Trần Điền
+6,Quán Tào Phớ Và Cà Phê Trà Đài Loan,4.8,(4),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"82, Nguyễn An Ninh, Quận Hoàng Mai, Thành Phố Hà Nội"
+7,Doanh Nghiệp Tư Nhân Dịch Vụ Phạm Ngọc Tráng,3.7,(3),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"150, Định Công Hạ, Phường Định Công, Quận Hoàng Mai, Thành Phố Hà Nội"
+8,Trương Xuân Thành,None,None,None,['Dine-in'],[],None,None
+9,Gà Tươi Mạnh Hoạch,2.5,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,99 P. Trần Điền
+10,Công Ty TNHH Thương Mại Dịch Vụ Và Xuất Nhập Khẩu Linh Chi,5.0,(1),None,['Dine-in'],[],None,None
+11,Street Food,4.7,(3),None,"['Dine-in', 'Takeout']",[],None,None
+12,658 Trương Định Giáp bát hoàng mai hà nội,None,None,None,['Dine-in'],[],None,None
+13,Bề Bề Quán - Món ăn truyền thống gia đình,4.0,(7),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6:30\u202fAM Sat']",Restaurant,Lô 6 B35
+14,Cafe Còi,4.5,(2),None,['Dine-in'],[],None,None
+15,Ha Phong II Restaurant,4.5,(8),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"493, Đường Trương Định, Quận Hoàng Mai"
+16,Quán Trà Sữa Trân Châu,4.2,(5),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+17,Cửa Hàng Hoa Quả Tươi Tiến Nhanh,4.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Restaurant,"175, Giáp Bát, Quận Hoàng Mai, Thành Phố Hà Nội"
+18,Café Hảo Hiền,4.5,(2),None,"['Dine-in', 'Takeout']",[],None,None
+19,Nhà hàng Bảo Vân,4.0,(157),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,658 Trương Định

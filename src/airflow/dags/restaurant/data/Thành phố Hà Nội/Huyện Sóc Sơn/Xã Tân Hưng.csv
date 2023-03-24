@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà Hàng Nhâm Thành,3.9,(75),None,"['Dine-in', 'Takeout']",['Open 24 hours'],None,None
+1,Nhà Hàng Bẩy Liễu,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,Công Ty Cổ Phần Sản Xuất Đức Sơn,4.0,(6),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"8VCF+M6G, Làng Nỷ, Xã Trung Giã, Huyện Sóc Sơn, Thành Phố Hà Nội"
+3,Coffee Phương Tú,5.0,(2),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,"Business Center Peace, 18B-20B"
+4,Nhà hàng Khoa Lòng,None,None,None,"['Dine-in', 'Takeout']",[],None,None

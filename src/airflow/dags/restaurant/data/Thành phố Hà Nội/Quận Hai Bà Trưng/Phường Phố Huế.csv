@@ -1,0 +1,26 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Phở Dung,2.3,(3),None,"['Dine-in', 'Takeout']",[],None,None
+1,Quán Phở - Giải Khát,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+2,Phở Tùng,4.6,(41),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fAM Sat']",Restaurant,223 P. Kim Ngưu
+3,"Ha Noi Electrical Co.,Ltd",5.0,(2),None,['Dine-in'],[],None,None
+4,Nhà Hàng Bia Hơi Hà Nội Anh Dũng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Cafe Kiên,4.0,(2),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,170 P. Lạc Trung
+6,Phở Hòa,4.5,(23),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6:15\u202fAM Sat']",Restaurant,30 P. Lạc Trung
+7,Vũ Cafe,5.0,(1),None,['Dine-in'],[],None,None
+8,Phở Thanh Hà,4.0,(484),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,238 P. Lạc Trung
+9,Anna Steak,4.3,(75),None,"['""Great ', 'food', ' at good prices.""']","['Open', ' ⋅ Closes 10\u202fPM']",Steak,130A P. Lạc Trung
+10,Quán Cafe Vân,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+11,Hoang Lan Anh Restaurant,4.2,(9),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",African,880 Đ. Bạch Đằng
+12,Chảo Cười Restaurant,4.4,(10),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,148 P. Lạc Trung
+13,Quán Cúc Thành,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+14,Tiệm Trái Cây Nhập Khẩu,None,None,None,['Dine-in'],[],None,None
+15,Cháo lòng ngon,4.5,(2),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,27 Ng. 325 P. Kim Ngưu
+16,Cơm Tấm Suri,4.3,(6),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,250 P. Lạc Trung
+17,Food Store,3.0,(1),None,['Takeout'],[],None,None
+18,Bếp Kim Dung,4.7,(10),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Restaurant,"12 Ngách 121, 3 P. Kim Ngưu"
+19,Kim Long,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+20,Quán Bún Bung Mai Anh,3.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,"134, Lạc Trung, Quận Hai Bà Trưng, Thành Phố Hà Nội"
+21,18H1-Greenfood,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Seafood,ngách 38 Ng. 121 P. Kim Ngưu
+22,Chuyên Các Loại lẩu - Đồ nhậu - Bia hơi Hà nội,None,None,None,['Dine-in'],['Open 24 hours'],Restaurant,126 Nguyễn Khoái
+23,Bún ốc sườn cô Sáu,4.2,(38),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,254 P. Lạc Trung
+24,Bún cá chấm CCG,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Asian,112 P. Lạc Trung

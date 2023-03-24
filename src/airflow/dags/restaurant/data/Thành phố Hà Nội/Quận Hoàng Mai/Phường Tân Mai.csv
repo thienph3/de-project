@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cafe Còi,4.5,(2),None,['Dine-in'],[],None,None
+1,Quán Thức Ăn Nhanh 389,4.2,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"389, Trương Định, Phường Tương Mai, Quận Hoàng Mai, Thành Phố Hà Nội"
+2,Café Hảo Hiền,4.5,(2),None,"['Dine-in', 'Takeout']",[],None,None
+3,Quán Bò Nhúng Dũng Đội,3.8,(5),None,"['Dine-in', 'Takeout']",[],None,None
+4,Cửa Hàng Hoa Quả Trần Tuấn,4.3,(3),None,['Dine-in'],[],None,None
+5,Bún cá cổng trường Tân Mai,3.8,(5),None,"['Dine-in', 'Takeout']",[],None,None
+6,Quán cơm bình dân,3.4,(5),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,6 ngõ 20 Phố Tân Mai
+7,Ha Phong II Restaurant,4.5,(8),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"493, Đường Trương Định, Quận Hoàng Mai"
+8,Quán Ngọc Linh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,Phở bò gà 24/7 Tân Mai,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Cửa Hàng Sầu Riêng Cô Ba Sài Gòn,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+11,109 phố Tân Mai,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fPM']",Barbecue,109 Phố Tân Mai
+12,Quán Bún Chả Hà Linh,3.5,(4),None,"['Dine-in', 'Takeout']",[],None,None
+13,Nhà Hàng Chiên Béo,2.7,(3),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+14,Bia Hơi Hà Nội - Anh Em Quán,3.7,(102),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,162 Phố Tân Mai
+15,Cửa hàng Vinachao,4.8,(4),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 8\u202fPM']",Restaurant,181 Phố Tân Mai
+16,Nhà Hàng Vạn Xuân,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+17,Cơm Tấm A Ngon,4.0,(29),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,58 P. Kim Đồng
+18,Bumtro Nam Bộ,5.0,(3),None,"['Dine-in', 'Takeout']",[],None,None
+19,Quán Phở Tái Lăn,4.2,(6),None,"['Dine-in', 'Takeout']",[],None,None

@@ -1,0 +1,58 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Vịt nướng THANH BÌNH,4.7,(3),None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,"69PW+8RG, Thôn Tri Lai, Xã Đồng Thái"
+1,559 Restaurant Ba Vi,4.3,(262),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",None,None
+2,Vườn Ẩm Thực Ba Vì,4.2,(114),None,"['Dine-in', 'Takeout']",['Open 24 hours'],None,None
+3,Thôn đồng bảng đồng thái ba vì Hà Nội Việt Nam,5.0,(1),None,[],[],None,None
+4,Ba Vì General Hospital,3.4,(65),None,"['""... là bệnh viện hạng II của Hà Nội với chỉ tiêu giường bệnh kế hoạch&nbsp;...""']",['Open 24 hours'],General hospital,UBND xã Đồng Thái
+5,Ba Vi Xanh restaurant,3.4,(122),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,"39MC+JQP, Vườn Quốc Gia Ba Vì"
+6,Đình Tri Lai,4.7,(10),None,"['""Vị trí: 69PW+GW, thôn Tri Lai, ', 'xã Đồng Thái', ', H. Ba Vì, ', 'TP Hà Nội', '.""']",['Temporarily closed'],Place of worship,"69PW+GWX, Thôn Tri Lai, Xã Đồng Thái,"
+7,Đồng Thái,None,None,None,[],[],None,None
+8,Dong Thai Junior High School,4.4,(12),None,"['""Trường :quốc lộ 32 ba vì Hà nội Trường :xanh sạch đẹp giáo vien rất&nbsp;...""']",['Temporarily closed'],Middle school,"69GX+PJ8, Xã Đồng Thái, Huyện Ba Vì"
+9,Trạm y tế xã Đồng Thái,3.5,(2),None,[],[],None,None
+10,Trường tiểu học Đồng Thái,None,None,None,[],[],None,None
+11,Công Ty TNHH Vinaepoxy Việt Nam,5.0,(1),None,[],[],None,None
+12,Vịt nướng THANH BÌNH,4.7,(3),None,"['Dine-in', 'Takeout']",[],None,None
+13,Q.cafe,5.0,(5),None,"['Dine-in', 'Takeout']",['Open now'],Coffee shop,"6C93+35V, QL32"
+14,Nhà Hàng Lá Cọ Ba Vì,4.0,(562),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,Cầu Và
+15,Chai Talay Restaurant,3.7,(427),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fPM']",Thai,474 P. Xã Đàn
+16,Son Dong Baba Restaurant,4.0,(152),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,416 P. Xã Đàn
+17,PHỞ BÁT ĐÁ 98 THÁI THỊNH,4.2,(113),None,"['Dine-in', 'No-contact delivery']",[],None,None
+18,Bếp Thái Koh Yam - Thái Hà,4.1,(494),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Thai,330 P. Thái Hà
+19,Botanica Restaurant,4.2,(353),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",French,3 P. Thái Phiên
+20,Cube Beefsteak &amp; Drinks,4.1,(322),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Steak,"20 Ngõ, 211 P. Xã Đàn"
+21,Phở Ấp Thái Hà,5.0,(25),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:35\u202fPM']",Fast Food,352 P. Thái Hà
+22,Quán Bia Hoàn Béo,3.9,(743),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Beer Garden,21 P. Đông Các
+23,Nhà Hàng Cơm 123,4.3,(746),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,482 P. Xã Đàn
+24,Hiệu Chè Cát Thành,3.8,(107),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+25,Quán Chè Ngon,4.2,(19),None,"['Dine-in', 'Takeout']",[],None,None
+26,Susu Bánh bao Thượng Hải,4.1,(68),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,227 P. Xã Đàn
+27,Q.cafe,5.0,(5),None,"['Dine-in', 'Takeout']",[],None,None
+28,Nhà Hàng Nét Huế,4.0,(564),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,34-36 P. Thái Hà
+29,Chè Khúc Bạch,4.0,(1),None,[],['Temporarily closed'],Restaurant,171 P. Xã Đàn
+30,Ba Vì General Hospital,3.4,(65),None,"['""Bệnh viện đa khoa ', 'huyện', ' Ba Vì là&nbsp;...""']",['Open 24 hours'],General hospital,UBND xã Đồng Thái
+31,Đình Tri Lai,4.7,(10),None,"['""Vị trí: 69PW+GW, thôn Tri Lai, xã Đồng Thái, H. Ba Vì, TP Hà Nội.""']",['Temporarily closed'],Place of worship,"69PW+GWX, Thôn Tri Lai, Xã Đồng Thái,"
+32,Nhà Hàng THẾ GIỚI NỒI HƠI,4.2,(143),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,124 P. Lê Trọng Tấn
+33,Trạm y tế xã Đồng Thái,3.5,(2),None,[],['Open now'],Local medical services,"69GW+JC8, ĐT93"
+34,KFC,4.0,(609),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Fast Food,476 P. Xã Đàn
+35,Nhà hàng Tầm Vị,4.3,(281),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Vietnamese,4b P. Yên Thế
+36,Gia Restaurant,4.6,(90),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fPM']",Fine Dining,61 P. Văn Miếu
+37,QUÁN NHÀ MÌNH,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 8\u202fPM']",Takeout Restaurant,KIOT 21 cổng sau đại học thủy lợi
+38,Thu Huong,None,None,None,['Dine-in'],[],None,None
+39,Quán Cơm Văn Phòng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+40,What the B Restaurant,4.6,(27),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Asian,23 P. Ngô Tất Tố
+41,Cafe Liberty,4.0,(1),None,['Dine-in'],[],None,None
+42,",mộc",None,None,None,"['Dine-in', 'Takeout']",[],None,None
+43,Chic Restaurant,4.3,(6),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"2RHP+GV6, P. Nguyễn Khuyến"
+44,Quán Vịt 88,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+45,Phở Thanh Hoa,4.0,(59),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Pho,47 P. Văn Miếu
+46,Vuong Khang Restaurant,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+47,37 Hồ Ba Mẫu,None,None,None,['Dine-in'],['Open 24 hours'],Restaurant,Hồ Ba Mẫu
+48,Tiệm ăn Góc Sì Gòn,4.9,(31),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5:30\u202fPM']",Family-friendly,6 P. Cát Linh
+49,Hường Ốc,4.1,(233),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Seafood,33 P. An Trạch
+50,Windmill Brewery,4.0,(98),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,31 P. Đặng Trần Côn
+51,Caballo Wine Club - Thông Phong,4.3,(47),None,['Dine-in'],"['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,23 Ng. Thông Phong
+52,Café Thiện Tâm,5.0,(2),None,['Dine-in'],[],None,None
+53,Cafe Tre Việt,None,None,None,['Dine-in'],[],None,None
+54,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+55,559 Restaurant Ba Vi,4.3,(263),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",None,None
+56,Quán 559,4.2,(34),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,"3CX2+2R7, Vườn Quốc Gia"

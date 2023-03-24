@@ -1,2 +1,7 @@
 ,name,stars,review,price,note,open_time,restautant_type,address
 0,Phường 13,None,None,None,[],[],Gò Vấp,Vietnam
+1,Quán Tino,3.8,(171),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 3\u202fPM']",Seafood,391/7 Đ. Trần Hưng Đạo
+2,Restaurante autóctono,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+3,Nhà Hàng Các Món Chay RÔU,4.1,(251),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,567A Đ. Trần Hưng Đạo
+4,Thanh's Kitchen,None,None,None,['Dine-in'],"['Closed', ' ⋅ Opens 11\u202fAM']",Restaurant,21/40a Trần Đình Xu
+5,Mì Ý Double B,4.3,"(1,472)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Italian,391TK40/24 Đ. Trần Hưng Đạo

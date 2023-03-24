@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán ăn Thẩm Lan,5.0,(1),None,"['Dine-in', 'Drive-through']",['Open 24 hours'],Family-friendly,ĐT74
+1,Quán ăn sáng Cây Sấu (Thẩm Lan),4.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6:30\u202fAM Sat']",Bistro,JRR5+W58
+2,AO QUÁN CHUYÊN LẨU BIA,4.5,(26),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open 24 hours'],Restaurant,QL21B
+3,Nhà Hàng Trường Xuân,4.1,(44),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,Dốc QL21B
+4,Thịnh Sinh Restaurant Tiểu Hổ,4.3,(25),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,MQR2+5M6
+5,Nhà May Duy Hằng,4.7,(6),None,['Dine-in'],['Open 24 hours'],Restaurant,MQRX+G34
+6,Ngõ TÂY MÔN TRẠCH,4.7,(3),None,"['Dine-in', 'Delivery']","['Open', ' ⋅ Closes 5\u202fPM']",Restaurant,MRJ3+H7P
+7,xuân cương,3.8,(12),None,['Dine-in'],[],None,None
+8,Trần Huy,None,None,None,['Dine-in'],[],None,None
+9,Quán Hoa Thiên Lý,None,None,None,['Dine-in'],[],None,None
+10,Quán Nước Cô Hằng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+11,DƯ XÁ THƯỢNG,4.5,(43),None,"['Dine-in', 'Takeout']",[],None,None
+12,Tiến nhị,5.0,(1),None,['Dine-in'],"['Open', ' ⋅ Closes 4:30\u202fPM']",None,None
+13,Trần Gia,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,Đ. Xóm 7
+14,Cây Si Quán,None,None,None,['Dine-in'],['Open 24 hours'],Restaurant,"MQV9+GX6, Nội Xá"
+15,Hằng com Lê- áo dài,5.0,(3),None,"['Dine-in', 'Takeout']",[],None,None
+16,PHỞ BÒ BẢO THẢO,4.3,(3),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Bistro,"QL 21b,đặng giang,hòa phú,ứng hòa,hà nội"
+17,Nhà Hàng Bình Thủy,4.2,(14),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 3\u202fPM ⋅ Reopens 5\u202fPM']",Restaurant,MQR2+3JH
+18,Phong Vân Quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,Nhà Hàng Hiền Lương,4.3,(3),None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,"MPQX+PPV, Đường tỉnh 76"

@@ -1,0 +1,24 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Café Như Ý Silk,3.0,(1),None,['Dine-in'],[],None,None
+1,Café 22,4.0,(1),None,['Dine-in'],[],None,None
+2,Nhà Hàng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"9, Xa La, Quận Hà Đông, Thành Phố Hà Nội"
+3,Quán cafe AHO,2.3,(7),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,28 Đường TT7
+4,Nhà Hàng Cầu Am,4.0,(93),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,12 Trưng Trắc
+5,Cửa Hàng Hoa Quả Sạch Trần Hưng Đạo,None,None,None,['Dine-in'],[],None,None
+6,Quán Cà Phê Hưng Phương,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+7,Quán Cơm Thạch Đan,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Nam Sơn quán,4.5,(22),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"Lô 12 Dãy A, khu đấu cá"
+9,Bìa Hải Xồm,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,7 Đ. Phùng Hưng
+10,Nhà hàng Hải Yến,4.1,(101),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,18 Đ. Phùng Hưng
+11,Nhà Hàng 151,3.8,(37),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+12,Café - Sinh Tố,None,None,None,['Dine-in'],[],None,None
+13,Vịt Quay Chính - Anh,5.0,(12),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Barbecue,52 Đ. Phùng Hưng
+14,Phở,4.3,(7),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,163 Đ. Phùng Hưng
+15,Hùng Hoa Quán,3.8,(12),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Grill,"XQGG+MHV, P. Cầu Am"
+16,Mỳ cay Koreno,3.7,(10),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,69 Đường 19/5
+17,Hưng Híp Nướng,3.6,(176),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,163 Đường 19/5
+18,Quán lòng Thức Trọc,4.2,(77),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"XQCP+W8G, Unnamed Road"
+19,Quán Lẩu Nướng Sơn Tùng,4.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"XQHF+3XV, Đ. Phùng Hưng"
+20,NDD kiến hưng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+21,Nhà Hàng Lẩu Hà Nội,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"30-BT5, Nguyễn Khuyến"
+22,Café Hiển Vân,5.0,(2),None,['Dine-in'],[],None,None

@@ -1,0 +1,26 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Trung Dũng Restaurant Tiểu Hổ,4.4,(22),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,MQW2+3XM
+1,Thịnh Sinh Restaurant Tiểu Hổ,4.3,(25),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,MQR2+5M6
+2,Nhà Hàng Thắng Béo,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+3,Sinh Cúc Mèo Restaurant,3.8,(97),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,MQV2+6X3
+4,Quán Nước Cô Hằng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Quán Hoa Thiên Lý,None,None,None,['Dine-in'],[],None,None
+6,Nhà Hàng Thu Quyên,5.0,(2),None,"['Dine-in', 'Takeout']",['Open 24 hours'],None,None
+7,Nhà hàng Dũng Hằng,4.0,(4),None,"['Dine-in', 'Takeout']",[],None,None
+8,Nhà Hàng Thủy Viên,3.8,(80),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,MPQW+7G3
+9,Thẩm Mỹ Hoa Phượng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Xuân Hoa Restaurant,4.0,(11),None,"['Dine-in', 'Takeout']",[],None,None
+11,Nhà hàng ba thuỷ,3.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+12,Nhà Hàng Trường Xuân,4.1,(44),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,Dốc QL21B
+13,Lẩu Ếch Mật Mật,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+14,Trần Huy,None,None,None,['Dine-in'],[],None,None
+15,Trần Gia,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,Đ. Xóm 7
+16,Mão Mèo Quán Thôn 9 Xã Phù Lưu Tế,4.0,(1),None,['Dine-in'],['Open now'],Restaurant,MPRQ+FXJ
+17,Nhà Hàng Diệp Linh,4.5,(6),None,"['Dine-in', 'Takeout']",[],None,None
+18,nhà hàng Mộc Mèo,4.0,(22),None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,MQV3+23M
+19,Nhà Văn Hóa thôn Thọ Sơn,4.1,(9),None,['Dine-in'],[],None,None
+20,Trang Anh,None,None,None,['Dine-in'],[],None,None
+21,Trà sữa gà rán MICHI,4.2,(6),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 12:30\u202fAM']",Restaurant,MPQX+MHF
+22,Nhà Hàng Hiền Lương,4.3,(3),None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,"MPQX+PPV, Đường tỉnh 76"
+23,Tú Tươi,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+24,Garage Quốc Sự,5.0,(1),None,['Dine-in'],[],None,None

@@ -19,3 +19,13 @@
 17,Nhà Hàng Hải Sản 346,4.0,(43),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,183 Đ. Cao Thắng
 18,Bún đậu Ba Chị Em,4.3,(19),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 10\u202fAM Fri']",Vietnamese,339 Nguyễn Tri Phương
 19,Quán Quý Thành贵成,4.0,(564),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 2\u202fAM']",Seafood,293 Nguyễn Tri Phương
+20,Lẩu Ngon,4.4,(18),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Opens soon', ' ⋅ 9\u202fAM']",Hot Pot,35B
+21,Quán Phở,5.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5\u202fPM']",Bistro,22 Thủy Lợi
+22,ChunhoNcare Văn Nhịn TP THỦ ĐỨC,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5:30\u202fPM']",Sundae restaurant,17 Đ. Số 176
+23,Hải Sản Số 01,4.4,(41),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4\u202fPM']",Restaurant,"TP Thủ Đức, 127A1 Đường Tăng Nhơn Phú"
+24,Quán Ốc 268,4.9,(8),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 2\u202fPM']",Seafood,"KDC Bách Giang, Đ. 268"
+25,Cháo Vịt Thu Phương,5.0,(2),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 3\u202fPM']",Family-friendly,Đ. Số 3
+26,Coffee House Quận 9,4.3,(16),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,70A Đ. số 109
+27,Quán Chòi Lá,4.1,(42),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,"Đường số, 128 Điện hoa 24h"
+28,Ngọc Dương Quán 2,4.4,(10),None,"['Dine-in', 'Takeout']",[],Restaurant,"18, Đỗ Xuân Hợp, Phường Phước Long A"
+29,Quán Ăn Út Duyên,4.1,(11),None,"['Dine-in', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,44 Nam Hòa

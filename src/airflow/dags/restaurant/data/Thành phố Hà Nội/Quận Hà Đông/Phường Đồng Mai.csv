@@ -1,0 +1,8 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Café Như Ý Silk,3.0,(1),None,['Dine-in'],[],None,None
+1,Café 22,4.0,(1),None,['Dine-in'],[],None,None
+2,Quán Cô Hiện,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+3,Quán Ngon Thảo Bò,3.9,(399),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,178 P. Yên Bình
+4,Quán cafe AHO,2.3,(7),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,28 Đường TT7
+5,Nhà Hàng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"9, Xa La, Quận Hà Đông, Thành Phố Hà Nội"
+6,Nhà Hàng Cầu Am,4.0,(93),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,12 Trưng Trắc

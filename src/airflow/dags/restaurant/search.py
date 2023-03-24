@@ -15,8 +15,12 @@ import pandas as pd
 import random  
 import subprocess
 from tqdm import tqdm
+import argparse 
+import numpy as np
+
+
 SCROLLING_NUMBER = 10
-def ward_district_search_term(city = None):
+def ward_district_search_term(city = None, chunk=True, chunk_number=1, run_only_chunk=1):
     root = './dags/restaurant'
     location_path = root + '/cfg/city_district_ward.csv' 
     data = pd.read_csv(location_path)
@@ -28,11 +32,17 @@ def ward_district_search_term(city = None):
     
     city_path = root + '/data/{}'.format(city)
 
-    print(os.path.exists(city_path))
+
     if not os.path.exists(city_path):
         os.mkdir(city_path)
+    df.sort_values("District", inplace=True) 
+    districts =  df['District'].unique()
+    chunked_district = chunking(districts, chunk_number) 
+    _districts = chunked_district[run_only_chunk]
+    print(_districts)
 
-    for district in df['District'].unique()[0:6]: 
+
+    for district in _districts: 
         district_path = root + '/data/{}/{}'.format(city, district)
         if not os.path.exists(district_path):
              os.mkdir(district_path)
@@ -70,49 +80,51 @@ def read_element(driver, fpath):
     try:
         result_div = driver.find_element(
             By.CSS_SELECTOR, "div.m6QErb.DxyBCb.kA9KIf.dS8AEf.ecceSd"
-    )
+            )
         all_result = result_div.find_elements(
              By.CSS_SELECTOR, "div.bfdHYd.Ppzolf.OFBs3e")
         print("Number of restautant: {}".format(len(all_result)))
 
         for result in tqdm(all_result):
-            name = find_value(
-                    result, "div.qBF1Pd.fontHeadlineSmall")
-            stars = find_value(
-                    result, "span.MW4etd")
-            reviews = find_value(
-                    result, "span.UY7F9")
-            price = find_value(
-                    result, "span[aria-label='Price: Expensive']")
-            #print(name, stars, reviews, price)
-    
-            note = find_values(
-                    result, "div.ah5Ghc > span")
-            #print(note)
-            open_time = find_values(
-                    result, "div.W4Efsd > div.W4Efsd > span > span > span")
-            #print(open_time)
-            
-            b = find_values(result, "div.W4Efsd > div.W4Efsd > span > span")
-            if b and len(b) > 3:
-                restaurant_type = b[0]
-                address = b[2]
-            else: 
-                restaurant_type = None
-                address = None
-
-
-            _data =  {'name': name, 
-                     'stars': stars, 
-                     'review': reviews, 
-                     'price': price,
-                     'note': note, 
-                     'open_time': open_time, 
-                     'restautant_type': restaurant_type, 
-                     'address': address}
-
-            datas.append(_data)  
-
+            try: 
+                name = find_value(
+                        result, "div.qBF1Pd.fontHeadlineSmall")
+                stars = find_value(
+                        result, "span.MW4etd")
+                reviews = find_value(
+                        result, "span.UY7F9")
+                price = find_value(
+                        result, "span[aria-label='Price: Expensive']")
+                #print(name, stars, reviews, price)
+       
+                note = find_values(
+                        result, "div.ah5Ghc > span")
+                #print(note)
+                open_time = find_values(
+                        result, "div.W4Efsd > div.W4Efsd > span > span > span")
+                #print(open_time)
+                
+                b = find_values(result, "div.W4Efsd > div.W4Efsd > span > span")
+                if b and len(b) > 3:
+                    restaurant_type = b[0]
+                    address = b[2]
+                else: 
+                    restaurant_type = None
+                    address = None
+   
+   
+                _data =  {'name': name, 
+                        'stars': stars, 
+                        'review': reviews, 
+                        'price': price,
+                        'note': note, 
+                        'open_time': open_time, 
+                        'restautant_type': restaurant_type, 
+                        'address': address}
+                
+                datas.append(_data)  
+            except Exception as e:
+                print(e)
         df_temp = pd.DataFrame(datas)
         df_temp = df_temp.astype(str)
 
@@ -154,6 +166,7 @@ def scrolling_next(driver):
     html.send_keys(Keys.END)
 
 def search(search_term, fpath):
+
     # TODO: loop here to change search-value
     search_value = search_term 
     search_bar.clear()
@@ -179,20 +192,65 @@ def search(search_term, fpath):
 
     return 
 
-if __name__ == "__main__":
-    # searching all restaurant in a ward of a city
+def main(args):
+    city =  'Thành phố Đà Nẵng'  #'Thành phố Hồ Chí Minh' 
+    chunk_number = int(args.num_splitted)
+    run_only_chunk = int(args.num_run)
+    #searching all restaurant in a ward of a city
+    
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     driver.get("https://www.google.com/maps")
     print(driver.title)
     search_bar = driver.find_element(By.ID, "searchboxinput")
 
-    cities =['Thành phố Hồ Chí Minh'] # ['Thành phố Hà Nội'] 
-    for city in cities:
-        for search_term, fpath in ward_district_search_term(city = city):
-            print("search term:", search_term, "\n", "fpath: ", fpath)
-            # TODO: check file path if data is available as >= 10 row then skips
-            search(search_term, fpath)
-            time.sleep(random.randint(1, 3))
-            
+    #city = 'Thành phố Hồ Chí Minh' # ['Thành phố Hà Nội'] 
+    for search_term, fpath in ward_district_search_term(
+            city = city, chunk=True, chunk_number=chunk_number, run_only_chunk=run_only_chunk):
+        print("search term:", search_term, "\n", "fpath: ", fpath)
+           # TODO: loop here to change search-value
+        search_value = search_term 
+        search_bar.clear()
+        search_bar.send_keys(search_value)
+        search_bar.send_keys(Keys.RETURN)
+        
+        driver.implicitly_wait(5)  # wait 5s
 
-    driver.close() 
+        try:
+#     selecting scroll body
+            for _ in range(SCROLLING_NUMBER):
+                try:
+                    scrolling_next(driver)
+                except Exception as e:
+                    pass   
+
+            print('----done scrolling, start read element')
+            read_element(driver, fpath)
+        
+
+        except Exception as e:
+            print(e)
+            time.sleep(random.randint(1, 3))
+                
+    driver.close()
+    return
+
+
+def chunking(l, n):
+    idxs = np.arange(len(l))
+    chunks = np.array_split(idxs, n)
+    r = []
+    for chunk in chunks:
+        r.append(l[chunk[0]: chunk[-1]+1])
+    return r 
+        
+    
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    # parser.add_argument("city")
+    
+    parser.add_argument("num_splitted")
+    parser.add_argument("num_run")
+
+    args = parser.parse_args()
+    main(args)
+

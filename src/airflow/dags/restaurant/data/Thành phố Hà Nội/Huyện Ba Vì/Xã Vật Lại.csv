@@ -1,0 +1,16 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Ba Vi Restaurant,3.7,(148),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,"5CPR+65H, QL32"
+1,Nhà Hàng Tản Viên,4.1,(140),None,"['Dine-in', 'Takeout']",['Open 24 hours'],None,None
+2,Du Lịch Suối Hai,3.8,(12),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,597F+3CW
+3,Quán Thịt Chó Quang Vinh,4.0,(6),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Deli,"5CJW+88V, Xã Đông Quang, Huyện Ba Vì, Thành Phố Hà Nội"
+4,Nhà hàng Tản Viên Sơn,3.9,(81),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"4C38+PG2, TL87A"
+5,What the B Restaurant,4.6,(27),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Asian,23 P. Ngô Tất Tố
+6,Gia Restaurant,4.6,(90),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fPM']",Fine Dining,61 P. Văn Miếu
+7,Van Mieu Deli,4.5,(79),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,39 P. Văn Miếu
+8,QUÁN NHÀ MÌNH,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 8\u202fPM']",Takeout Restaurant,KIOT 21 cổng sau đại học thủy lợi
+9,37 Hồ Ba Mẫu,None,None,None,['Dine-in'],['Open 24 hours'],Restaurant,Hồ Ba Mẫu
+10,Tiệm ăn Góc Sì Gòn,4.9,(31),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5:30\u202fPM']",Family-friendly,6 P. Cát Linh
+11,Thu Huong,None,None,None,['Dine-in'],[],None,None
+12,CAFE H&amp;H,5.0,(2),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,5 P. Văn Miếu
+13,Minh's Family Cooking,3.9,(48),None,"['Dine-in', 'Takeout']",[],None,None
+14,Phở Thanh Hoa,4.0,(59),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Pho,47 P. Văn Miếu

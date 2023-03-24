@@ -1,0 +1,11 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Localthai Restaurant,4.1,(329),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Thai,89/19 Đoàn Văn Bơ
+1,Dntn Chilli,None,None,None,[],['Temporarily closed'],Restaurant,198 Đoàn Văn Bơ
+2,5G Saigon - Beer,4.2,(265),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closes soon', ' ⋅ 12\u202fAM ⋅ Opens 4\u202fPM Fri']",Restaurant,235 Đ. Hoàng Diệu
+3,Elisa Floating Restaurant,4.2,(913),$$$,['Most Romantic Restaurants In Ho Chi Minh'],"['Closed', ' ⋅ Opens 5:30\u202fPM Fri']",Restaurant,5 Nguyễn Tất Thành
+4,A Tỷ,None,None,None,[],['Temporarily closed'],Restaurant,192 Đ. Hoàng Diệu
+5,Quán Hủ tiếu A men,4.3,(11),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 3\u202fPM Fri']",Restaurant,"458 lô Q, Hẻm 178 Đoàn Văn Bơ"
+6,Gami Sushi,4.6,(44),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM Fri']",Japanese,158 Đường 20 Thước
+7,Hàng Dương Quận 4,4.1,"(1,405)",None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Seafood,224 Đ. Số 48
+8,Cơm Gà Anh Mập,3.6,(13),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Fri']",Bistro,QP63+JFX
+9,Giau seafood,3.7,(50),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4\u202fPM Fri']",Restaurant,56 Đường 20 Thước
