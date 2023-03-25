@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Hoài Đức - Hà Nội,4.7,(12),None,"['Dine-in', 'Takeout']",[],None,None
+1,Nhà Hàng Ẩm Thực Phố,4.0,(90),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 8:30\u202fAM']",Restaurant,"km 19 Đức Thượng, QL32"
+2,Đồng Đội Quán,5.0,(1),None,['Dine-in'],"['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,2MJQ+G74
+3,"Bia hơi Dũng Béo, Lai Xá",None,None,None,"['Dine-in', 'Takeout']",[],None,None
+4,The Hawker,3.9,(26),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,16 P. Trịnh Hoài Đức
+5,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+6,Phở Thanh Hoa,4.0,(59),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11:30\u202fAM']",Pho,47 P. Văn Miếu
+7,Café Thiện Tâm,5.0,(2),None,['Dine-in'],[],None,None
+8,Gia Restaurant,4.6,(90),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 11:30\u202fAM']",Fine Dining,61 P. Văn Miếu
+9,Nộm Hế,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 2\u202fPM']",Family-friendly,21 P. Đặng Trần Côn
+10,Lộc-Ally Restaurant,None,None,None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Fine Dining,9 P. Cát Linh
+11,Mỳ cay 7 cấp độ,4.0,(10),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,861
+12,Lẩu Bò Huy Hoa,4.7,(26),None,"['Dine-in', 'Takeout', 'No-contact delivery']",[],None,None
+13,Chic Restaurant,4.3,(6),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"2RHP+GV6, P. Nguyễn Khuyến"
+14,Potomac Restaurant West Lake,4.0,(215),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,9b P. Nguyễn Đình Thi
+15,Tiệm ăn Góc Sì Gòn,4.9,(31),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Family-friendly,6 P. Cát Linh
+16,Phở bò tuấn xuân,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Tiffin center,"Số 1 tổ 1 khu tân, Ng. Hòa Bình"
+17,Quán Văn Phúc,3.8,(61),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,18 P. Lý Văn Phức
+18,Quan Nho Hue,3.3,(3),None,"['Dine-in', 'Takeout']",[],None,None
+19,Ola's Steak,4.4,(19),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM']",Steak,5 P. Cát Linh

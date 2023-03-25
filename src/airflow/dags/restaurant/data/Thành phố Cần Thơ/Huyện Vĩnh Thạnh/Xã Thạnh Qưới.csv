@@ -1,0 +1,33 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Rạp cưới Nguyễn Toàn,4.0,(4),None,['Dine-in'],[],None,None
+1,Đặc Sản Tây Ninh Bánh Tráng Trắng,4.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+2,Điểm Tâm sáng Thanh Qui,None,None,None,['Dine-in'],[],None,None
+3,Nhà May Thúy Nga,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+4,Quán Chay Thúy,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Quán ăn Phượng Giang,None,None,None,['Dine-in'],[],None,None
+6,Quán Café Trang Yến,None,None,None,['Dine-in'],[],None,None
+7,Điểm Tâm - Cơm Tấm Thủy,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Hải Sản Tươi Sống Duy Đạt,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,Quán Ăn - Giải Khát Tuyết Hiền,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Cơm Thanh Thúy,4.0,(7),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Bistro,8F2H+5J
+11,Quán Cơm Như Ý,5.0,(1),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6\u202fAM Sat']",Cafeteria,"2908, Quốc Lộ 80, Huyện Vĩnh Thạnh"
+12,Chip House,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+13,Quán hủ tiếu,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+14,Cơm - Bún Bình Dân Mỹ Hạnh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+15,Quán Ăn Như Thịnh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+16,Ăn Vặt Chị Phương,5.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Sat']",Bistro,11/5
+17,Cơm Tấm Mỹ Thanh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,QUÁN BÒ TƠ 68 ( BÊ THUI CẦU MÓNG),5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 11\u202fAM Sat']",Asian,159 QL80
+19,Thu Tuyết,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5:30\u202fAM Sat']",Bistro,"8F3J+F2P, Unnamed Road"
+20,Quán Ăn Phước,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+21,Café Kim Ngọc,None,None,None,['Dine-in'],[],None,None
+22,Quán Biu Mập,3.3,(23),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 8\u202fAM Sat']",Restaurant,7C5F+743
+23,Quán Ăn Giải Khát Năm Đắc,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+24,Quán Cơm Bảo Ngọc,4.1,(37),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",None,None
+25,Tạp hoá Điền Thanh,5.0,(3),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 4\u202fAM Sat']",Bistro,6CW6+CC5
+26,Quán Cơm Thanh Thảo,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+27,Quán Cơm Phở Hải Long,2.8,(4),None,"['Dine-in', 'Takeout']",[],None,None
+28,Ăn Vặt Long Xuyên,5.0,(2),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Bistro,11/5 Vĩnh Qui
+29,Quán Ăn Kim Cương,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+30,Quán cơm phần Phát,4.0,(25),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Family-friendly,8F3G+89W
+31,Quán cơm Tiến Thịnh,4.0,(2),None,"['Dine-in', 'Takeout']",[],None,None

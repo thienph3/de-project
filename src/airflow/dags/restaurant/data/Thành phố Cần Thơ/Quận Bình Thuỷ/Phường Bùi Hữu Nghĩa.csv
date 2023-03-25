@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Tháp Mười Quán,4.2,(44),None,"['Dine-in', 'Takeout']",[],None,None
+1,Quán Ăn Bằng Lăng,4.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+2,Nhà Vườn Thanh Nhàn,5.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7:30\u202fAM Sat']",Family-friendly,"3QJ2+WQ6, Cồn Sơn"
+3,Quán ăn gia đình Vườn Xoài,None,None,None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 8\u202fAM Sat']",Family-friendly,11 Đ. Bùi Hữu Nghĩa
+4,Vườn chôm chôm Ba Hữu - Ẩm thực miệt vườn,5.0,(4),None,[],"['Closed', ' ⋅ Opens 6\u202fAM Sat']",Family-friendly,"3PMX+X9J, Cu Lao Linh"
+5,Anh Thư,None,None,None,['Dine-in'],[],None,None
+6,Bún Thịt Nướng Kim Tiền - Anh Đào,None,None,None,[],"['Closed', ' ⋅ Opens 6\u202fAM Sat']",Restaurant,87 Đ. Bùi Hữu Nghĩa
+7,Minh,None,None,None,['Dine-in'],[],None,None
+8,Nhà vườn Thành Đạt,4.8,(4),None,"['Dine-in', 'Takeout']",['Open 24 hours'],None,None
+9,Quán cháo cá lóc Vươn Mận,3.9,(13),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5:30\u202fAM Sat']",Restaurant,"C4-20, Khu Dân Cư An Thới, Phường Bùi Hữu Nghĩa, Quận Bình Thuỷ"
+10,Sushidiamond,None,None,None,[],[],None,None
+11,Quán Cơm Phương Dung 2,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+12,Quán ăn gia đình - cà phê Xóm Củi,4.0,(2),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Bistro,360 Đ. Cách Mạng Tháng 8
+13,Phở Việt,4.3,(10),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5:30\u202fAM Sat']",Family-friendly,362 Đ. Cách Mạng Tháng 8
+14,Quán Hủ Tíu Tân Ký,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Breakfast,534 Đ. Cách Mạng Tháng 8
+15,Quán Ăn gia đình 366,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Family-friendly,366/10B Đ. Cách Mạng Tháng 8
+16,Hải sản Nhà Bill,None,None,None,"['Drive-through', 'No-contact delivery', 'No dine-in']","['Closed', ' ⋅ Opens 8\u202fAM Sat']",Seafood,412/16/10 Đ. Cách Mạng Tháng 8
+17,PINETWORK CTO,None,None,None,[],[],None,None
+18,Quán Nhậu Bình Dân Anh Chín,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,Cơm gà Lê Trang - Bình Thủy,2.8,(4),None,"['Dine-in', 'Drive-through', 'Delivery']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 9\u202fAM Sat']",Restaurant,330 Đ. Cách Mạng Tháng 8

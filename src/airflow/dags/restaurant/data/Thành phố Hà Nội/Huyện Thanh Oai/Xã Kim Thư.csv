@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà Hàng Xuyên Cúc,3.8,(4),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,"Ngõ 30, Đội 4, Tả Thanh Oai, Huyện Thanh Trì, Thành Phố Hà Nội, Thành Phố Hà Nội"
+1,Nhà Hàng Kết Hạnh,None,None,None,['Dine-in'],[],None,None
+2,Ẩm thực Nổi,4.4,(9),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,Km 2 đường sông Hoà Bình
+3,Kim Thủy,None,None,None,['Dine-in'],[],None,None
+4,Của hàng tự chọn Trường Thúy,4.4,(14),None,['Dine-in'],[],None,None

@@ -1,0 +1,5 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Côn Sơn Restaurant &amp; Lounge,4.2,(94),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,80-84 Trần Quốc Thảo
+1,Ann Quán,4.1,(579),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 1\u202fAM']",Vietnamese,66 Ngô Đức Kế
+2,Quán Ăn 147,4.2,(12),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,147 Mễ Cốc
+3,BẢY BA SẠP,5.0,(1),None,['Takeout'],[],None,None

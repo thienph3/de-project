@@ -1,0 +1,15 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cafe Nấm,4.6,(45),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,"Km6+300, QL2"
+1,Sam Rooftop Coffee,4.5,(354),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,58 Ng. 298 Tây Sơn
+2,The City Coffee,4.1,(184),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,46 Trần Phú
+3,Cafe’ Phố Huyện,5.0,(41),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Cafe,34 Đa Phúc
+4,An Phu Coffee,3.6,(5),None,['Dine-in'],[],None,None
+5,Coffee,None,None,None,[],[],None,None
+6,The Book Coffee Tây Sơn,4.4,(86),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,234 P. Tây Sơn
+7,Chill Coffee,3.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",['Open now'],None,None
+8,Quán Thi,4.9,(51),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,29A Ng. 113 P. Hoàng Cầu
+9,Foglian Coffee Tây Sơn,4.2,(293),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,56 P. Nguyễn Văn Tuyết
+10,Green Coffee &amp; Tea,4.6,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 2\u202fPM']",Cafe,156 Đ. Tam Trinh
+11,Sky Coffee,3.8,(410),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,6R65+94C
+12,Ta Coffee,4.9,(460),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Ngo 41 Tây Hồ
+13,Cafe Tràng Thi,4.7,(11),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,2RGX+R5Q

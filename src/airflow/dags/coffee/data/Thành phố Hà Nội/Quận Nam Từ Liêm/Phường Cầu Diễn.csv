@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Thanh Uy Art Coffee,4.9,(19),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,2A Ngh. 3/2 Đ. Liên Cơ
+1,The Bookstop Café,4.8,(58),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 7\u202fPM']",Cafe,"Số 6-B14, KĐT"
+2,Tem Coffee,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+3,The Coffee House,4.5,(324),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 8:30\u202fPM']",Coffee shop,"Vinhomes The Botanica, B3-01 P. Hàm Nghi"
+4,Thô Cafe - Chế theo Gu,4.8,(23),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"Nhà B4, Đường K3"
+5,CAFÉ THOÁNG,4.5,(13),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Cafe,"ngách 44/3 Nguyễn Cơ Thạch, KĐT Mỹ Đình 1 Phường Cầu Diễn"
+6,Trần’s Coffee,None,None,None,['Dine-in'],[],None,None
+7,The Hanoi Coffee CS2,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,142 P. Nguyễn Văn Giáp
+8,Cafe tennis,5.0,(4),None,['Dine-in'],"['Open', ' ⋅ Closes 7\u202fPM']",Cafe,2QM7+378
+9,Nana coffee,4.3,(40),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Cafe,72 P. Lưu Hữu Phước
+10,ARY COFFEE &amp; TEA,4.4,(19),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",Cafe,198 Đ. Phú Diễn
+11,Atoo Coffee K+ Music,5.0,(3),None,['Takeout'],"['Open', ' ⋅ Closes 11\u202fPM']",Food court,"Hà Nội, 68/17 P. Lưu Hữu Phước"
+12,8 Coffee shop,4.4,(83),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,214 Đ. Phú Diễn
+13,Enjoy Coffee,4.4,(65),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"Ki-ốt 01-C1 phố Lưu Hữu Phước, KĐT"
+14,Highlands Coffee,4.2,(828),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,21 Đ. Lê Đức Thọ
+15,Gapama Coffee Shop,4.3,(62),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,"số 1 c11, P. Nguyễn Cơ Thạch"
+16,Golden Coffee,4.3,(138),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,"Toà A3, P. Hàm Nghi"
+17,AHA Cafe,4.2,(117),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,BT46 TT4
+18,Tròn Coffee,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,Nguyên Coffee,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,210 Đ. Hoàng Công Chất

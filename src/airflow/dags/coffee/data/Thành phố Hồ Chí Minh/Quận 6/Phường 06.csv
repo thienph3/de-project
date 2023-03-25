@@ -1,0 +1,7 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,PAPA COFFEE,4.8,(14),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,80 Đường số 10
+1,THE COFFEE PHO,4.6,(19),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,116 Vành Đai
+2,Coffee A&amp;E,4.5,(22),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Coffee shop,370 Đường Trần Văn Kiểu
+3,Chất Coffee,4.3,(572),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,95 Bình Phú
+4,6AM,4.1,(19),None,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Cafe,"11 Đường Số 8, Phường 11"
+5,Napoli Coffee,4.7,(12),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None

@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Sơn Trà Quán,4.6,(27),None,['Dine-in'],['Open 24 hours'],Restaurant,60 Ng. Thổ Quan
+1,Café Tiến,4.0,(2),None,['Dine-in'],[],None,None
+2,Dat Coffee Shop,3.3,(9),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,"6, Hồ Văn Chương, Quận Đống Đa"
+3,Cafe và nước ép hoa quả,4.5,(14),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,109 Đ. Đê La Thành
+4,Tasty Land,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,31c Ng. Thổ Quan

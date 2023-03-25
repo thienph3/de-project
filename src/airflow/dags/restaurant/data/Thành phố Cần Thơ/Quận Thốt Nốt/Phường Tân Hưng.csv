@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Café Ngọc Trang,None,None,None,['Dine-in'],[],None,None
+1,Thanh Tâm,None,None,None,['Dine-in'],[],None,None
+2,Cafe Hồng Yến,4.3,(8),None,['Dine-in'],"['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6\u202fAM Sat']",Restaurant,"Quốc Lộ 91, Khu Vực Tân Phước 1, Phường Thuận Hưng, Quận Thốt Nốt, Thành Phố Cần Thơ"
+3,Cửa Hàng Hải Sản Văn Anh,None,None,None,['Dine-in'],[],None,None
+4,Quán Cơm,3.5,(11),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 9:30\u202fPM ⋅ Opens 6\u202fAM Sat']",Restaurant,"5HM2+RCF, QL91"
+5,Cafe Giọt Đắng,3.5,(6),None,['Dine-in'],"['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6:30\u202fAM Sat']",Restaurant,"Quốc Lộ 91, Khu Vực Tân Phước 1, Phường Thuận Hưng, Quận Thốt Nốt, Thành Phố Cần Thơ"
+6,Cửa hàng Thức ăn thuỷ sản Thanh,4.3,(3),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Sat']",Restaurant,"513, Quốc Lộ 91, Phường Thuận Hưng, Quận Thốt Nốt, Thành Phố Cần Thơ"
+7,Quán Ăn-Nước Giải Khát 999,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Quán Ăn Chay Tám Hoàng,5.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Restaurant,"Quốc Lộ 91, Khu Vực Tân Phước 1, Phường Thuận Hưng, Quận Thốt Nốt, Thành Phố Cần Thơ"
+9,Bún cá Út Phương,4.0,(55),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,5HQ2+3FR
+10,Quán Chay Thanh Thảo,4.7,(3),None,"['Dine-in', 'Takeout']",[],None,None
+11,Cafe Võng An An,None,None,None,['Dine-in'],[],None,None
+12,Quá Ăn Chay Ngọc Diễm,4.3,(7),None,"['Dine-in', 'Takeout']",[],None,None
+13,Thái Dương 2,None,None,None,['Dine-in'],[],None,None
+14,Quán Nhậu Thúy Vân,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+15,Quán chay Cẩm Tú,4.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Bistro,195 QL91
+16,Thanh Long,5.0,(5),None,['Dine-in'],[],None,None
+17,Quán Nhậu Thanh Tú,3.8,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,QL.91 Ấp Tân Lợi 2
+18,Quán Cà Phê Huyền Sang,5.0,(1),None,['Dine-in'],[],None,None
+19,Bún cá Xuân Huỳnh,4.1,(16),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Bistro,306 QL91

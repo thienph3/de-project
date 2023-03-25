@@ -1,0 +1,11 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà Hàng Phố Xưa,4.2,(130),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9:30\u202fAM']",Restaurant,8 Ng. 298 Tây Sơn
+1,SABAY THAI - TÂY SƠN,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+2,The Urbankitchen Hanoi,4.0,(4),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,"Complex 01, ngách 31 Ng. 167 P. Tây Sơn"
+3,Phố Tây Sơn,5.0,(8),None,"['Dine-in', 'Takeout']",[],None,None
+4,Lẩu Nấm Gia Khánh - Tây Sơn,4.8,(639),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM']",Hot Pot,28 P. Tây Sơn
+5,Phở cuốn 323 Tây Sơn,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM']",Brunch,323 P. Tây Sơn
+6,Hungry Co.,4.9,(7),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",American,ngách 31 Ng. 167 P. Tây Sơn
+7,Gà Yến Thoa,3.6,(321),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Asian,338 P. Tây Sơn
+8,Cafe Mộc Hoa Trà,2.0,(2),None,['Dine-in'],[],None,None
+9,Pop Quán,4.1,(35),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None

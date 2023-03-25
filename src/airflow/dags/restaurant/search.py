@@ -193,7 +193,7 @@ def search(search_term, fpath):
     return 
 
 def main(args):
-    city =  'Thành phố Đà Nẵng'  #'Thành phố Hồ Chí Minh' 
+    cities =  ['Thành phố Hồ Chí Minh', 'Thành phố Hà Nội'] #'Thành phố Hồ Chí Minh' 
     chunk_number = int(args.num_splitted)
     run_only_chunk = int(args.num_run)
     #searching all restaurant in a ward of a city
@@ -204,33 +204,34 @@ def main(args):
     search_bar = driver.find_element(By.ID, "searchboxinput")
 
     #city = 'Thành phố Hồ Chí Minh' # ['Thành phố Hà Nội'] 
-    for search_term, fpath in ward_district_search_term(
-            city = city, chunk=True, chunk_number=chunk_number, run_only_chunk=run_only_chunk):
-        print("search term:", search_term, "\n", "fpath: ", fpath)
-           # TODO: loop here to change search-value
-        search_value = search_term 
-        search_bar.clear()
-        search_bar.send_keys(search_value)
-        search_bar.send_keys(Keys.RETURN)
-        
-        driver.implicitly_wait(5)  # wait 5s
+    for city in cities: 
+        for search_term, fpath in ward_district_search_term(
+                city = city, chunk=True, chunk_number=chunk_number, run_only_chunk=run_only_chunk):
+            print("search term:", search_term, "\n", "fpath: ", fpath)
+               # TODO: loop here to change search-value
+            search_value = search_term 
+            search_bar.clear()
+            search_bar.send_keys(search_value)
+            search_bar.send_keys(Keys.RETURN)
+            
+            driver.implicitly_wait(5)  # wait 5s
 
-        try:
-#     selecting scroll body
-            for _ in range(SCROLLING_NUMBER):
-                try:
-                    scrolling_next(driver)
-                except Exception as e:
-                    pass   
+            try:
+#         selecting scroll body
+                for _ in range(SCROLLING_NUMBER):
+                    try:
+                        scrolling_next(driver)
+                    except Exception as e:
+                        pass   
 
-            print('----done scrolling, start read element')
-            read_element(driver, fpath)
-        
+                print('----done scrolling, start read element')
+                read_element(driver, fpath)
+            
 
-        except Exception as e:
-            print(e)
-            time.sleep(random.randint(1, 3))
-                
+            except Exception as e:
+                print(e)
+                time.sleep(random.randint(1, 3))
+                    
     driver.close()
     return
 

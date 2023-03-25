@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,sáo trúc hà nội,3.8,(22),None,"['Dine-in', 'Delivery']","['Closed', ' ⋅ Opens 7\u202fAM Mon']",Restaurant,XVVJ+P3P
+1,...,4.2,(31),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,Ngõ 570 Đ. Kim Giang
+2,Nhà Hàng Kết Hạnh,None,None,None,['Dine-in'],[],None,None
+3,Quang Thao Restaurant,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+4,Nhà Hàng 422 Vĩnh Hưng,4.4,(19),None,"['Dine-in', 'Takeout']","['Opens soon', ' ⋅ 7:30\u202fAM']",Restaurant,422 P. Vĩnh Hưng
+5,Hà Nội Quán Hoa Sữa,4.2,(32),None,"['Dine-in', 'Takeout', 'Delivery']","['Opens soon', ' ⋅ 7:30\u202fAM']",Restaurant,XR89+W7P
+6,Cơm tấm em bi sài gòn,3.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+7,Nhà Hàng Nguyễn Thị Hảo,4.1,(14),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Brunch,XRJ2+QC3
+8,Quán Cafe Âm Thanh,4.4,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"122, Định Công, Quận Hoàng Mai, Thành Phố Hà Nội"
+9,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+10,Café 86 Trung Thanh,5.0,(1),None,['Dine-in'],[],None,None
+11,Nhà Hàng Phương Mai,None,None,None,['Dine-in'],[],None,None
+12,Cơm Tấm Sườn Nướng - QuaHaFood,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+13,Nhà Hàng Hồ Liễu Quán,3.9,(38),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,442 P. Vĩnh Hưng
+14,Cơm Thố Anh Nguyễn Viện 103,3.7,(51),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Fast Food,Số 6 Đ. Phùng Hưng
+15,Nhà Hàng Thăng Long,4.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+16,Hà Nam Quán cơ sở 2,4.4,(46),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,"64 Nhà vườn 1, khu đô thị, Đ. Yên Xá"
+17,Quán Cà Phê Thanh,3.0,(1),None,"['Dine-in', 'Takeout']","['Opens soon', ' ⋅ 7:30\u202fAM']",Restaurant,"112, Thanh Lân, Phường Thanh Trì, Quận Hoàng Mai, Thành Phố Hà Nội"
+18,Tâm giao quán,5.0,(1),None,['Dine-in'],['Open 24 hours'],Restaurant,908 Đ. Kim Giang
+19,Nhà Hàng Khải Anh,None,None,None,"['Dine-in', 'Takeout']",[],None,None

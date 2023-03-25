@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Ngộ Cafe,None,None,None,['Dine-in'],[],None,None
+1,Quán Anh Em,4.8,(5),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,240 P. Đặng Tiến Đông
+2,La Grupa Steak House,4.3,(247),None,"['""If you don\'t have too much money to try steak in a luxury ', 'restaurant', '.""']","['Closed', ' ⋅ Opens 10\u202fAM']",Steak,148 P. Trung Liệt
+3,Cơm Tấm Wow,4.6,(47),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,11 P. Hoàng Cầu
+4,Bờm Nướng,3.4,(34),None,"['Dine-in', 'Takeout']",[],None,None

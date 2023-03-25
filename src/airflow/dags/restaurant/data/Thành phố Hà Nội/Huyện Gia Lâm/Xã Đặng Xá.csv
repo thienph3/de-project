@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà hàng Song Việt,5.0,(1),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']",[],None,None
+1,Nhà Hàng Đường Đôi,5.0,(1),None,['Dine-in'],"['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,662 Đặng Công Chất
+2,Mai Ka Quán,4.0,(9),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 3:30\u202fPM']",Restaurant,9-11 Đặng Công Chất
+3,Nhà hàng Sáu Tài Lẩu Và Nướng,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Asian,3WH5+9J3
+4,Thái Sơn Quán,4.3,(13),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Family-friendly,"3X44+GH, 139 Đê"
+5,Nhà Hàng Đầm Sen,4.3,(6),None,"['Dine-in', 'Takeout']",[],None,None
+6,Bia hơi Đức Tuấn,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+7,Nhà Hàng Tuyến Lửa,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+8,Nhà Hàng Thoa Toàn,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+9,Phở trâu,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Quán Ốc Trang,4.3,(9),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 3:30\u202fPM']",Restaurant,"Số 15 và 19 , Ngõ, 226 Đ. Hà Huy Tập"
+11,Trà Chanh Góc Phố,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+12,Bia Việt Hà,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+13,Nhà Hàng Thanh Loan,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+14,Anh Tuấn Hằng Mạnh Linh,5.0,(2),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Fast Food,3WJP+F5H
+15,Quán Phở Duy Hưng,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+16,Gà tươi 9 phút,4.1,(67),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Vietnamese,"phong xuân, xuân dục, yên thường, gia lâm"
+17,Ốc Thể Thao,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 3:30\u202fPM']",Restaurant,226 Đ. Hà Huy Tập
+18,Công ty CP suất ăn CN Hà Nội,4.1,(14),None,['Dine-in'],['Open 24 hours'],Restaurant,3WQ7+RRM
+19,Alian Restaurant,3.8,(4),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None

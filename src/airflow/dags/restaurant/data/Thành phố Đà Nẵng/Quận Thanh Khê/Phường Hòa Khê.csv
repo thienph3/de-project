@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,A-Z.Kitchen,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Đặng Gia Restaurant,5.0,(1),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,555 Nguyễn Tất Thành
+2,Quán Ăn Su Bo,4.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+3,Mr. RÂU,4.8,(18),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Beer Garden,535 Nguyễn Tất Thành
+4,Nha Hang Phu Mi Thanh,3.6,(7),None,"['Dine-in', 'Takeout']",[],None,None
+5,Mệ Xí Restaurant,None,None,None,['Dine-in'],[],None,None
+6,Cafe Bobo,5.0,(2),None,['Dine-in'],[],None,None
+7,Nhậu,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+8,Ba Loi Restaurant,5.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']",['Open now'],Restaurant,"79, Dinh Tien Hoang Street, Tam Thuan Ward, Thanh Khe District"
+9,Quán Ánh Tuyết,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Quán Nhậu A. Cường,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+11,Sirô Quân,None,None,None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,"36F4+M72, K222 Trần Cao Vân"
+12,Phu My Thanh Restaurant - Nhà hàng Phú Mỹ Thành,4.0,(247),None,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Vietnamese,417 Nguyễn Tất Thành
+13,Quán Vân,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+14,Mở bia,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+15,Cafe 1983,None,None,None,['Dine-in'],[],None,None
+16,Nhà hàng Sophia,4.0,(117),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Vietnamese,527 Nguyễn Tất Thành
+17,Bảo Trân Quán,4.5,(2),None,"['Dine-in', 'Takeout']",[],None,None
+18,SuBo quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,Nhà Hàng Đầm Sen,None,None,None,"['Dine-in', 'Takeout']",[],None,None

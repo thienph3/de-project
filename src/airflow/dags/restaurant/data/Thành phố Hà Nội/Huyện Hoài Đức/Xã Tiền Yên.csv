@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,The Hawker,3.9,(26),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,16 P. Trịnh Hoài Đức
+1,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+2,Quán Văn Phúc,3.8,(61),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,18 P. Lý Văn Phức
+3,6 Degrees,4.3,"(1,323)",None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,189 Nghi Tàm
+4,Cutisun Restaurant,4.2,(842),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Family-friendly,120 Đ. Hoàng Hoa Thám
+5,Thai Market Restaurant,4.3,(127),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Thai,112 P.Trung Hòa
+6,Quán Hiền Tuất,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+7,Nollowa Chicken Restaurant,4.1,(423),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Korean,"Số 3 lô 12A đường, Trung Yên 6"
+8,Tu An Vegetarian Restaurant,4.4,(166),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM']",Vegetarian,"Home City, Tầng 4, chung cư, 177 P. Trung Kính"
+9,CT1 A10 Nam Trung Yên,4.6,(28),None,"['Dine-in', 'No-contact delivery']",[],None,None
+10,Quán Cơm Hoài Đức,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+11,Hill top curry Indian restaurant,4.9,(411),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM']",Indian,118 P. Yên Phụ
+12,Gruzia Wine House,4.4,(283),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Fine Dining,"150, 4F P. Nguyễn Chánh"
+13,Cơm Thành Đạt,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,"XQ9Q+F6F, Đường TT7"
+14,Meat Plus Restaurant,4.2,(159),None,"['Dine-in', 'Delivery']","['Closed', ' ⋅ Opens 11\u202fAM']",Korean BBQ,105 P.Trung Hòa
+15,Let's Sushi Restaurant,3.8,(263),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,173 P.Yên Lãng
+16,Joy House Steak Restaurant,4.6,(25),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Steak,72 P.Trung Hòa
+17,Café Tiến,4.0,(2),None,['Dine-in'],[],None,None
+18,Bếp Quán Trung Hòa,4.0,(214),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 9:30\u202fAM']",Restaurant,"132 Trung Hòa, Yên Hòa, Cầu Giấy, Hà Nội"
+19,Burger King,4.3,(178),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Fast Food,số 99 P.Trung Hòa

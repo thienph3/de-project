@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Tu Coffee,4.0,(2),None,['Dine-in'],[],None,None
+1,Cafe đường tàu (AN Coffee &amp; tea),4.3,(4),None,"['Dine-in', 'Takeout']",[],None,None
+2,The LOBI coffee,4.2,(191),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,2 Ngọc Lâm
+3,Cafe Long Biên,3.5,(2),None,"['Dine-in', 'Takeout']",['Open now'],Coffee shop,77 P. Long Biên 1
+4,Mai coffee,4.3,(32),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,481 Ngọc Lâm
+5,Quán 8 Trà &amp; Cà Phê,5.0,(7),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,36 Ng. 189 Đ. Nguyễn Văn Cừ
+6,Cafe Cộng,4.3,(113),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Cafe,8 Đ. Nguyễn Văn Cừ
+7,D Tripp Coffee’n Tea,5.0,(2),None,[],"['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,28 Ngõ 298 Ngọc Lâm
+8,An's Cafe,5.0,(1),None,[],[],None,None
+9,Cafe Tưởng,4.1,(34),None,['Dine-in'],['Open 24 hours'],Cafe,57-61 Ngọc Lâm
+10,Cafe 96,4.3,(62),None,['Dine-in'],"['Open', ' ⋅ Closes 8\u202fPM']",Cafe,96 Ngọc Lâm
+11,88 Coffee,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+12,Treeving Coffee,4.5,(141),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",Cafe,9 Đ. Nguyễn Văn Cừ
+13,Sành Cafe - Long Bien,4.1,(122),None,"['Dine-in', 'Curbside pickup']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,6 Ngõ 2 Long Biên 1
+14,Ankafe,5.0,(3),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Cafe,20 Ng. 198 Đ. Ngọc Lâm
+15,Tâm cà phê,4.4,(65),None,"['Dine-in', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,6-7 Ngõ 158 P. Nguyễn Sơn
+16,Cafe MẠNH,3.9,(8),None,['Dine-in'],['Open 24 hours'],Cafe,71 Ngọc Lâm
+17,The Coffee House,3.6,(14),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,149 Đ. Nguyễn Văn Cừ
+18,Ha Cha - Tea &amp; Coffee,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,274 Ngọc Lâm
+19,Trà Chanh Tổ Dân Phố,3.8,(53),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,449 Ngọc Lâm

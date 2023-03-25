@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Anh Sinh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Cafe Mộng Tuyền,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,Quán Phở Y Sài Gòn,4.0,(32),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Bistro,117 ĐT926
+3,Quán cơm Thảo Trang,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+4,Quán Ăn Sáng MT,None,None,None,['Dine-in'],[],None,None
+5,Quán PHỞ 333,4.7,(21),None,"['Dine-in', 'Takeout']",[],None,None
+6,Quán Cơm Nhơn Ái,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+7,rạch nóp,3.0,(1),None,['Dine-in'],[],None,None
+8,Phở Dần 2,3.7,(3),None,"['Dine-in', 'Takeout']",[],None,None
+9,HONG XUAN,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Cafe Thanh Thúy,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+11,Quán An Diễm,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+12,Cà Phê Trúc Phương,None,None,None,['Dine-in'],[],None,None
+13,Bà Chín Sinh Tố,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Takeout Restaurant,261 ấp thị tứ xã nhơn ái
+14,Hủ Tiếu Gia Truyền,4.2,(22),None,"['Dine-in', 'Takeout']",[],None,None
+15,Phở Góc Phố,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+16,Quán Cơm Phở Tư Hội,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+17,Quán Nhậu Cô Chủ Nhỏ,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Khu du lịch Sinh Thái,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Sat']",Restaurant,XM9H+635
+19,Good Morning Vietnam Coffee Shop,3.6,(28),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11:30\u202fPM']",Restaurant,"XMV8+6VQ, ĐT926"

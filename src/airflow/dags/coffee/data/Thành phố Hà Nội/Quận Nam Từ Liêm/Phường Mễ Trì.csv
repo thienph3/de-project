@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Garden Coffee,4.2,(27),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,68 P. Mễ Trì Hạ
+1,Highway Cafe,4.6,(87),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Ct5A Mễ Trì Thượng
+2,Lac Coffee,4.0,(1),None,"['Dine-in', 'Takeout']",['Open now'],Coffee shop,10-12 P. Mễ Trì Thượng
+3,Eaton Coffee,4.7,(27),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,Tầng 01 ô 06 tòa W3-VINHOME WEST POINT
+4,Cafe Vũ,4.0,(169),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",None,None
+5,Ann Cafe,4.4,(50),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,XQWM+MPR
+6,Twitter Beans Coffee Sông Đà Mỹ Đình,4.2,(35),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 8:30\u202fPM']",Coffee shop,"Tòa Nhà Sông Đà, Phạm Hùng"
+7,Lala Coffee,4.3,(57),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,22 P. Mễ Trì Hạ
+8,Cafe Classic,4.1,(105),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,70 P. Miếu Đầm
+9,Cộng Cafe,4.3,"(1,039)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Cafe,2Q7G+QQR
+10,Cafe Vườn Mộc,5.0,(1),None,['Dine-in'],[],None,None
+11,Trung Nguyên E-Coffee Mễ Trì Thượng,5.0,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Coffee shop,"Nhà CT3A KĐT Mễ Trì Thượng, ĐL Thăng Long"
+12,Katie Coffee,4.7,(31),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,"Villa 19D, P. Trần Văn Lai"
+13,Nối Coffee,None,None,None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,Số 9 Ngách 8/11 Đường Lê Quang Đạo
+14,Xanh Garden,4.8,(28),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,"32 Mễ Trì Hạ, Phường Mễ Trì"
+15,Jima Coffee,4.2,(211),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",None,None
+16,Bụi Coffee,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,206 P. Mễ Trì Thượng
+17,KaPo Coffee,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",None,None
+18,An Coffee &amp; Tea,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,Cafe Viettel,3.5,(2),None,['Dine-in'],['Open now'],Cafe,"2Q2H+WP6, ĐCT08"

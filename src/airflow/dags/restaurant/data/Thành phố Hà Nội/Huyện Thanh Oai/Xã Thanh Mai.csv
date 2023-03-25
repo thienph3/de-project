@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Thanh Mai,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Bánh tôm Thanh Mai,3.7,(50),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,61 Ng. 50 Đặng Thai Mai
+2,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+3,Thịt Chó Phố Cảng,4.2,(10),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,"Đối diện, Ng. 670 Đ. Nguyễn Khoái"
+4,Quán Cafe Âm Thanh,4.4,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"122, Định Công, Quận Hoàng Mai, Thành Phố Hà Nội"
+5,Nhà Hàng Kết Hạnh,None,None,None,['Dine-in'],[],None,None
+6,Ẩm thực Nổi,4.4,(9),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,Km 2 đường sông Hoà Bình
+7,sáo trúc hà nội,3.8,(22),None,"['Dine-in', 'Delivery']","['Closed', ' ⋅ Opens 7\u202fAM Mon']",Restaurant,XVVJ+P3P
+8,ẩm thực nổi,4.6,(5),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+9,Phở Thành,4.0,(88),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 2\u202fPM ⋅ Reopens 5\u202fPM']",Asian,64 P. Quán Sứ
+10,Café 86 Trung Thanh,5.0,(1),None,['Dine-in'],[],None,None
+11,Quán Cà Phê Thanh,3.0,(1),None,"['Dine-in', 'Takeout']","['Opens soon', ' ⋅ 7:30\u202fAM']",Restaurant,"112, Thanh Lân, Phường Thanh Trì, Quận Hoàng Mai, Thành Phố Hà Nội"
+12,Lẩu Cua Đồng Thanh Mai,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,28 P. Mạc Thái Tổ
+13,Thanh phở,5.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 1:30\u202fPM']",Restaurant,112 P. Thanh Nhàn
+14,Ốc Cô Mai,5.0,(33),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,"ki ốt 26 tòa HH02E, KĐT Thanh Hà"
+15,Giò chả Ước Lễ Long Mai,None,None,None,[],['Open 24 hours'],Takeout Restaurant,"Kiot 1 Dãy 9A, Chợ, Đ. Cầu Bươu"
+16,Nhà Hàng Xuyên Cúc,3.8,(4),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,"Ngõ 30, Đội 4, Tả Thanh Oai, Huyện Thanh Trì, Thành Phố Hà Nội, Thành Phố Hà Nội"
+17,Nhà Hàng 422 Vĩnh Hưng,4.4,(19),None,"['Dine-in', 'Takeout']","['Opens soon', ' ⋅ 7:30\u202fAM']",Restaurant,422 P. Vĩnh Hưng
+18,Phở Thanh Hà,4.0,(484),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,238 P. Lạc Trung
+19,HH03A-6 Tòa,4.4,(39),None,"['Dine-in', 'Takeout']",[],None,None

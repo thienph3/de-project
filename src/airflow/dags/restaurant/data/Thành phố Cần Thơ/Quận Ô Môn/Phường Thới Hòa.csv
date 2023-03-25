@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Hai Bòn,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Cafe Giọt Đắng,3.5,(6),None,['Dine-in'],"['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6:30\u202fAM Sat']",Restaurant,"Quốc Lộ 91, Khu Vực Tân Phước 1, Phường Thuận Hưng, Quận Thốt Nốt, Thành Phố Cần Thơ"
+2,Cafe Hồng Yến,4.3,(8),None,['Dine-in'],"['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6\u202fAM Sat']",Restaurant,"Quốc Lộ 91, Khu Vực Tân Phước 1, Phường Thuận Hưng, Quận Thốt Nốt, Thành Phố Cần Thơ"
+3,Quán Nhậu Toàn,5.0,(1),None,"['Dine-in', 'Takeout']",['Open now'],None,None
+4,Quán Bà Bảy,5.0,(1),None,['Dine-in'],"['Closed', ' ⋅ Opens 6\u202fAM Sat']",Restaurant,80 Mai Văn Bộ

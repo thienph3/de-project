@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Café Hà,5.0,(2),None,['Dine-in'],[],None,None
+1,Phở Gà Hà Thành,4.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],None,None
+2,Nhà Hàng Phong Vũ Quán,3.6,(5),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,"1 Liền Kề, Khu Đô Thị Đại Thanh, Xã Tả Thanh Oai, Huyện Thanh Trì, Thành Phố Hà Nội"
+3,Quán Ăn 39,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+4,Nhà Hàng Thiên Bảo,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,67 Đ. Cầu Bươu
+5,Thanh Thuý sidewalk bánh cuốn,4.8,(4),None,"['Dine-in', 'Takeout']",[],None,None
+6,Nhà Nghỉ Thanh Thúy 3,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+7,Thanh Thúy Cơm Tự Chọn Chuyên Lẩu Nướng,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+8,Café 86 Trung Thanh,5.0,(1),None,['Dine-in'],[],None,None
+9,Ga tan Thanh Thuy,2.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+10,Lươn tươi xứ nghệ,4.3,(22),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Hawker stall,45 Đ. Phan Trọng Tuệ
+11,Thanh Thủy,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+12,Cửa Hàng Rau Củ Thu Hằng,None,None,None,['Dine-in'],[],None,None
+13,Lẩu nướng chị em,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM Mon']",Grill,6 Đ. Cầu Bươu
+14,Phở bò gà Thanh Thuỷ,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,"2 / 92 nghách 254, P. Minh Khai"
+15,Nhà Hàng Kết Hạnh,None,None,None,['Dine-in'],[],None,None
+16,Quán Cơm Thành Thủy,3.7,(6),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sun']",Restaurant,"XVP2+RV8, Ng.151 P. Nguyễn Đức Cảnh"
+17,Phở Thanh,4.5,(10),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fAM ⋅ Reopens 6\u202fPM']",Restaurant,105 Đ. Thụy Khuê
+18,Hiếu Beer,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Brewpub,152 Đ. Cầu Bươu
+19,VỊT CỎ VÂN ĐÌNH THANH THỦY,5.0,(3),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 9:30\u202fAM']",Restaurant,86 P. Vũ Trọng Khánh

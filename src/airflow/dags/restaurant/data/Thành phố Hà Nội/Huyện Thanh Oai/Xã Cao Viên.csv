@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+1,Bún cá cua ốc chả Tuấn Nguyên,3.0,(3),None,"['Dine-in', 'Takeout']",[],None,None
+2,Hà Nội Quán Hoa Sữa,4.2,(32),None,"['Dine-in', 'Takeout', 'Delivery']","['Opens soon', ' ⋅ 7:30\u202fAM']",Restaurant,XR89+W7P
+3,Thịt Chó Phố Cảng,4.2,(10),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,"Đối diện, Ng. 670 Đ. Nguyễn Khoái"
+4,Ha Noi 2 Pho Restaurant,4.5,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",African,"19/5 Street, 36, 19/5 Apartment The Police, Van Quan Ward, Ha Dong Distric"

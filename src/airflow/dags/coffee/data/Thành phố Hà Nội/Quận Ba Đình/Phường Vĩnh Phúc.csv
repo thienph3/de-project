@@ -1,0 +1,7 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,A'way Coffee,4.4,(15),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,6 P. Quần Ngựa
+1,Quán Cafe Hà Nội,4.0,(185),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,26 P. Vạn Phúc
+2,Aki Coffee,4.5,(48),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,16 Ng. 3 P. Vạn Phúc
+3,Cafe nguyên chất VIANTA,5.0,(1),None,['Dine-in'],['Open now'],Coffee shop,"Số 8 Lô E, P. Vạn Phúc"
+4,Coffee Hằng,5.0,(1),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open 24 hours'],Art cafe,Đội Cấn
+5,Ex coffee,None,None,None,[],[],None,None

@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Ngô Gia quán,4.3,(13),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,104/A49 P. Thái Thịnh
+1,Phở Tặng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 1\u202fPM']",Restaurant,85 Ng. Thái Thịnh 1
+2,Nga Sơn Quán,None,None,None,['Dine-in'],[],None,None
+3,Cafe Amazon,5.0,(2),None,['Dine-in'],[],None,None
+4,Phở Liễu,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,80 Ng. Thịnh Quang
+5,Quán Cơm Quang,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+6,TT Tổ chức sự kiện nhà hàng Thành Vinh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+7,Nrice,None,None,None,['Dine-in'],[],None,None
+8,Xôi ngon,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,Hẻm 8 Thái Thịnh,4.2,(26),None,"['Dine-in', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Vietnamese,51-53 P. Thái Thịnh
+10,Beo Nướng,5.0,(1),None,"['Dine-in', 'Drive-through']","['Closed', ' ⋅ Opens 6\u202fPM']",Barbecue,63 Ng. Thịnh Quang
+11,Oppa Chicken,4.3,(16),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Chicken,113 P. Thái Thịnh
+12,Quán Cơm Chay An Phúc,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+13,Quán Cà Phê Cine,None,None,None,['Dine-in'],[],None,None
+14,Quán Rơm 57,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+15,Tiệm ăn của Nàng,3.9,(17),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,133 Ng. Thịnh Quang
+16,Nhà Hàng Hương Đồng Nội,3.9,(30),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,131 Ng. Thịnh Quang
+17,Nhà Hàng Trâu Ngon 102,5.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fPM']",Restaurant,102 P. Thái Thịnh
+18,bún đậu thịnh quang,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM']",Family-friendly,139 Ng. Thịnh Quang
+19,Quán Nướng Và Lẩu Thật Là Nhất,4.0,(3),None,"['Dine-in', 'Takeout']",[],None,None

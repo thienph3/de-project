@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Thanh Thu,None,None,None,['Dine-in'],[],None,None
+1,282 Restaurant,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+2,ban,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 11\u202fAM Sat']",Japanese,"RMWQ+JQ7, Ng. 122 Đình Đông"
+3,Sầu Riêng Sạch,4.8,(8),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM Sat']",Restaurant,127 Chợ Hàng
+4,Cô Thăm Sài Gòn Bánh Mì Sạch,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Cocoroti Đình Đông,3.0,(1),None,['Dine-in'],[],None,None
+6,Oggy - Fusion Restaurant,4.4,(40),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM Sat']",Japanese,54 BT1
+7,Nhà Hàng 207 Đình Đông Ngan - Vịt,3.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+8,36 Chợ Hàng Cú Bánh Mỳ Nóng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,Nguyễn văn hoà,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 7\u202fAM Sat']",Restaurant,Thôn trà sơn
+10,Vịt Cỏ Ninh Hường Cs2,4.0,(76),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Restaurant,207 Đình Đông
+11,Thủy Anh Phở Bò Nam Định,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+12,Khánh Linh,None,None,None,[],[],None,None
+13,Nhà Hàng Hotto,4.7,(3),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,Big C
+14,Quán Bún Chả Quạt Hồng Đạt,3.8,(27),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9:30\u202fAM Sat']",Noodle Shop,83 Đình Đông
+15,Quán Alo Milk,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+16,Chân Gà Hẻm,4.5,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10:30\u202fAM Sat']",Family-friendly,17 Ng. 122 Đình Đông
+17,Bún Chả Bình,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+18,An Toan Nutrution Soup Store,3.0,(1),None,['Takeout'],[],None,None
+19,Quán Phở Trí Sang,3.0,(1),None,"['Dine-in', 'Takeout']",[],None,None

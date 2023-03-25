@@ -1,0 +1,7 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cafe Chi,4.5,(2),None,['Dine-in'],['Open now'],Coffee shop,5 P. Khuông Việt
+1,Chill Coffee,3.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",['Open now'],None,None
+2,Quán Bên Rừng,3.9,(24),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,Thôn Lâm Trường
+3,coffee chất,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Art cafe,"2RHM+4M3, chợ tản lĩnh"
+4,Coffee,None,None,None,[],[],None,None
+5,Cafe Thương,None,None,None,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Coffee shop,42 P. Sơn Tây

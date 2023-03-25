@@ -1,0 +1,7 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cafe đường tàu (AN Coffee &amp; tea),4.3,(4),None,"['Dine-in', 'Takeout']",[],None,None
+1,Cà Phê Hằng,4.2,(21),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,Chung Cư
+2,Cà phê Ban (cafe Ban),4.3,(158),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,ngõ 47 P. Hoàng Minh Đạo
+3,An's Cafe,5.0,(1),None,[],[],None,None
+4,Cafe Gia Đình,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 1:30\u202fPM']",Coffee shop,Đ. Nguyễn Văn Cừ
+5,Trà đá thủy thanh,5.0,(2),None,['Dine-in'],"['Closed', ' ⋅ Opens 12\u202fAM Mon']",Coffee shop,58 P. Thượng Thanh

@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cafe ánh linh,None,None,None,['Dine-in'],[],None,None
+1,Lucky Coffee &amp; Tea,4.6,(8),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,114 P. Vác
+2,Ta Coffee,4.9,(460),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Ngo 41 Tây Hồ
+3,Cafe Phim Cine Cafe 30 An Hòa,4.9,(16),None,"['Dine-in', 'Delivery']","['Open', ' ⋅ Closes 11:45\u202fPM']",Cafe,30 P. An Hòa
+4,La Viet Coffee (8A Vu Thanh),4.7,(45),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5\u202fPM']",Coffee shop,A3 P. Vũ Thạnh
+5,Mimosa Cafe,3.8,(621),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"2R43+CC5, P. Hoàng Đạo Thúy"
+6,TẰM Gallery Cafe,4.6,(135),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,14 Ng. 5 P. Từ Hoa
+7,Coffee,2.5,(2),None,['Dine-in'],[],None,None
+8,Coffee,None,None,None,[],[],None,None
+9,The Coffee House,4.5,(544),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,30 P. Hào Nam
+10,Lack Tack Cafe,4.2,(54),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Cafe,Ngõ 238 P. Hoàng Đạo Thúy
+11,Sam Rooftop Coffee,4.5,(354),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,58 Ng. 298 Tây Sơn
+12,Twitter Beans Coffee,4.2,(710),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"17T5, Vp3, Trung Hòa, P. Hoàng Đạo Thúy"
+13,Coffee Fix Hanoi,2.0,(1),None,['Dine-in'],[],None,None
+14,Xom Cafe,4.2,(668),None,"['Dine-in', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,N6E KĐT
+15,The Coffee House N04,4.3,(489),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"17 T3, P. Hoàng Đạo Thúy"
+16,The City Coffee,4.1,(184),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,46 Trần Phú
+17,TOKA COFFEE,4.7,(91),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,36 P. Thi Sách
+18,The Coffee House,4.4,"(1,063)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,1 P. Thái Hà
+19,PAPAA Coffee &amp; Tea,4.6,(24),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,175A P. Dương Văn Bé

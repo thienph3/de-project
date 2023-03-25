@@ -1,0 +1,7 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,United Coffee Bar,4.8,(25),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Cafe,B2 P. Trần Huy Liệu
+1,OG Nation Coffee,4.5,(72),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",Cafe,101B3 P. Trần Huy Liệu
+2,Oribeans Coffee,4.3,(326),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,C6 P. Trần Huy Liệu
+3,Pha Coffee,4.1,(43),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,101 P. Trần Huy Liệu
+4,Cà Phê Hot Pub,4.6,(12),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,1 P. Trần Huy Liệu
+5,Hạnh Anh Cà Phê,4.3,(25),None,['Dine-in'],"['Open', ' ⋅ Closes 9:30\u202fPM']",Cafe,104 P. Trần Huy Liệu

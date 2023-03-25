@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Hai Bòn,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Cafe Giọt Đắng,3.5,(6),None,['Dine-in'],"['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6:30\u202fAM Sat']",Restaurant,"Quốc Lộ 91, Khu Vực Tân Phước 1, Phường Thuận Hưng, Quận Thốt Nốt, Thành Phố Cần Thơ"
+2,Cafe Hồng Yến,4.3,(8),None,['Dine-in'],"['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6\u202fAM Sat']",Restaurant,"Quốc Lộ 91, Khu Vực Tân Phước 1, Phường Thuận Hưng, Quận Thốt Nốt, Thành Phố Cần Thơ"
+3,Quán Nhậu Toàn,5.0,(1),None,"['Dine-in', 'Takeout']",['Open now'],None,None
+4,Quán Bà Bảy,5.0,(1),None,['Dine-in'],"['Closed', ' ⋅ Opens 6\u202fAM Sat']",Restaurant,80 Mai Văn Bộ
+5,Quán Ăn Kim Ngân,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+6,Quán Nhậu Mai Linh,4.3,(9),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 7\u202fAM Sat']",Restaurant,"6H72+PWV, QL91"
+7,ANH KIET,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Cửa hàng Thức ăn thuỷ sản Thanh,4.3,(3),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Sat']",Restaurant,"513, Quốc Lộ 91, Phường Thuận Hưng, Quận Thốt Nốt, Thành Phố Cần Thơ"
+9,Quán Ăn Chay Tám Hoàng,5.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Restaurant,"Quốc Lộ 91, Khu Vực Tân Phước 1, Phường Thuận Hưng, Quận Thốt Nốt, Thành Phố Cần Thơ"
+10,Cơm Chay Cô Ba - Cafe Cỏ Xanh,4.0,(6),None,"['Dine-in', 'Takeout']",[],None,None
+11,Huong viet quan,None,None,None,['Dine-in'],[],None,None
+12,HỦ TIẾU ÚT TÝ,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None
+13,Cháo Vịt Cần Thơ Bé,4.1,(46),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],None,None
+14,Quán Ăn Yến Oanh,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Breakfast,72 Mai Văn Bộ
+15,Quán Bún Riêu Huỳnh Phát,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5:30\u202fAM Sat']",Bistro,265 Mai Văn Bộ
+16,Café Sinh Tố 6868,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+17,Hủ tiếu chay Út Dài,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Bistro,Đường Mai Văn Bộ
+18,Quán Trà Sữa Happy House,2.5,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Sat']",Bistro,"số 70, Mai Văn Bộ"
+19,Cơm tấm Út Dợt,3.7,(23),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5:30\u202fAM Sat']",Bistro,6HG3+J45

@@ -1,0 +1,4 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Thanh Uy Art Coffee,4.9,(19),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,2A Ngh. 3/2 Đ. Liên Cơ
+1,Linh Coffee,4.8,(29),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,"Tầng 1, Toà Taseco (N03T2"
+2,Sạch Coffee,4.5,(37),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",None,None

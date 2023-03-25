@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Tuất quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Nam Phương Coffee &amp; Tea,4.2,(77),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,Phố Thá
+2,The Cofee House,None,None,None,['Dine-in'],[],None,None
+3,Trà Chanh Rảnh Sóc Sơn,4.6,(13),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"6VRQ+XH4, ĐT131"
+4,Quán trà chanh SuBo,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Tiệm Trà Chanh CHILL PLUS,5.0,(1),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,Phố Thá ( cách THPT Xuân Giang 30m
+6,Đậu Kafe,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Bubble Tea,"6VVR+378, ĐT131"
+7,Tiệm Trà Chanh SuBo,4.5,(2),None,['Dine-in'],[],None,None
+8,Mango Coffe @ Tea,4.5,(17),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Cafe,Đối diện cổng trường cấp 2
+9,Airline Coffee,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None
+10,Tân Phú Viên,4.9,(14),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5\u202fPM']",Coffee shop,Khu Đình làng Tăng Long Tăng Long
+11,Amour Milk Tea,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",None,None
+12,San Coffee,4.6,(185),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,"7R5X+CHC, QL3"
+13,Cafe’ Phố Huyện,5.0,(41),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Cafe,34 Đa Phúc
+14,Cafe Gió Ngàn,None,None,None,['Dine-in'],['Open 24 hours'],Coffee shop,6V6H+J3F
+15,1997 tea &amp; coffee,None,None,None,['Dine-in'],[],None,None
+16,Coffe,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+17,Viet Cafe,4.1,(135),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,55 P. Khuông Việt
+18,An Forest Coffee,4.4,(46),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,47 QL3
+19,Hello Coffee,3.8,(24),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,19 P. Khuông Việt

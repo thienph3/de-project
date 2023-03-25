@@ -1,0 +1,11 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Tuất quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Nam Phương Coffee &amp; Tea,4.2,(77),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,Phố Thá
+2,The Cofee House,None,None,None,['Dine-in'],[],None,None
+3,Trà Chanh Rảnh Sóc Sơn,4.6,(13),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"6VRQ+XH4, ĐT131"
+4,Quán trà chanh SuBo,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Tiệm Trà Chanh CHILL PLUS,5.0,(1),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,Phố Thá ( cách THPT Xuân Giang 30m
+6,Đậu Kafe,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Bubble Tea,"6VVR+378, ĐT131"
+7,Tiệm Trà Chanh SuBo,4.5,(2),None,['Dine-in'],[],None,None
+8,Mango Coffe @ Tea,4.5,(17),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Cafe,Đối diện cổng trường cấp 2
+9,Airline Coffee,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None

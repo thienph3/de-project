@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Thanh Uy Art Coffee,4.9,(19),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,2A Ngh. 3/2 Đ. Liên Cơ
+1,Linh Coffee,4.8,(29),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,"Tầng 1, Toà Taseco (N03T2"
+2,Sạch Coffee,4.5,(37),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",None,None
+3,Mộc Lan Coffee,5.0,(1),None,['Dine-in'],['Open 24 hours'],Coffee shop,"Số 46, khu B, Học viện cảnh sát nhân dân, phường"
+4,cafe liên kết nông hộ,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Espresso bar,"Số nhà 1 ngách 2 ngõ 6, Tăng Thiết Giáp"
+5,Highlands Coffee,4.2,(173),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,232 Phạm Văn Đồng
+6,Dome Cafe,4.5,(130),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,"TT4, 234 đường Phạm Văn Đồng"
+7,Lava Café &amp; Tea,5.0,(12),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,"C4, Phòng E, Tòa, P. Đỗ Nhuận"
+8,Kimochi Coffee,4.7,(11),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Số 32 P. Lưu Hữu Phước
+9,Cà Phê Tươi,4.3,(55),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"Biệt Thự 5, TT4"
+10,Style City Coffee,4.2,(74),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Toà 21b7
+11,Đây Cafe,4.1,(104),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"Số 02, Lô TT03"
+12,Enjoy Coffee,4.4,(65),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"Ki-ốt 01-C1 phố Lưu Hữu Phước, KĐT"
+13,Paulin Cafe Nail,4.3,(183),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"Lô 25 TT4, Trần Văn Lai, Phường Quận Nam Thành Phố Thành Phố Hà Nội Mỹ Đình 1, Từ Liêm Hà Nội"
+14,Goo Coffee,4.6,(11),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",None,None
+15,Mộc My Coffee,4.8,(4),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,77 P. Thiên Hiền
+16,Annam Cafe &amp; Music,5.0,(5),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,234 Phạm Văn Đồng
+17,Cafe Lão Đại,4.3,(43),None,"['Dine-in', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,Phố Trần Hữu Dực
+18,Nguyen cafe,5.0,(8),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']",[],None,None
+19,Time Cafe 타임카페,4.8,(77),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,Số 8 Ngõ 178 Đường Đình Thôn

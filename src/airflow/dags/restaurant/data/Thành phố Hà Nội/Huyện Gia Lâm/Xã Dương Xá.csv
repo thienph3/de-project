@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Bia Việt Hà,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Trà Chanh Góc Phố,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+2,Nhà Hàng Tuyến Lửa,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+3,Giấy phù đổng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+4,Quán Bia Thuỳ Dương,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None

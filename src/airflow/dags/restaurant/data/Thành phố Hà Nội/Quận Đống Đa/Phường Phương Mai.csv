@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Thanh Mai,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Lợn Lửng Thanh Sơn,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+2,Thế Giới Ngan Phượng Béo,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Vietnamese,38 Phương Mai
+3,Bún ngon dọc mùng Dũng Hạnh,4.5,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Mon']",Asian,101 Phương Mai
+4,Quán Cơm Diệu Nhung,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Khu phố ăn uống Ngõ 4 Phương Mai,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,3
+6,Cafe Góc Phố,4.7,(3),None,"['Dine-in', 'Delivery']",[],None,None
+7,Cafe Đợi ...,4.0,(1),None,['Dine-in'],[],None,None
+8,Quán Cơm Hiếu,1.0,(9),None,"['Dine-in', 'Takeout']",[],None,None
+9,nhà hàng Il Forno Italian,4.5,(246),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closed', ' ⋅ Opens 11:30\u202fAM']",Italian,28 Ng. 41 Phố Đông Tác
+10,Quán 37 phương mai,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+11,Quán chay - Nhà ăn 0 đồng Nhất Tâm,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10:30\u202fAM Mon']",Vegetarian,22 Ng. 15 P. Phương Mai
+12,Asap,3.9,(15),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,129 Phương Mai
+13,Nhà Hàng Thủy Quân,5.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Vietnamese,38 Phương Mai
+14,Phở cồ Kháng,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+15,Căng tin bệnh viện Bạch Mai,None,None,None,['Dine-in'],[],None,None
+16,Quán Cafe Mộc,4.0,(136),None,['Dine-in'],"['Open', ' ⋅ Closes 11:30\u202fPM']",Restaurant,C9 Phương Mai
+17,Gà Tươi Phạm Xá-Phương Mai,4.3,(167),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+18,Quán Cơm - Bia Hơi Hà Nội,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,Quán Cơm Lan Hương,None,None,None,"['Dine-in', 'Takeout']",[],None,None

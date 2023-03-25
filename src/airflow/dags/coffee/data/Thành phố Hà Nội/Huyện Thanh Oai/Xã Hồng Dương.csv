@@ -1,0 +1,8 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Tranquil Artisan Coffee - 08 Nguyen Quang Bich,4.9,(30),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",Cafe,08 P. Nguyễn Quang Bích
+1,Green Coffee &amp; Tea,4.6,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 2\u202fPM']",Cafe,156 Đ. Tam Trinh
+2,Cup &amp; Coffee,4.6,(22),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 8\u202fPM']",Cafe,9 Ng. 23 P. Đỗ Quang
+3,Ta Coffee,4.9,(460),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Ngo 41 Tây Hồ
+4,Erato Cafe,4.6,(7),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Cafe,446 P. Tây Sơn
+5,nil coffee,4.9,(14),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,"ngõ tập thể Bộ Y Tế, P. Quang Trung/Ngõ 5 vào ngõ 10m"
+6,Cafe Quang,4.5,(66),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Cafe,A9 Ng. 5 Đ. Khuất Duy Tiến

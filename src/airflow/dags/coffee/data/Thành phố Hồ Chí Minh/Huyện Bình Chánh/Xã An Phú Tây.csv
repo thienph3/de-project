@@ -1,0 +1,7 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cafe Tình Bạn,3.8,(20),None,['Dine-in'],"['Open', ' ⋅ Closes 9:30\u202fPM']",Coffee shop,QGR6+5M3
+1,Cafe Thành Đạt,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,quán cà phê phương toàn,None,None,None,['Dine-in'],['Open 24 hours'],Coffee shop,QGG5+7R5
+3,Coffee Bạn Tôi,4.3,(10),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Cafe,QGQ6+XWF
+4,"Cafe Võng ""Hoa Giấy""",5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 7\u202fPM']",None,None
+5,Trà sữa tí nị,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fPM']",Coffee shop,281C Đ. Vườn Thơm

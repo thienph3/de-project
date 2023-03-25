@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,The Hawker,3.9,(26),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,16 P. Trịnh Hoài Đức
+1,Quán Cơm Hoài Đức,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,Bia Hơi Hà Nội Nhà Hàng Đức Sang,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+3,"Bia hơi Dũng Béo, Lai Xá",None,None,None,"['Dine-in', 'Takeout']",[],None,None
+4,Tâm Chay Vegan Restaurant,4.5,(156),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Vegan,"Nhà B3, Khu Nhà ở để bán Mễ Trì, Số, 2 Đỗ Đức Dục"

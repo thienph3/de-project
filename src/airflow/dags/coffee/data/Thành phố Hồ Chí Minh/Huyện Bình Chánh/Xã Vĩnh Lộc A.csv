@@ -1,0 +1,13 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,An Coffee &amp; tea,5.0,(8),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,6a80 An Hạ
+1,Cà phê Nhà Sàn,3.8,(12),None,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Cafe,"7B43, An Hạ"
+2,Nga Nguyễn coffee - Trà Sữa SII,4.8,(11),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Cafe,2b29 Liên Ấp 1-2
+3,Cafe Ao Sen,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+4,Trý Cafe,5.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,3A5 Đ. Trần Văn Giàu
+5,BẾN CÂU Coffee &amp; Beer,None,None,None,[],[],None,None
+6,Neverland coffee,4.8,(16),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,2 Đ. Trần Văn Giàu
+7,Cà Phê Cô Chủ Nhỏ,4.3,(4),None,['Dine-in'],[],None,None
+8,GOGO COFFEE,4.6,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",None,None
+9,Cafe Võng Tám Toàn,4.3,(15),None,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Cafe,QGV7+4PJ
+10,Trà sữa T-Hoo,None,None,None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closed', ' ⋅ Opens 9:30\u202fAM']",Coffee shop,Đ. Trần Văn Giàu
+11,QL68 Coffee,None,None,None,['Dine-in'],[],None,None

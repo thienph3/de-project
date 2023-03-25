@@ -1,0 +1,7 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Thanh Uy Art Coffee,4.9,(19),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,2A Ngh. 3/2 Đ. Liên Cơ
+1,The Bookstop Café,4.8,(58),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 7\u202fPM']",Cafe,"Số 6-B14, KĐT"
+2,Tem Coffee,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+3,The Coffee House,4.5,(324),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 8:30\u202fPM']",Coffee shop,"Vinhomes The Botanica, B3-01 P. Hàm Nghi"
+4,Thô Cafe - Chế theo Gu,4.8,(23),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"Nhà B4, Đường K3"
+5,CAFÉ THOÁNG,4.5,(13),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Cafe,"ngách 44/3 Nguyễn Cơ Thạch, KĐT Mỹ Đình 1 Phường Cầu Diễn"

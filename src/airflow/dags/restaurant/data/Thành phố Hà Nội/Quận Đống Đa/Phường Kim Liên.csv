@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhắm Quán,None,None,None,['Dine-in'],"['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,107 B8 P. Lương Định Của
+1,Quán Lẩu Hải Sản Mai Liên,3.9,(60),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Seafood,6 Đông Tác
+2,Quán Ăn Sáng Vân,4.1,(26),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 2\u202fPM']",Bistro,B8 101
+3,nhà hàng Il Forno Italian,4.5,(246),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closed', ' ⋅ Opens 11:30\u202fAM']",Italian,28 Ng. 41 Phố Đông Tác
+4,"số 6 ngõ 21 phạm ngọc thạch, kim liên, đống đa Hà nội",3.7,(11),None,"['Dine-in', 'Takeout']",[],None,None
+5,Anh Gàa Quán,4.8,(29),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,6 Ng. 41 Phố Đông Tác
+6,Thạch rau câu cô Hà - C8 Kim Liên,4.2,(50),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 2\u202fPM']",Restaurant,C8
+7,Oc Mít Mật,4.1,(38),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 3\u202fPM']",Seafood,B20a
+8,Quán ốc Anh Anh,3.7,(3),None,"['Dine-in', 'Takeout']",[],None,None
+9,Cô Chang,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Com Viet Restaurant,3.7,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,B11 P. Lương Định Của
+11,Quán Ăn B19,3.9,(78),None,"['""has problem with ', 'food', ' quality, cheap but not&nbsp;...""']","['Closed', ' ⋅ Opens 9\u202fAM']",Bistro,Ngõ 8 P. Lương Định Của
+12,Bếp Ngon 1993,4.6,(8),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+13,Gạch Quán,4.3,(169),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,6c Ng. 21 P. Phạm Ngọc Thạch
+14,Chu Long Kim Lien,4.1,(19),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+15,Bún Bung C10 Kim Liên,4.5,(13),None,"['Dine-in', 'Takeout']",[],None,None
+16,Quán Cafe Mộc,4.0,(136),None,['Dine-in'],"['Open', ' ⋅ Closes 11:30\u202fPM']",Restaurant,C9 Phương Mai
+17,Phở Gâ Ta,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Ba Râu Kim Liên,None,None,None,[],[],None,None
+19,Ngon ngon quán,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,Ngõ 8 P. Lương Định Của

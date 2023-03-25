@@ -1,0 +1,10 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà hàng Song Việt,5.0,(1),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']",[],None,None
+1,Nhà Hàng Đường Đôi,5.0,(1),None,['Dine-in'],"['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,662 Đặng Công Chất
+2,Mai Ka Quán,4.0,(9),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 3:30\u202fPM']",Restaurant,9-11 Đặng Công Chất
+3,Nhà hàng Sáu Tài Lẩu Và Nướng,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Asian,3WH5+9J3
+4,Thái Sơn Quán,4.3,(13),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Family-friendly,"3X44+GH, 139 Đê"
+5,Nhà Hàng Đầm Sen,4.3,(6),None,"['Dine-in', 'Takeout']",[],None,None
+6,Bia hơi Đức Tuấn,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+7,Nhà Hàng Tuyến Lửa,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+8,Nhà Hàng Thoa Toàn,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None

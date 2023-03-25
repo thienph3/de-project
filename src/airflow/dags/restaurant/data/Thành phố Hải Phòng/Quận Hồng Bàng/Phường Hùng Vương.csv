@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà hàng,5.0,(1),None,['Dine-in'],[],None,None
+1,Nhà Hàng Trần Vũ Phương,None,None,None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10:30\u202fPM ⋅ Opens 8\u202fAM Sat']",Brunch,"71C/3, Khu Vực 2, Phường An Khánh, Quận Ninh Kiều"
+2,Quán Ăn Việt Ý,4.7,(3),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 11\u202fPM ⋅ Opens 7\u202fAM Sat']",Restaurant,"151A8 KDC Thới Nhựt, Quận Ninh Kiều, Tp Cần Thơ"
+3,Làng Ẩm Thực HỒ BÚN SÁNG,4.5,(15),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 1\u202fAM']",Restaurant,"Hồ bún sáng, Hẻm 51"
+4,Quán Trái Cây Ăn Thả Ga,3.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+5,Quán Hân Hân,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Sat']",Bistro,30 Đ. Nguyễn Hiền
+6,Quán Home Cafe,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+7,Nhà hàng TRỌNG HỮU,4.5,(19),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Sat']",Restaurant,29 Đường B29
+8,Quán Cơm Tấm Hai Lúa 132 Ba Thang Hai Phương Xuân Khánh Quận Ninh Kiều Cần Thơ,4.1,(119),None,"['Dine-in', 'Drive-through']","['Closed', ' ⋅ Opens 7\u202fAM Sat']",Restaurant,132 Ba Tháng Hai
+9,Vựa Cá Biển Đức Lợi,1.0,(1),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 11\u202fPM ⋅ Opens 7\u202fAM Sat']",Restaurant,"31, Đường 5A, Chợ An Khánh, Phường An Khánh, Quận Ninh Kiều, Thành Phố Cần Thơ"
+10,Thảo Nguyên Quán,3.5,(11),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 1\u202fAM']",Restaurant,"183H, tp, Nguyễn Văn Cừ nối dài"
+11,BÊ THUI SỐ 1 - DÊ SỐ 1,3.6,(56),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 11\u202fPM ⋅ Opens 8\u202fAM Sat']",Restaurant,"Đường Số 7, Khu nhà ở CB-GV ĐẠI HỌC CẦN THƠ Phường An Khánh Ninh Kiều Can Tho City"
+12,Nhà hàng 6 Đời 1,3.9,(118),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 10:30\u202fPM ⋅ Opens 9\u202fAM Sat']",Restaurant,136b Đ. Nguyễn Văn Cừ
+13,Quán Ăn Lan,5.0,(1),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10:30\u202fPM ⋅ Opens 7\u202fAM Sat']",Restaurant,"337A/13, Quốc Lộ 91B, Quận Ninh Kiều, Thành Phố Cần Thơ"
+14,Đại Ngân Food &amp; Beer,4.6,(23),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Family-friendly,Hẻm Liên Tổ 1 - 2
+15,Quán Ăn Tây Đô,4.3,(3),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Sat']",Bistro,"2QH3+Q68, Đ. Nguyễn Văn Linh"
+16,Nhà Hàng Sao Mai,3.9,(412),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 11\u202fPM ⋅ Opens 8\u202fAM Sat']",Restaurant,"Số 41A Đường 3/2 Phuong Xuân Khánh, Ba Tháng Hai"
+17,Quán Ăn Gia Đình Sáu Đời 1,3.9,(7),None,"['Dine-in', 'Takeout']",[],None,None
+18,Quán Nhậu BBQ 19,3.8,(9),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 11\u202fPM ⋅ Opens 4:30\u202fPM Sat']",Restaurant,141 Đ. Nguyễn Tri Phương
+19,SÚP 68,4.4,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Family-friendly,132D Nguyễn Văn Cừ nối dài

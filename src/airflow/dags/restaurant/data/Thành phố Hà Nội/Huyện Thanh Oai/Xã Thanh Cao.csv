@@ -1,0 +1,8 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Café Hà,5.0,(2),None,['Dine-in'],[],None,None
+1,Phở Gà Hà Thành,4.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],None,None
+2,Nhà Hàng Phong Vũ Quán,3.6,(5),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,"1 Liền Kề, Khu Đô Thị Đại Thanh, Xã Tả Thanh Oai, Huyện Thanh Trì, Thành Phố Hà Nội"
+3,Quán Ăn 39,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+4,Nhà Hàng Thiên Bảo,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,67 Đ. Cầu Bươu
+5,Thanh Thuý sidewalk bánh cuốn,4.8,(4),None,"['Dine-in', 'Takeout']",[],None,None
+6,Nhà Nghỉ Thanh Thúy 3,None,None,None,"['Dine-in', 'Takeout']",[],None,None

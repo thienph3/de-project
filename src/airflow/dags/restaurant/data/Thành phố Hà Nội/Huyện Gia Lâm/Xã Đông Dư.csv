@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Diện Béo Restaurant,3.5,(68),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,XWR9+W7Q
+1,Lẩu ếch dũng thuận 2,4.4,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,số 10 xóm 1
+2,Phở Quang Béo,4.6,(5),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,Đường 39
+3,Ngan Huế Thương,4.2,(300),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']",['Open 24 hours'],Restaurant,32 Đ. Giáp Hải
+4,cafe BT76,4.0,(17),None,['Dine-in'],[],None,None

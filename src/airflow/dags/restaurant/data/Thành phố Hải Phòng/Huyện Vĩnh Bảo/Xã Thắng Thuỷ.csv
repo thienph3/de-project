@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Cơm Quyên Phương,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+1,Nhà Hàng Bia Sài Gòn,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+2,The Coffee Plus,3.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,"4P25+549, Lê Hồng Phong"
+3,Saigon Beer Western Joint Stock,4.5,(4),None,['Dine-in'],[],None,None
+4,Căn tin Sông Hậu,None,None,None,['Takeout'],"['Closed', ' ⋅ Opens 5\u202fAM Sat']",Asian,"4P46+473, Khu Công Nghiệp Trà Nóc"
+5,La Cà Quán,5.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Family-friendly,"Hẻm liên tổ 678, Lê Hồng Phong"
+6,Cafe Ngọc Long,4.3,(3),None,['Dine-in'],[],None,None
+7,Quán Cơm Út Khánh,3.5,(6),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Sat']",Bistro,"A2/6, Đường Lê Hồng Phong, Quận Bình Thủy"
+8,Quán Cơm Tám Như,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,Cafe Zozo,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Quán Ăn Diễm Nghi,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+11,Lẩu Bò Hữu Thắng,4.0,(2),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,8 Lê Hồng Phong
+12,Hủ tiếu mực,2.5,(2),None,"['Dine-in', 'Takeout']",[],None,None
+13,Quán Ăn Bốn Mùa,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+14,Quán Dê Cương 41,4.5,(2),None,"['Dine-in', 'Takeout']",[],None,None
+15,Cafe 365,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+16,Cafe Mỹ Huyền,2.3,(3),None,['Dine-in'],[],None,None
+17,Quán Cơm Thanh Diệu,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Quán Bún Bò Huế,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,Quán Nhậu 3 Miền,4.0,(3),None,"['Dine-in', 'Takeout']",[],None,None

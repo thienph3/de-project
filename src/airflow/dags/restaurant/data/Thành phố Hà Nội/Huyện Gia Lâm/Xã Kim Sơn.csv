@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà hàng Sáu Tài Lẩu Và Nướng,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Asian,3WH5+9J3
+1,Nhà Hàng Thoa Toàn,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+2,Nhà Hàng Tuyến Lửa,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+3,Thái Sơn Quán,4.3,(13),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Family-friendly,"3X44+GH, 139 Đê"
+4,Nhà Hàng Thanh Loan,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None

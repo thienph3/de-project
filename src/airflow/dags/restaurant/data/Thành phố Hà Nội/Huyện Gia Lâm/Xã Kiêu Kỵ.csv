@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Công ty CP suất ăn CN Hà Nội,4.1,(14),None,['Dine-in'],['Open 24 hours'],Restaurant,3WQ7+RRM
+1,Nhà Hàng Tuyến Lửa,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+2,Mai Ka Quán,4.0,(9),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 3:30\u202fPM']",Restaurant,9-11 Đặng Công Chất
+3,Nhà hàng Sáu Tài Lẩu Và Nướng,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Asian,3WH5+9J3
+4,Nhà Hàng Thoa Toàn,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None

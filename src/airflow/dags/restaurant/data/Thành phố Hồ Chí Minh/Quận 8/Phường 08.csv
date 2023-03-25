@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Ăn 147,4.2,(12),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,147 Mễ Cốc
+1,BẢY BA SẠP,5.0,(1),None,['Takeout'],"['Open', ' ⋅ Closes 1\u202fAM']",Vietnamese,66 Ngô Đức Kế
+2,Quán Ăn 147,4.2,(12),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,147 Mễ Cốc
+3,BẢY BA SẠP,5.0,(1),None,['Takeout'],[],None,None
+4,Bò Sốt Hàu Q8,4.9,(30),None,"['Dine-in', 'Drive-through', 'Delivery']","['Closed', ' ⋅ Opens 4\u202fPM']",Restaurant,3441 Phạm Thế Hiển
+5,Quán ăn Gia Đình,None,None,None,['Dine-in'],[],None,None
+6,Ốc Tibo,5.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+7,Hoa Lư Coffee and Restaurant | nhà hàng Hoa Lư | nhà hàng quận 8,4.4,(54),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Asian,3533 Phạm Thế Hiển
+8,Quán ăn Hưng Ký,4.5,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 11\u202fAM']",Restaurant,140B Hẻm Số 5 Mễ Cốc
+9,Xôi Mặn-Bánh Uớt THANH,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+10,ZuNeFooD,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM']",Bistro,121 Đường 35A Trịnh Quang Nghị
+11,Quán Bún Bò O Phương,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 2\u202fPM']",Bistro,26 Võ Liêm Sơn
+12,Cơm sườn cọng,5.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,8 Mễ Cốc
+13,Hủ Tiếu,4.0,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fPM']",Noodle Shop,Đường 35A Đường Trịnh Quang Nghị
+14,Quán Hủ Tiếu Chay Cô Hai,4.4,(35),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Vegetarian,7A Đường Rạch Cát
+15,Nhà hàng Hương Tràm,4.1,(174),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,192 Đường Phạm Đức Sơn
+16,Lẩu Dê Đức Phát,4.1,(42),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 3\u202fPM']",Restaurant,PJ3C+GHR
+17,Takoyaki SuKa,None,None,None,['Takeout'],"['Closed', ' ⋅ Opens 2\u202fPM']",Takoyaki restaurant,2786 Phạm Thế Hiển
+18,Nhóm Nấu Ăn Hưng Lộc,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,Bún Bò O Bé,4.5,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,PJ4F+67X

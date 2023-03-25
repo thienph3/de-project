@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Cơm Hoài Đức,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Hoài Đức - Hà Nội,4.7,(12),None,"['Dine-in', 'Takeout']",[],None,None
+2,Cafe Mộc Hoa Trà,2.0,(2),None,['Dine-in'],[],None,None
+3,Coffee Sweet Juice,4.0,(6),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+4,Cơm Thành Đạt,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,"XQ9Q+F6F, Đường TT7"

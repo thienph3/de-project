@@ -1,0 +1,17 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,HOW café,4.4,(107),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,106 P. Trấn Vũ
+1,Gạt Tàn Coffee,4.5,(125),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,114 P. Trấn Vũ
+2,Havana Cafe số 1 Trúc Bạch,4.0,(330),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Cafe,Số 1 P. Trúc Bạch
+3,Times Coffee,5.0,(17),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,5 P. Ngũ Xã
+4,Coffee 86,4.1,(8),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5\u202fPM']",Cafe,68 P. Trấn Vũ
+5,AHA Cafe,4.2,(41),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,30 Cửa Bắc
+6,Coffee Phố Cổ,4.3,(11),None,['Dine-in'],"['Open', ' ⋅ Closes 5\u202fPM']",Coffee shop,14 P. Hàng Bún
+7,Cat coffee,None,None,None,['Dine-in'],[],None,None
+8,Highlands Coffee,4.3,"(3,814)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,9 Đ. Thanh Niên
+9,Cafe Trấn Vũ,3.4,(10),None,['Dine-in'],"['Open', ' ⋅ Closes 8:45\u202fPM']",Coffee shop,34 P. Trấn Vũ
+10,Arabica Coffee,1.0,(1),None,['Dine-in'],[],None,None
+11,Là Coffee Corner,4.4,(17),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,180 P. Trấn Vũ
+12,Coffee Quat,4.0,(397),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,102 P. Trấn Vũ
+13,Oleoleo Coffee Books &amp; Cats,4.8,(151),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,63 P. Trúc Bạch
+14,Fu Hoo Cafe,4.8,(32),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Coffee shop,104 P. Lạc Chính
+15,Drink Up,4.4,(35),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Coffee shop,37 P. Trúc Bạch

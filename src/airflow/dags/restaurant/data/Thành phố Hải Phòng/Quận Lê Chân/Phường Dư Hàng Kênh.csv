@@ -1,0 +1,27 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Ngõ 82 Vũ Chí Thắng - Nghĩa Xá - Lê Chân - Hải Phòng,3.0,(1),None,['Dine-in'],[],None,None
+1,Cafe Anh Bi,2.0,(2),None,['Dine-in'],[],None,None
+2,Việt Ca Gạo,None,None,None,['Dine-in'],[],None,None
+3,Người Đà Lạt Nhỏ,5.0,(3),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM Sat']",Restaurant,310 P. Hoàng Minh Thảo
+4,Quán Fat Coffee,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Bún cá cô Ngọc,4.8,(5),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Breakfast,49 Nguyễn Tường Loan
+6,Nhà hàng Phong Dương,4.0,(22),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 8\u202fAM Sat']",Restaurant,RMQ9+F28
+7,Manwan,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Cửa Hàng Đặc Sản Đà Lạt - Đà Nẵng,3.5,(2),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+9,Việt Mính,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+10,PHỞ KHÁNG,5.0,(5),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6\u202fAM Sat']",Pho,163 P. Hoàng Minh Thảo
+11,Gio Cha Restaurant,5.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM Sat']",Fast Food,53B P. Chợ Đôn
+12,Cửa Hàng Hoa Quả Tươi Huyền,None,None,None,[],[],None,None
+13,Bánh mì dân tổ,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+14,Bún cá rô,4.5,(6),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5:30\u202fAM Sat']",Restaurant,65 P. Chợ Đôn
+15,Quán Nước Mía An Việt,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM Sat']",Restaurant,"180000, P. Hoàng Minh Thảo"
+16,quán Lucky 84A nướng lẩu thả ga,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5:30\u202fPM Sun']",Restaurant,RMQG+V66
+17,262 Hải Anh Quán,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Nhà Hàng Thái Bảo,None,None,None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 7\u202fAM Sat']",Restaurant,24 Phố Cầu Niệm
+19,Bún Cá Cay Cô Thúy,4.1,(164),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Restaurant,RMQ9+GF6
+20,Ô Tô,None,None,None,['Dine-in'],[],None,None
+21,Gà ác tiềm 24,None,None,None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 9\u202fAM Sat']",Chicken,53 Vũ Chí Thắng
+22,Izakaya Nekochan,5.0,(1),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Modern izakaya restaurant,159 P. Hoàng Minh Thảo
+23,Bánh Đa Của Đồng Cô Nguyệt,4.0,(2),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Bistro,64 P. Chợ Đôn
+24,Công Ty Tnhh Giải Pháp Ẩm Thực 24,None,None,None,['Takeout'],[],None,None
+25,Nhà Hàng Minh Hoạch,4.6,(5),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,34 Phố Cầu Niệm

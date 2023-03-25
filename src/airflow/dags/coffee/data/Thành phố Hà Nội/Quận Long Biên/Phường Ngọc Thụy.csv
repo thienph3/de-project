@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Coffee Bike D2,5.0,(10),None,"['Dine-in', 'Takeout']",[],None,None
+1,Cafe Gia Long,4.4,(14),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,3W67+8GF
+2,THANG COFFEE,4.0,(2),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Cafe,572 Đ. Ng. Gia Tự
+3,Cafe P8 phố Thép Mới,4.2,(33),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,3W65+QC4
+4,A19 COFFEE,4.4,(61),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 7:30\u202fPM']",Cafe,"3W45+5CM, P. Ng. Viết Thụ"
+5,Dương Phở Gà-Cafe,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+6,Cafe Mộc,4.4,(37),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,35 Phúc Lợi
+7,Green Coffee - 106P11,5.0,(1),None,['Dine-in'],"['Open', ' ⋅ Closes 8\u202fPM']",Cafe,"3W75+4JH, Thép Mới"
+8,Cafe Thắng,4.1,(28),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,11 P. Nguyễn Cao Luyện
+9,Cà phê KAFA,3.0,(1),None,[],['Open 24 hours'],Coffee shop,"No5A, 23 phố Ng. 109 P. Kẻ Tạnh"
+10,Hieu Cafe,4.3,(67),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"C01, BT06"
+11,Hạt cà phê,5.0,(21),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,64 Ngách 49/1 Đức Giang
+12,Xcoffee,4.1,(34),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,"3W86+V3C, Thép Mới"
+13,Cafe Trúc,4.0,(8),None,['Dine-in'],['Open now'],Cafe,3W78+M75
+14,Phở Gà Phố cổ -Cafe Trung Nguyên-Đồ ăn nhanh Yum Yum,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+15,M.ii.N Coffee,4.2,(55),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,a45 P. Nguyễn Cao Luyện
+16,Cafe 76,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,285a Đ. Ng. Gia Tự
+17,Cafe Linh Anh cs2,3.8,(19),None,['Dine-in'],['Open 24 hours'],Cafe,108-k13 Thép Mới
+18,CTF Coffee,4.3,(7),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"A16-BT06, P. Bùi Thiện Ngộ"
+19,Coffee Trang86,4.3,(7),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,"P4, Đường P. Nguyễn Cao Luyện"

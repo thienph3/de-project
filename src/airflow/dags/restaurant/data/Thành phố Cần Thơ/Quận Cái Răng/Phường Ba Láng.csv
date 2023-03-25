@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Phở Duy,4.5,(2),None,"['Dine-in', 'Takeout']",[],None,None
+1,Quán Phở Hằng,2.8,(5),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7\u202fAM Sat']",Cafeteria,"133A, Quốc Lộ 1A, Quận Cái Răng"
+2,Ẩm thực Lan Dung,2.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 7\u202fAM Sat']",Family-friendly,605A KV4
+3,Căn Tin 39,None,None,None,[],[],None,None
+4,Vườn sinh thái Hoa Súng,3.9,(468),None,"['Dine-in', 'Takeout']",[],None,None
+5,Ẩm thực sinh thái Rau Xanh,4.2,(47),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,"159, ĐT925"
+6,Quán Phở Bình,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+7,Vườn Sinh Thái Triệu Phát,4.5,(4),None,['Dine-in'],"['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6\u202fAM Sat']",Restaurant,690A KV4
+8,Quán Cơm Ban Mai,3.0,(3),None,"['Dine-in', 'Takeout']",[],None,None
+9,BA LÁNG REST STOP,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Cafe Kim Yến,None,None,None,"['Dine-in', 'Drive-through']","['Closed', ' ⋅ Opens 5\u202fAM Sat']",Restaurant,QL1A
+11,Quán Cơm Chánh Tuyết,4.0,(3),None,"['Dine-in', 'Takeout']",[],None,None
+12,Quàn An Huỳnh Anh,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+13,Cafe Vô Thường,5.0,(1),None,[],['Temporarily closed'],Restaurant,"91, Khu Vực 2, Quốc Lộ 1A, Phường Ba Láng, Quận Cái Răng, Thành Phố Cần Thơ"
+14,Nhà Hàng Dương Thanh Hoàng,4.7,(3),None,[],['Temporarily closed'],Brunch,"105, Khu Vực 2, Phường Ba Láng, Quận Cái Răng"
+15,Cafe Út Cường,3.2,(5),None,['Dine-in'],"['Closes soon', ' ⋅ 9:30\u202fPM ⋅ Opens 8\u202fAM Sat']",Restaurant,"XQW4+8W5, Khu Vực Thạnh Mỹ, Phường Thường Thạnh, Quận Cái Răng, Thành Phố Cần Thơ"
+16,Quán Phở A53,4.3,(3),None,"['Dine-in', 'Takeout']",[],None,None
+17,Cafe Duyên,3.0,(1),None,[],['Temporarily closed'],Restaurant,"Khu Vực 1, Quốc Lộ 1A, Phường Ba Láng, Quận Cái Răng, Thành Phố Cần Thơ"
+18,Quán Cơm Phở Ngọc Hiệp,2.9,(29),None,"['Dine-in', 'Takeout']",[],None,None
+19,Quán Trà Sữa Bồ Công Anh,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None

@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Phở,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Lokal food - good and cheap,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,Sao Hôm Restaurant,4.0,(292),None,"['Dine-in', 'Takeout', 'Delivery']","['Closes soon', ' ⋅ 10:30\u202fPM ⋅ Opens 6\u202fAM Sat']",Vietnamese,Đường Hai Bà Trưng
+3,Du Thuyen Floating Restaurant,1.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+4,Nhà hàng Du thuyền Cần Thơ,3.6,(243),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 7\u202fPM Sat']",Restaurant,2 Đường Hai Bà Trưng
+5,Nhà Hàng Khách Sạn 31,3.8,(4),None,"['Dine-in', 'Takeout']",[],None,None
+6,Phở Thế Anh,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+7,Binh Dan Restaurant,None,None,None,['Dine-in'],"['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6\u202fAM Sat']",Restaurant,21 Đ. Ng. Văn Sở
+8,The Lighthouse,4.3,(124),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,120 Đường Hai Bà Trưng
+9,Ninh Kieu 2 Restaurant And Conference,4.2,(110),None,['Dine-in'],"['Open', ' ⋅ Closes 11:30\u202fPM']",Restaurant,"03 Hoa Binh Avenue, Ninh Kieu District, Can Tho City, Viet Nam, 03 Đại lộ Hoà Bình"
+10,Street beer &amp; food,5.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Restaurant,74 Phan Đình Phùng
+11,Phuong Nam Restaurant,3.8,(168),None,"['Dine-in', 'Takeout', 'No delivery']","['Closes soon', ' ⋅ 10:30\u202fPM ⋅ Opens 2\u202fPM Sat']",Vietnamese,"khu vực 1, P. 092000, 48 Đường Hai Bà Trưng"
+12,Quán Ăn A Hón,1.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+13,Pad Thai Tomato,4.2,(355),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 9\u202fAM Sat']",Thai,54 Đ. Nam Kỳ Khởi Nghĩa
+14,Hotpot Story,1.1,(8),None,['Dine-in'],"['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 10\u202fAM Sat']",Hot Pot,Số 01 Đại lộ Hoà Bình
+15,KAFÉ Home,5.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+16,Xuân Phở,4.3,(48),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Bistro,16A Đ. Nguyễn Khuyến
+17,Quán Ăn Thúy Oanh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Nam Bo Restaurant,4.0,(231),None,"['Dine-in', 'Takeout']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6\u202fAM Sat']",Vietnamese,1 Đ. Ngô Quyền
+19,VADO Canteen - Nhà Hàng Nhỏ Vui Vẻ,4.1,(146),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 7:30\u202fAM Sat']",Hot Pot,42 Đ. Đề Thám

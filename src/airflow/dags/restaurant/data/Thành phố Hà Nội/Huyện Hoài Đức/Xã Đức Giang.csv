@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Hoài Đức - Hà Nội,4.7,(12),None,"['Dine-in', 'Takeout']",[],None,None
+1,Nhà Hàng Lẩu Hương,4.0,(165),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,"Cổng Trung Tâm 75 Quốc Lộ 32, Thôn Lai Xá, Xã Kim Chung, Huyện Hoài Đức, Thành Phố Hà Nội"
+2,Minh Trí Quán,4.4,(5),None,"['Dine-in', 'Takeout']",[],None,None
+3,Nhà Hàng Bốt Beer,4.8,(13),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open 24 hours'],Restaurant,Cạnh trường mầm non Thôn 6
+4,Trà tắc Cô Giang,3.7,(3),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 7:30\u202fPM']",Soup shop,số 17 ngõ đình đường yên sở
+5,Nhà Hàng Minh Béo,4.0,(3),None,"['Dine-in', 'Takeout']",[],None,None
+6,cơm tấm nhất vị,3.3,(3),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,"3P5F+MGW, Đường Lai Xá"
+7,Bún Phở Phương Giang,4.5,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Noodle Shop,2P68+268
+8,Em Xoăn Quán,5.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,2M9X+95G
+9,Quán Kênh,4.7,(12),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closed', ' ⋅ Opens 9:30\u202fAM']",Restaurant,17 Đ. Nam Yên Lũng
+10,Nhà Hàng Chung Chồn,4.1,(69),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,"Quốc Lộ 32, Xã Đức Thượng, Huyện Hoài Đức, Thành Phố Hà Nội"
+11,Nhà Hàng Trọng Khách,4.0,(89),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,QL32
+12,Nhà Hàng Ẩm Thực Phố,4.0,(90),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 8:30\u202fAM']",Restaurant,"km 19 Đức Thượng, QL32"
+13,Phở Bò Sơn Thủy Đức Hải,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+14,Hiền Ngân Bún Lươn,4.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+15,Quán Nướng 79,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,"2P63+V3M, Đ. Bờ Mương"
+16,Pitano Milk,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,2MCW+3W
+17,Quán Cà Phê Gemy,3.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+18,Bánh sinh nhật thiên hương789,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+19,Khu 7 thị trấn trạm trôi,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 2\u202fPM']",Bistro,3P96+C3F

@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Le Patio Restaurant,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None
+1,TÀI LIÊN,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+2,Nhà hàng Vườn Ẩm Thực,5.0,(5),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",[],None,None
+3,Nhà Hàng Tuyết Thuyên,5.0,(2),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Asian,Số 36A ngõ 50
+4,Quán xưa,None,None,None,"['Dine-in', 'Takeout']",[],None,None

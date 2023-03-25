@@ -1,0 +1,13 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,JAPANIT Matcha &amp; Coffee House,4.5,"(1,082)",None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,130 Đ. Trần Hưng Đạo
+1,COFFEE &amp; BOOK,5.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,218 Bis Cô Giang
+2,Trung Nguyên E-Coffee,5.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Cafe,210 Cô Giang
+3,IT COFFEE,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Cafe,53Bis Hồ Hảo Hớn
+4,cafe,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Tới Nái Cafe,4.2,(14),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fPM']",Cafe,75 Đ. Nguyễn Cư Trinh
+6,Cafe Ao Dai coffee,4.0,(2),None,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Cafe,53C Hồ Hảo Hớn
+7,Cafe Anh,3.9,(225),None,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Cafe,39 Nguyễn Khắc Nhu
+8,Trà Ô Long Tắc,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Coffee shop,30 Cô Giang
+9,Gossip Coffee Cô Giang,4.1,(15),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,144 Cô Giang
+10,A&amp;C Coffee,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,59 8 Hồ Hảo Hớn
+11,Loan's Coffee Shop,4.1,(11),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Coffee shop,322 Đ. Võ Văn Kiệt

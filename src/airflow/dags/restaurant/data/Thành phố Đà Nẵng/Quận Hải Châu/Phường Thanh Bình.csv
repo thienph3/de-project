@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Café 22,5.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,"22 Đường Lê Đình Dương, Phường Phước Ninh, Quận Hải Châu, Thành Phố Đà Nẵng"
+1,Milo Dầm Cô Thân - 111 Lê Đình Dương,4.4,(14),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,111 Đ. Lê Đình Dương
+2,Samdi,4.4,(26),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,292 Phan Châu Trinh
+3,Mua,4.7,(10),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,36 Đ. Lê Đình Dương
+4,Cháo ếch Singapore NG - Đà Nẵng,4.5,(10),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,số 141 đường Huỳnh Thúc Kháng
+5,Quán Cô Hồng - Gỏi Cá Nam Ô,4.2,(235),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,118 Huỳnh Thúc Kháng
+6,Kokogreen Phan Chau Trinh,4.2,(73),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Restaurant,234 Phan Châu Trinh
+7,Bò Hàu Sốt Cay Chilli,4.2,(14),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+8,Cá Nục Cuốn Rau Muống,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,118 Huỳnh Thúc Kháng
+9,Xôi Thập Cẩm,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Cô Mây-Ẩm Thực Hà Nội,4.0,(1),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Family-friendly,101 Huỳnh Thúc Kháng
+11,Ba Lu Restaurant,4.0,(6),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Vietnamese,27 Huỳnh Thúc Kháng
+12,Tiệm Ăn Đường Triều,4.2,(31),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Bistro,200 Hoàng Diệu
+13,Xuân cơm gà,4.7,(3),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,61 Huỳnh Thúc Kháng
+14,Mì Quảng Bò,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+15,Quán Bún Chả Cá,3.5,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"32 Đường Lê Đình Dương, Phường Phước Ninh, Quận Hải Châu, Thành phố Đà Nẵng"
+16,Quán Nhậu Kim Lan,4.3,(10),None,"['Dine-in', 'Takeout']",['Open now'],Restaurant,171 Đ. Lê Đình Dương
+17,Tiệm Lẩu Bò Nhà Gỗ,3.1,(22),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Hot Pot,121 Huỳnh Thúc Kháng
+18,Ẩm Thực Lào SABAIDI,4.1,(24),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,116 Huỳnh Thúc Kháng
+19,Gỏi cá Nam Ô A. Sinh,4.9,(63),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,130 Huỳnh Thúc Kháng

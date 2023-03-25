@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Há Cảo KIỀU KÝ,4.5,(112),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 6:30\u202fPM']",Restaurant,43 Đ. Lão Tử
+1,Nhà Hàng Sik Dak Fook (食得福酒楼）,3.9,(785),None,['Dine-in'],"['Closed', ' ⋅ Opens 7:30\u202fAM']",Restaurant,411 Trần Hưng Đạo B
+2,Sik Rooftop,4.5,(6),None,['Dine-in'],['Open 24 hours'],Restaurant,411 Trần Hưng Đạo B
+3,Dan Ich Restaurant,4.1,"(1,248)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fAM ⋅ Reopens 3:30\u202fPM']",Bistro,99 Đ. Châu Văn Liêm
+4,Hủ Qua Cà Ớt,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None

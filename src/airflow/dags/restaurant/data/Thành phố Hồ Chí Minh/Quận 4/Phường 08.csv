@@ -1,0 +1,18 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Haru Sushi,4.5,(484),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Sushi,371 Nguyễn Tri Phương
+1,Freedom Restaurant 2,4.3,(137),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,583B Đ. Sư Vạn Hạnh
+2,Cao Thắng (Nối Dài),4.4,(19),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8:30\u202fAM']",Restaurant,16A/A7 Đ. Lê Hồng Phong
+3,Chả Cá Đế Vương,4.9,"(3,015)",None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,"Cs1:, 794 Đ. Sư Vạn Hạnh"
+4,BÚN VÀ LẪU BÒ NGON QUẬN 10 | BÚN VÀ LẪU BÒ NGON ĐƯỜNG ĐỒNG NAI,4.5,(36),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Opens soon', ' ⋅ 7\u202fAM']",American,40 Đồng Nai
+5,Nachtisch,None,None,None,[],[],None,None
+6,Phở La Quận 10,4.5,(24),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fAM']",Breakfast,582/10 Đ. Vĩnh Viễn
+7,The Noon,4.3,(131),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,277B Đ. Cách Mạng Tháng 8
+8,Nhà Hàng Chay MỘC NHIÊN - Sư Vạn Hạnh,4.6,(56),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Vegetarian,391/4 Hẻm Sư Vạn Hạnh
+9,Vegetarian Restaurant Sân Mây,4.2,(737),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 7:30\u202fAM']",Vegetarian,771 Đ. Lê Hồng Phong
+10,SPICY BOX VAN HANH MALL,4.9,(778),None,['Dine-in'],"['Closed', ' ⋅ Opens 10\u202fAM']",Buffet,11 Đ. Sư Vạn Hạnh
+11,Sao Bien Seafood restaurant,4.2,(153),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Seafood,15 Nguyễn Giản Thanh
+12,"Nguyễn lâm,p6, quận 10, tphcm",4.8,(5),None,"['Dine-in', 'Takeout']",[],None,None
+13,Ẩm Thực Quê Nhà Quận 10,4.0,(559),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Vietnamese,05 Đ. Thành Thái
+14,GASTOWN - Café &amp; Restaurant,4.6,(92),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,56 Hẻm 285 Cách Mạng Tháng Tám
+15,Chè Sinh Viên,4.4,(183),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 3:30\u202fPM']",Restaurant,Lo R P2 Q 10
+16,The Gangs Hoả Xa,4.3,(815),None,"['""Good ', 'food', ', good services. However the music is too loud.""']","['Closed', ' ⋅ Opens 11\u202fAM']",Gastropub,179 Đ. Cao Thắng

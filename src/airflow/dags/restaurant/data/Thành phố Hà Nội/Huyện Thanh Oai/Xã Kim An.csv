@@ -1,0 +1,16 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Nhà Hàng Xuyên Cúc,3.8,(4),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,"Ngõ 30, Đội 4, Tả Thanh Oai, Huyện Thanh Trì, Thành Phố Hà Nội, Thành Phố Hà Nội"
+1,Nhà Hàng Kết Hạnh,None,None,None,['Dine-in'],[],None,None
+2,Minh Anh Thanh Hà,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+3,Ẩm thực Nổi,4.4,(9),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,Km 2 đường sông Hoà Bình
+4,Quán Ngon Thanh Hà,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Trung Mỹ,None,None,None,['Dine-in'],[],None,None
+6,Cửa hàng Vinachao,5.0,(4),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11:30\u202fAM ⋅ Reopens 3\u202fPM']",Restaurant,139 Đ. Tả Thanh Oai
+7,Nhà hàng Tân Thanh,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+8,Ốc Cô Mai,5.0,(33),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Restaurant,"ki ốt 26 tòa HH02E, KĐT Thanh Hà"
+9,Quán Thịt Mèo Hà Hường,4.1,(129),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,số 1Cự Đà
+10,Café Hà,5.0,(2),None,['Dine-in'],[],None,None
+11,HH03A-6 Tòa,4.4,(39),None,"['Dine-in', 'Takeout']",[],None,None
+12,Kim Thủy,None,None,None,['Dine-in'],[],None,None
+13,Nhà Hàng Phong Vũ Quán,3.6,(5),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,"1 Liền Kề, Khu Đô Thị Đại Thanh, Xã Tả Thanh Oai, Huyện Thanh Trì, Thành Phố Hà Nội"
+14,Lương Sơn Restaurant,3.9,"(1,432)",None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,1 P. Quan Nhân

@@ -1,0 +1,7 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Cafe Đình Phong (Vườn tre),4.7,(12),None,['Dine-in'],[],None,None
+1,Cà Phê Ngọc Ánh,None,None,None,['Dine-in'],[],None,None
+2,Quán Cà Phê Minh,1.7,(3),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"3C9X+7H7, xã Thới Đông, huyện Cờ Đỏ, TP. Cần Thơ"
+3,Tiệm Cà Phê Phúc,3.0,(3),None,['Dine-in'],[],None,None
+4,Quán Ăn Tam Lan,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,Thới Đông,None,None,None,[],[],None,None

@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Quán Cafe Thi Thơ,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+1,Hủ Tiếu Thảo,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,2R23+5XH
+2,Mậu Thân 1968,4.3,(55),None,"['""Lovely ', 'food', ' and atmosphere. I enjoyed everything and their special&nbsp;...""']",[],None,None
+3,Quán Cafe Nguyên,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+4,Quán 79,5.0,(1),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,Lộ dầu khí 2B
+5,Quán Gà Sao Anh Thư,3.8,(185),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Vietnamese,2Q4X+WR4
+6,Làng Gà Phú Thứ,4.0,(37),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,Cạnh 569b
+7,Anh Mười,5.0,(1),None,[],[],None,None
+8,Nhân cafe House,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6:30\u202fAM Sat']",Restaurant,18K2 Võ Nguyên Giáp
+9,Tiệm Cơm Thức’s,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Quán Cơm Thu,5.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+11,Quán Cỏ,4.0,(316),None,"['Dine-in', 'Takeout', 'No delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,525 Võ Nguyên Giáp
+12,Q,3.3,(3),None,"['Dine-in', 'Takeout', 'Delivery']",['Open 24 hours'],Restaurant,13 Lê Nhựt Tảo
+13,Quán Cơm 15,3.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+14,Bún Cá Hưng Phú Lộc 3,4.2,(16),None,"['Dine-in', 'Takeout']",[],None,None
+15,bún mắm TÁM DỰ,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+16,Cửa Hàng Trái Cây - Hoa Tươi Toàn Ý,None,None,None,['Dine-in'],[],None,None
+17,Quán Cà Phê Phúc Hậu,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Quán Chay Trường Thịnh,4.6,(18),None,"['""Nice and cheap vegeterian ', 'food', '""']",[],None,None
+19,TRÂU MỘC Nam Long,None,None,None,['Dine-in'],[],None,None

@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Biblio Book Cafe - 79 Ngụy Như Kon Tum,4.2,(38),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+1,Foglian Coffee Tây Sơn,4.2,(293),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,56 P. Nguyễn Văn Tuyết
+2,Cup &amp; Coffee,4.6,(22),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 8\u202fPM']",Cafe,9 Ng. 23 P. Đỗ Quang
+3,A'way Coffee,4.4,(15),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,6 P. Quần Ngựa
+4,Aki Coffee,4.5,(48),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,16 Ng. 3 P. Vạn Phúc
+5,The Coffee House 18T1,4.1,(140),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Cafe,18T1 Đ. Lê Văn Lương
+6,The Shelter - Cafe &amp; Pub,4.5,(15),None,"['Dine-in', 'Takeout']",[],None,None
+7,Cafe Vợt,4.4,(209),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,65 P. Vạn Phúc
+8,Quán Cafe Hà Nội,4.0,(185),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,26 P. Vạn Phúc
+9,La Viet Coffee (8A Vu Thanh),4.7,(45),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5\u202fPM']",Coffee shop,A3 P. Vũ Thạnh
+10,The Coffee House N04,4.3,(489),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"17 T3, P. Hoàng Đạo Thúy"
+11,Biblio Book Coffee,4.4,(366),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,Ng. 95 P. Chùa Bộc
+12,Tam Mộc Coffee,4.5,(39),None,"['Dine-in', 'Curbside pickup']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,P. Vạn Phúc
+13,Oribeans Coffee,4.3,(326),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,C6 P. Trần Huy Liệu
+14,Pha Coffee,4.1,(43),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,101 P. Trần Huy Liệu
+15,THAIYEN CAFE,4.6,(239),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Espresso bar,21 Ng. 42 P. Giang Văn Minh
+16,Sam Rooftop Coffee,4.5,(354),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,58 Ng. 298 Tây Sơn
+17,Cafe 30,4.5,(176),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,30 ngõ 179 P. Quan Nhân
+18,Windy Coffee,4.3,(129),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,41 Đ. Nguyễn Văn Huyên
+19,Jardin de Lanh Coffee &amp; Flower,4.4,(23),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,266 Đội Cấn

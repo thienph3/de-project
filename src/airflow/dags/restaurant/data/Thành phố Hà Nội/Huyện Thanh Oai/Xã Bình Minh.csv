@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Ẩm thực Nổi,4.4,(9),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,Km 2 đường sông Hoà Bình
+1,ẩm thực nổi,4.6,(5),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+2,Nhà Hàng Kết Hạnh,None,None,None,['Dine-in'],[],None,None
+3,Bình Minh Thanh Hà,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+4,restaurants,None,None,None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None

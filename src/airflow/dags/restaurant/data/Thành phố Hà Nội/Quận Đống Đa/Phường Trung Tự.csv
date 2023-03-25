@@ -1,0 +1,7 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Ngô Gia quán,4.3,(13),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,104/A49 P. Thái Thịnh
+1,Phở Tặng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 1\u202fPM']",Restaurant,85 Ng. Thái Thịnh 1
+2,Nga Sơn Quán,None,None,None,['Dine-in'],[],None,None
+3,Cafe Amazon,5.0,(2),None,['Dine-in'],[],None,None
+4,Phở Liễu,5.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Restaurant,80 Ng. Thịnh Quang
+5,Quán Cơm Quang,None,None,None,"['Dine-in', 'Takeout']",[],None,None

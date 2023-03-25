@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Phở A Hào,1.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM Sat']",Restaurant,2MHP+FG8
+1,Quán Ăn Gia Hân,5.0,(5),None,"['Dine-in', 'Takeout']",[],None,None
+2,Vườn Cam Không Hạt,4.4,(9),None,['Dine-in'],[],None,None
+3,Quán ăn 5 Beo,None,None,None,[],"['Closed', ' ⋅ Opens 5\u202fAM Sat']",Takeout Restaurant,HL 918
+4,Cơm 5 Beo,5.0,(1),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 5\u202fAM Sat']",Bistro,Đ. Bùi Hữu Nghĩa
+5,Ăn Uống Giai Xuân,None,None,None,['Dine-in'],[],None,None
+6,Caphe Hồ Bơi,4.0,(3),None,"['Dine-in', 'Delivery']","['Closed', ' ⋅ Opens 6:30\u202fAM Sat']",Cafe,2MHR+8Q3
+7,nhà hàng lưu động tuấn cảnh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Cafe Thão Vy,5.0,(1),None,[],[],None,None
+9,HONG XUAN,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+10,Cafe 230,5.0,(1),None,['Dine-in'],[],None,None
+11,Cafe 22,5.0,(3),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 6\u202fAM Sat']",Coffee shop,Số 50/6 Ấp Thới An A H
+12,Cafe Mộng Tuyền,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+13,Cafe 369-2,3.8,(9),None,['Dine-in'],[],None,None
+14,Anh Sinh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+15,Quán ăn gia đình Hoàng Phúc,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,2M2F+3QH
+16,An Khang Quán,5.0,(2),None,['Dine-in'],"['Closes soon', ' ⋅ 10\u202fPM ⋅ Opens 6\u202fAM Sat']",Bistro,"KDC metro, QL91B"
+17,Cafe Thanh Thúy,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Bờ Sông Quán,4.8,(9),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,636 Lộ Vòng Cung
+19,Cato Restaurant,None,None,None,"['Dine-in', 'Takeout']",[],None,None

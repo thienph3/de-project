@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Tranquil Artisan Coffee - 08 Nguyen Quang Bich,4.9,(30),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",Cafe,08 P. Nguyễn Quang Bích
+1,Green Coffee &amp; Tea,4.6,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 2\u202fPM']",Cafe,156 Đ. Tam Trinh
+2,Cup &amp; Coffee,4.6,(22),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 8\u202fPM']",Cafe,9 Ng. 23 P. Đỗ Quang
+3,Ta Coffee,4.9,(460),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Ngo 41 Tây Hồ
+4,Erato Cafe,4.6,(7),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Cafe,446 P. Tây Sơn
+5,nil coffee,4.9,(14),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,"ngõ tập thể Bộ Y Tế, P. Quang Trung/Ngõ 5 vào ngõ 10m"
+6,Cafe Quang,4.5,(66),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Cafe,A9 Ng. 5 Đ. Khuất Duy Tiến
+7,The FATE Coffee,4.9,(11),None,"['Dine-in', 'Takeout']",[],None,None
+8,All Day Coffee,4.3,(823),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,37 P. Quang Trung
+9,The City Coffee,4.1,(184),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,46 Trần Phú
+10,The Book Coffee Tây Sơn,4.4,(86),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,234 P. Tây Sơn
+11,The Shelter Cafe,4.3,(66),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,56 Ng. 169 P. Tây Sơn
+12,Simple Coffee,4.6,(145),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 4\u202fPM']",Coffee shop,Số 87 ngõ 50 59 P. Đặng Thai Mai
+13,Eastern and Oriental Tea House and Coffee Parlour,4.5,(562),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Cafe,46 P. Quảng An
+14,Hội An Corner Coffee,4.8,(141),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,6 P. Nguyễn Quang Bích
+15,Mao Coffee,4.3,(30),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,Số 90 Ng. 167 P. Tây Sơn
+16,Cafe Karaoke Ánh Dương,3.8,(82),None,['Dine-in'],['Open 24 hours'],Coffee shop,5 QL2A
+17,Chill Coffee,3.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",['Open now'],None,None
+18,Sam Rooftop Coffee,4.5,(354),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,58 Ng. 298 Tây Sơn
+19,An Coffee,4.4,(19),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,2F P. Quang Trung

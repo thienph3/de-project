@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Mochi sushi,4.6,(15),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,150 Đường số 10
+1,Sushi 107,4.6,(47),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,107 Đường số 10
+2,LUP FOOD,4.7,(65),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Opens soon', ' ⋅ 7\u202fAM']",Bistro,81 Đường số 9
+3,Phố ẩm thực,4.3,(50),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+4,Sen Trang Restaurant,4.3,(254),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Vegan,37 Đường số 10

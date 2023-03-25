@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,KING Garden,4.1,(189),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,210 Đ. Nguyễn Văn Luông
+1,Quán 210,4.1,(18),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM']",Bistro,Đường Đ. Nguyễn Văn Luông
+2,Quán ăn,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+3,Quận 689,4.9,(7),None,['Dine-in'],['Open 24 hours'],Restaurant,695 Đ. Hậu Giang
+4,Bà Tám Quán,4.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,240 Đ. Nguyễn Văn Luông
+5,QUÁN CƠM TRÂM,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 2\u202fPM']",Bistro,337 Đường Trần Văn Kiểu
+6,Quán Ớt Xanh,4.8,(10),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 8\u202fAM']",Restaurant,101 Chợ Lớn
+7,Phở bò Út Trân,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Thuyền Ẩm Thực Chay,4.2,(120),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Vegan,529A Đ. Hậu Giang
+9,Quán Ăn Gia Đình 357,4.0,(11),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,357/47A Đ. Hậu Giang
+10,NHÀ HÀNG FUNNY BEEF,4.6,(80),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",European,203C Đ. Nguyễn Văn Luông
+11,Lin food &amp; beer 97/11 Kinh Dương Vương,4.5,(66),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 5\u202fPM']",Restaurant,11 Kinh Đ. Vương
+12,Ẩm Thực Hồ Lô,3.7,(7),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 7:30\u202fAM']",Restaurant,246 Đường Trần Văn Kiểu
+13,Le 53 Bistro &amp; Bar,5.0,(9),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Opens soon', ' ⋅ 7\u202fAM']",Restaurant,"53 Đường số 4, Bình Phú"
+14,Cửa Hàng Hải Sản,None,None,None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 10\u202fAM']",Vietnamese,"273, Trần Văn Kiểu, Quận 6, Thành Phố Hồ Chí Minh"
+15,Cơm tấm Cỏ (gía bình dân) - đối diện trường THCS Nguyễn Văn Luông,None,None,None,['Takeout'],"['Open', ' ⋅ Closes 9\u202fPM']",Takeout Restaurant,91 Đ. Nguyễn Văn Luông
+16,Phở 243,4.8,(13),None,"['""good view and good ', 'cafe', '.""']",[],None,None
+17,Nhà Hàng,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Restaurant,2 Đường Số 23
+18,Hủ Tiếu Sa Đéc,2.3,(3),None,"['Dine-in', 'Takeout']",[],None,None
+19,Quán Ăn Tài Phúc,4.5,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Bistro,1050 Đ. Hậu Giang

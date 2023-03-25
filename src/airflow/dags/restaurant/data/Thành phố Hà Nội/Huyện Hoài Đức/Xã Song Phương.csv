@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,The Hawker,3.9,(26),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 9\u202fAM']",Restaurant,16 P. Trịnh Hoài Đức
+1,Hà Diệp Quán,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+2,"Bia hơi Dũng Béo, Lai Xá",None,None,None,"['Dine-in', 'Takeout']",[],None,None
+3,Song Linh Food &amp; Drink,4.5,(57),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Bistro,46A Ng.31 Đ. Xuân Diệu
+4,Quán Cơm Hoài Đức,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+5,EMM's French Bistro,4.5,(260),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10:30\u202fAM']",French,28 P. Đỗ Quang
+6,Phở Hùng chuyên bò,4.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fAM']",Pho,3 P. Trịnh Hoài Đức
+7,Chic Restaurant,4.3,(6),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"2RHP+GV6, P. Nguyễn Khuyến"
+8,Nhà Hàng Nổi Hải Đăng,4.2,(17),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Restaurant,Đ. Đê Tiền Lệ
+9,Nhà Hàng Cá Sông Phương Khuyến,None,None,None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Closed', ' ⋅ Opens 8\u202fAM']",Seafood,Ngã Tư Ngòi
+10,Quán Café Tố Uyên,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+11,Cơm Tấm Phương Anh,3.1,(37),None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Family-friendly,119A6 P. Trần Huy Liệu
+12,Hà Nội,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+13,Quán Văn Phúc,3.8,(61),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Restaurant,18 P. Lý Văn Phức
+14,French Grill,4.3,(230),None,"['Dine-in', 'Takeout']","['Closed', ' ⋅ Opens 6\u202fPM']",Modern French,"8 Do Duc Duc, Me Tri, South Tu Liem"
+15,Lương Sơn Restaurant,3.9,"(1,432)",None,"['Dine-in', 'Takeout', 'Delivery']","['Closed', ' ⋅ Opens 10\u202fAM']",Restaurant,1 P. Quan Nhân
+16,Cafe Góc Phố,4.7,(3),None,"['Dine-in', 'Delivery']",[],None,None
+17,Hoài Đức - Hà Nội,4.7,(12),None,"['Dine-in', 'Takeout']",[],None,None
+18,Phở Hùng Thi,4.0,(2),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fPM']",Restaurant,"2RHM+J27, P. Hàng Cháo"
+19,Công Ty TNHH Dịch Vụ Và Thương Mại Hà Bắc Hoa,4.5,(4),None,['Dine-in'],[],None,None
