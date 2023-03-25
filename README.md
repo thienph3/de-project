@@ -13,7 +13,7 @@ docker-compose 1.28.5
 - .gitignore file
 - README.md file
 
-## airflow
+## airflow (with dwh Postgres)
 Create file .env in docker folder with content like that (note using absolute path for AIRFLOW_PROJ_DIR)
 ```
 AIRFLOW_UID=1000
@@ -26,4 +26,9 @@ after that, run these commands
 ```
 docker compose -f docker/airflow.yml up airflow-init
 docker compose -f docker/airflow.yml up
+```
+
+## superset
+```
+docker compose -f docker/superset.yml up
 ```
