@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Huyen Chau Coffee Shop,5.0,(1),None,['Dine-in'],[],None,None
+1,The Coffee House,4.5,(544),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,30 P. Hào Nam
+2,Cullinan Coffee,4.5,(17),None,['Dine-in'],['Open now'],Cafe,30-32 Ng. 49 P. Huỳnh Thúc Kháng
+3,Mộc An Coffee &amp; Tea,4.6,(69),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,19 P. Lê Thanh Nghị
+4,TOKA COFFEE,4.7,(91),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,36 P. Thi Sách
+5,Italk Coffee,4.2,(29),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,Ng. 64 P. Nguyễn Lương Bằng
+6,Coffee,2.5,(2),None,['Dine-in'],[],None,None
+7,CHỐN - Manual Coffee Maker,4.6,(118),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,40 P. Nhà Chung
+8,La Viet Coffee (8A Vu Thanh),4.7,(45),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5\u202fPM']",Coffee shop,A3 P. Vũ Thạnh
+9,Analog coffee Lounge,3.3,(7),None,['Dine-in'],[],None,None
+10,Ta Coffee,4.9,(460),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Ngo 41 Tây Hồ
+11,AHA Cafe,4.0,(585),None,"['Dine-in', 'Takeout', 'No delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,90 P. Võ Thị Sáu
+12,T Coffee,4.9,(21),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"Số 1G, Khu Dệt, P. Ao Sen"
+13,D Coffee,4.4,(34),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Coffee shop,104-H6 Ng. 12 P. Láng Hạ
+14,QUÁN CAFE AIO,4.7,(21),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"6A,, Ngõ 6, Phố Ao Sen,, Quận Hà Đông,, Thành Phố Hà Nội"
+15,Cư Xá Cà Phê,4.5,(55),None,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Cafe,A11 P. Tôn Thất Tùng
+16,Cafe Nhà Kho,4.5,(74),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,599 Đ. La Thành
+17,Văn Hóa Điếu Cày Coffee,4.4,(87),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,86 P. Xã Đàn
+18,Lane 8 Coffee &amp; Workspace,4.8,(40),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,"XRVQ+2PP, ngõ 57 P. Phương Liệt"
+19,Coffee,None,None,None,[],[],None,None

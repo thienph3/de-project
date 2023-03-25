@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,ABO coffee,4.4,(12),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Coffee shop,A106 Ng. 1 P. Đỗ Nhuận
+1,Cafe Min &amp; Tea,5.0,(27),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,"Chung Cư C2, Tầng 1, shop 11"
+2,Linh Coffee,4.8,(29),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,"Tầng 1, Toà Taseco (N03T2"
+3,Sành Coffee,4.3,(4),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,"chung cư B, Tầng trệt"
+4,Cafe Linh,4.2,(17),None,['Dine-in'],[],None,None
+5,Ban Mai Điểm Hẹn Coffee &amp; Tea,5.0,(20),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,BT 3.15 P. Nguyễn Xuân Khoát
+6,Quán Cafe Âm Nhạc,3.3,(3),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"169, Đường Xuân Đỉnh, Huyện Từ Liêm"
+7,Seven Coffee,4.7,(65),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,"Bt3, 18 P. Minh Tảo"
+8,Alba Café,3.8,(53),None,['Dine-in'],[],None,None
+9,Dust &amp; Rust Coffee Bar,5.0,(3),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Espresso bar,Ngõ 545 Đ. Xuân Đỉnh
+10,Cối Xay Gió Coffee &amp; Tea,5.0,(3),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,118 Ng. 355 Đ. Xuân Đỉnh
+11,Lava Café &amp; Tea,5.0,(12),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,"C4, Phòng E, Tòa, P. Đỗ Nhuận"
+12,Ban Mai Coffee,4.9,(31),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,"BT3.15, P. Nguyễn Xuân Khoát"
+13,Spoon Bar,4.5,(117),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,5 Ng. 207 Đ. Xuân Đỉnh
+14,Quán Cà Phê Trung Nguyên số 1 Xuân đỉnh,4.1,(231),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Restaurant,"Nhà A, Ng. 1 P. Đỗ Nhuận"
+15,Twitter Beans Coffee Ngoại Giao Đoàn,4.2,(275),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Cafe,"Tầng 1, N02T3 Quang Minh"
+16,LONG COFFEE,4.3,(22),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"3Q9P+JRJ, Phạm Văn Đồng"
+17,Trà chanh A+,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,20 Ng. 323 Đ. Xuân Đỉnh
+18,Linh coffee,None,None,None,['Dine-in'],[],None,None
+19,Cafe Na,4.0,(1),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,96 Ng. 323 Đ. Xuân Đỉnh

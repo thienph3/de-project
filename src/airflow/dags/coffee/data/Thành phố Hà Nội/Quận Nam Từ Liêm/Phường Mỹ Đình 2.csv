@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Coffee Tran,4.6,(11),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,81b Dương Khuê
+1,Hạo Coffee Mỹ Đình,4.4,(33),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,Ngõ 89 Đ. Lê Đức Thọ
+2,Nguyễn Coffee,4.9,(16),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,P. Trần Hữu Dực
+3,The Audi Coffee Mỹ Đình,4.3,(26),None,['Dine-in'],[],None,None
+4,Highlands Coffee,4.2,(828),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,21 Đ. Lê Đức Thọ
+5,AHA Cafe,4.2,(94),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,2 Đình Thôn
+6,Highlands Coffee,4.3,(115),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,89 Đ. Lê Đức Thọ
+7,Ochan Coffee,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+8,Cafe Nho,4.9,(15),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Coffee shop,P. Hoài Thanh
+9,Ami Coffee &amp; Tea,4.9,(15),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,"2QJ8+HXJ, P. Lưu Hữu Phước"
+10,June Coffee,4.3,(23),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Cafe,2QFC+564
+11,Thanh Uy Art Coffee,4.9,(19),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,2A Ngh. 3/2 Đ. Liên Cơ
+12,Cafe Hero,4.8,(21),None,['Dine-in'],"['Open', ' ⋅ Closes 9\u202fPM']",Cafe,Ngõ 5 Đ. Lê Đức Thọ
+13,Phiin Cafe House,4.5,(54),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,12 Đ. Lê Đức Thọ
+14,Cafe Lão Đại,4.3,(43),None,"['Dine-in', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,Phố Trần Hữu Dực
+15,Nhật Minh Cafe,4.2,(6),None,['Dine-in'],[],None,None
+16,Ca's Coffee,5.0,(5),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,CT2A P. Lưu Hữu Phước
+17,Green Coffee,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+18,Cộng Cà Phê,4.1,"(2,123)",None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",Cafe,36 Đ. Lê Đức Thọ
+19,Enjoy Coffee,4.4,(65),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"Ki-ốt 01-C1 phố Lưu Hữu Phước, KĐT"

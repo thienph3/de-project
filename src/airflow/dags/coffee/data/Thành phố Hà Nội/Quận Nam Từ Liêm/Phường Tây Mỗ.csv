@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Chai Tea &amp; Coffee,3.9,(25),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,253 Đ. Tây Mỗ
+1,Pha Coffee CS 2,4.8,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,2P3R+G73
+2,Ngày Qua Ngày,None,None,None,[],[],None,None
+3,Highlands Coffee,4.2,(828),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,21 Đ. Lê Đức Thọ
+4,"31 đường Tây Mỗ, Nam Từ Liêm, Hà Nội",None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,31 ĐT72
+5,D’art Bistro,1.0,(1),None,['Dine-in'],[],None,None
+6,AHA Cafe,4.2,(41),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",None,None
+7,Gemini Coffee,5.0,(16),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,2P3P+HQP
+8,Coffe bean,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,Highlands Coffee Smartcity,4.0,(2),None,['Dine-in'],[],None,None
+10,Green Coffee,4.3,(64),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,446
+11,Thành Chi Coffee,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+12,K Coffee House,5.0,(17),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"Toà S3.02 , Vinhome Smart City"
+13,Coffee 118,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+14,Katie Coffee,4.7,(31),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,"Villa 19D, P. Trần Văn Lai"
+15,ARY COFFEE &amp; TEA,4.4,(19),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11:30\u202fPM']",Cafe,198 Đ. Phú Diễn
+16,Thanh Uy Art Coffee,4.9,(19),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,2A Ngh. 3/2 Đ. Liên Cơ
+17,Trung Nguyen Cafe,5.0,(3),None,"['Dine-in', 'Takeout']",[],None,None
+18,Phố Hội Coffee,4.9,(11),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,"Biệt Thự 8 khu đô thị Roman Plaza, P. Tố Hữu"
+19,Etudo Coffee &amp; Dessert,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,2P2Q+GGX

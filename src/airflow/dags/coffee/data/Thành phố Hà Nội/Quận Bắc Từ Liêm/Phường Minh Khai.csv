@@ -1,0 +1,16 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Chip'S Coffee,4.3,(61),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",None,None
+1,Quận Cà Phê,4.7,(33),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,12 Đường Phú Minh
+2,Tiệm Trà Thanh,5.0,(10),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Cafe,36 ngách 86 Ng. 132 Cầu Diễn
+3,Coffee Homes,4.4,(93),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open 24 hours'],Cafe,3 Phố Nhổn
+4,Cafe Choka,5.0,(3),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,3P8X+F38
+5,Bi Quán,4.8,(12),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 4:30\u202fPM']",Cafe,132/68 Đ. Cầu Diễn
+6,Cà Phê Sân Thượng,5.0,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,"National Road 32, Nguyen Xa Hamlet, Minh Khai Commune, Tu Liem District"
+7,An cafe &amp; Tea,3.0,(4),None,['Dine-in'],[],None,None
+8,Coffee A+,3.8,(5),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+9,Mộc Lan Coffee,5.0,(1),None,['Dine-in'],['Open 24 hours'],Coffee shop,"Số 46, khu B, Học viện cảnh sát nhân dân, phường"
+10,Công Ty TNHH Cà Phê Thành Ý,3.5,(2),None,['Dine-in'],[],None,None
+11,Hq Paris Coffee,4.5,(2),None,"['Dine-in', 'Delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,26 Phố Nhổn
+12,V Coffee,5.0,(7),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,Số 68 TDP Phúc Lý 4
+13,5180,None,None,None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 12\u202fAM']",Coffee shop,"Số nhà 60 ngõ 134 cổng làng, Đ. Cầu Diễn"
+14,Cafee thànhquyên,None,None,None,"['Dine-in', 'Takeout']",[],None,None
