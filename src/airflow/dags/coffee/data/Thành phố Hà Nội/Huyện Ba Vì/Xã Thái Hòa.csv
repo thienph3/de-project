@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cafe Thai,4.4,(499),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,27 P. Triệu Việt Vương
+1,Mystic Coffee,4.6,(96),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,107H P. Vũ Miên
+2,TẰM Gallery Cafe,4.6,(135),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,14 Ng. 5 P. Từ Hoa
+3,The Shelter - Cafe &amp; Pub,4.5,(15),None,"['Dine-in', 'Takeout']",[],None,None
+4,Wild coffee,4.5,(50),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 7\u202fPM']",Cafe,66 Ng. 12 Đ. Đặng Thai Mai
+5,Tranquil Books &amp; Coffee,4.6,"(1,112)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,5 P. Nguyễn Quang Bích
+6,Capella Specialty Coffee,4.6,(296),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Cafe,"No 27 Alley, Ng. 12 Đ. Đặng Thai Mai"
+7,Cafe Tùng Book,4.3,(347),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,"Vườn hoa, ngõ 71 P. Trần Quang Diệu"
+8,Up Coffee,4.6,(9),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,43 P. Thi Sách
+9,Ta Coffee,4.9,(460),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Ngo 41 Tây Hồ
+10,Cafe Romantic,4.0,(28),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,171 P. Thái Hà
+11,Hub de Tana Coffee,4.4,(138),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,60 P.Trung Hòa
+12,Stereo Coffee,4.5,(71),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,77 P. Tuệ Tĩnh
+13,Pha Coffee,4.1,(43),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,101 P. Trần Huy Liệu
+14,Ancient Coffee,4.1,(133),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,5 P. Nguyễn Thượng Hiền
+15,Abc Coffee Roasters,4.2,(106),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,106B9 P. Tô Hiệu
+16,AHA Cafe,4.1,(773),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,195 P. Trung Kính
+17,Ciara Terrace Cafe,4.3,(109),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Cafe,41 P. Trần Kim Xuyến
+18,D'LA Coffee,4.2,(95),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:15\u202fPM']",Cafe,"2Q9R+38Q, P. Mạc Thái Tổ"
+19,THAIYEN CAFE,4.6,(239),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Espresso bar,21 Ng. 42 P. Giang Văn Minh

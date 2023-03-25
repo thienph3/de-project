@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,coffee chất,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Art cafe,"2RHM+4M3, chợ tản lĩnh"
+1,La Viet Coffee (8A Vu Thanh),4.7,(45),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5\u202fPM']",Coffee shop,A3 P. Vũ Thạnh
+2,Châu Minh Coffee,5.0,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,39 Đường Thành
+3,Mystic Coffee,4.6,(96),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,107H P. Vũ Miên
+4,Cafe Bùi,4.8,(4),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,63B P. Nguyễn Khuyến
+5,FT Coffee,4.7,(25),None,['Dine-in'],[],None,None
+6,Bis Coffee,4.2,(5),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,2 Ngõ 25B Cát Linh
+7,H.E.M Coffee,None,None,None,[],"['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,94 Ngh. 51 Ng. Linh Quang
+8,Balance Caffe,5.0,(4),None,"['""... villa ', 'coffee', '; yummy salted cream espresso!""']","['Open', ' ⋅ Closes 11\u202fPM']",Espresso bar,81 P. Nguyễn Thái Học
+9,LAVI coffee,4.3,(53),None,"['Dine-in', 'Takeout']",['Open now'],Coffee shop,19 Phan Bội Châu
+10,Urban Hygge Coffee,4.2,(76),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,126a P. Hào Nam
+11,Coffee 25 Shop,5.0,(3),None,['Dine-in'],[],None,None
+12,Phin bar by Refined.,4.8,(95),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 6\u202fPM']",Coffee shop,43 P. Văn Miếu
+13,Hi Teá,5.0,(3),None,"['Dine-in', 'Takeout']",[],None,None
+14,Whip It Up - Sweet n Sip,4.9,(22),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,100 P. Nguyễn Khuyến
+15,Cafe Khuê,5.0,(3),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 12\u202fAM']",Cafe,49
+16,Cafe 63,5.0,(1),None,['Dine-in'],[],None,None
+17,ARDOR,4.9,(36),None,"['Dine-in', 'Takeout']",['Open now'],Cafe,123 P. Nguyễn Khuyến
+18,Coffee,2.5,(2),None,['Dine-in'],[],None,None
+19,Minh coffee - smoothie,5.0,(4),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9\u202fPM']",Coffee shop,163/2 P. Nguyễn Thái Học

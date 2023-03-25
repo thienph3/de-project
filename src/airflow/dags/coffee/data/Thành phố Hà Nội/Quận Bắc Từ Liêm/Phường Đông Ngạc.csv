@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cafe Co,3.5,(2),None,['Dine-in'],[],None,None
+1,Coffee Bottle,5.0,(5),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"Tòa N 05, Ecohome, 3 Đ. Tân Xuân"
+2,Uno De Café,4.0,(10),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Tầng 1 toà N04 Ecohome 3
+3,Enjoy coffee,4.4,(9),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,60 Đ. Tân Xuân
+4,Thuý Coffee,1.0,(1),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,Shophouse 19 tầng 1 N03 Ecohome 3
+5,Coffe Sân Vườn,4.0,(5),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,Đ. Tân Xuân
+6,Smile Tea Đông Ngạc,4.2,(16),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,26 Ngõ 56 Thụy Phương
+7,Le Parc Cafe,4.3,(37),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open 24 hours'],Coffee shop,No09 IA20
+8,Linh Coffee,4.8,(29),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,"Tầng 1, Toà Taseco (N03T2"
+9,Ruby coffee,4.3,(6),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,3QQP+3F6
+10,Nhà Hàng Cà Phê Olympia,3.0,(5),None,['Dine-in'],[],None,None
+11,Tocotoco Kẻ Vẽ,4.1,(36),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Bubble Tea,"194, Phố Kẻ Vẽ"
+12,Haawa Cafe,4.8,(24),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",None,None
+13,Tocotoco Ecohome 3,None,None,None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,3QRP+Q26
+14,Highlands Coffee Ecohome 3,4.4,(21),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,"SH 10, N 04, Ecohome 3, Đ. Tân Xuân"
+15,Cafe Min &amp; Tea,5.0,(27),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,"Chung Cư C2, Tầng 1, shop 11"
+16,Cafe E - Coffee Trung Nguyên,5.0,(3),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,Shophouse A27 Sunshine city
+17,Steel Coffee,4.4,(46),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Cafe,16 Ngõ 56 - Lê Văn Hiến
+18,Chino Tea &amp; Coffee,4.3,(10),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Đường Bờ Tây Sông Nhuệ Hà Nội Hanoi City
+19,ABO coffee,4.4,(12),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Coffee shop,A106 Ng. 1 P. Đỗ Nhuận

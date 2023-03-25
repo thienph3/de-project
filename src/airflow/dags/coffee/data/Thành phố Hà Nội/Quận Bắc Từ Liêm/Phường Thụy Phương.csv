@@ -1,0 +1,16 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Cà Phê Mai An,5.0,(1),None,['Dine-in'],[],None,None
+1,Smile Tea Đông Ngạc,4.2,(16),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,26 Ngõ 56 Thụy Phương
+2,The Coffee &amp; Tea,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,11 ngõ 2
+3,Chino Tea &amp; Coffee,4.3,(10),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Đường Bờ Tây Sông Nhuệ Hà Nội Hanoi City
+4,Chill - Tiệm Trà Chanh - số 9 đường Thụy Phương,None,None,None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,Số 9 Đ.Thụy Phương
+5,Táo Coffe &amp; Tea,5.0,(14),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,155 Ngõ 58 Phố Lê Văn Hiến
+6,Nhân Cà Phê Sinh Tố,None,None,None,['Dine-in'],[],None,None
+7,Steel Coffee,4.4,(46),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Cafe,16 Ngõ 56 - Lê Văn Hiến
+8,Chip'S Coffee,4.3,(61),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",None,None
+9,Haawa Cafe,4.8,(24),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",None,None
+10,Trung Tâm Đào Tạo Pha Chế TEA WORLD,5.0,(1),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,49 Ng. 1 P. Văn Hội
+11,TAKE coffee,5.0,(4),None,"['Dine-in', 'Takeout']",[],None,None
+12,Cafe Anh Dũng,None,None,None,['Dine-in'],[],None,None
+13,Coffee Bottle,5.0,(5),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"Tòa N 05, Ecohome, 3 Đ. Tân Xuân"
+14,Trà Chanh Bảo Châu,5.0,(2),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None

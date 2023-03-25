@@ -30,24 +30,22 @@ def insert_db():
             city NVARCHAR
         )
     """
+
     )
     conn.commit()
 
     with open(data_path, "r") as f:
         # Notice that we don't need the csv module.
-        next(f)  # Skip the header row.
-        cur.copy_from(f, "restaurants", sep="\t")
+        next(f) # Skip the header row.
+        cur.copy_from(f, 'restaurants', sep='\t')
 
+    conn.commit()
+
+    cur.execute(""" select * from restaurants LIMIT 10;""")
     conn.commit()
 
 
 if __name__ == "__main__":
-    data_path = "dags/restaurant/data.csv"
-    df = pd.read_csv(data_path, index_col=False, sep="\t")
-    df = df.loc[:, ~df.columns.isin(["Unnamed: 0"])]
-
-    print(df[20:22])
-    print(df.shape)
-    print(df.head(5))
-    print(df.columns)
+    data_path = 'dags/restaurant/data.csv'
+    
     insert_db()

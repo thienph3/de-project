@@ -1,0 +1,6 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,MOMA Coffee,4.8,(19),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 12:30\u202fPM']",Coffee shop,120 Đình Thôn
+1,Nhật Minh Cafe,4.2,(6),None,['Dine-in'],[],None,None
+2,The Bookstop Café,4.8,(58),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 7\u202fPM']",Cafe,"Số 6-B14, KĐT"
+3,AHA Cafe,4.2,(94),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,2 Đình Thôn
+4,Highlands Coffee,4.2,(828),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,21 Đ. Lê Đức Thọ

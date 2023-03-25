@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Stasty coffee &amp; tea,None,None,None,"['Dine-in', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,248 Đường Thượng Cát
+1,Coffee Sông Feo,4.2,(46),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,tdp: Thượng 1
+2,An cafe &amp; Tea,3.0,(4),None,['Dine-in'],[],None,None
+3,Style City Coffee,4.2,(74),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Toà 21b7
+4,Chino Tea &amp; Coffee,4.3,(10),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Đường Bờ Tây Sông Nhuệ Hà Nội Hanoi City
+5,Coffee Homes,4.4,(93),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open 24 hours'],Cafe,3 Phố Nhổn
+6,Trà sữa mẹ thỏ,4.9,(7),None,"['Dine-in', 'Takeout', 'Delivery']",['Open now'],Cafe,142 Đường Thượng Cát
+7,The Coffee House,4.4,(217),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,634 Phạm Văn Đồng
+8,Highlands Coffee,4.2,(173),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,232 Phạm Văn Đồng
+9,The Coffee &amp; Tea,None,None,None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,11 ngõ 2
+10,Tun Coffee &amp; Chill,4.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+11,Coffee A+,3.8,(5),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+12,Quận Cà Phê,4.7,(33),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,12 Đường Phú Minh
+13,Mộc Lan Coffee,5.0,(1),None,['Dine-in'],['Open 24 hours'],Coffee shop,"Số 46, khu B, Học viện cảnh sát nhân dân, phường"
+14,Cà Phê Tươi,4.3,(55),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"Biệt Thự 5, TT4"
+15,Coffee Góc Phố,4.9,(11),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"Biệt thự CH09, 136 Đ. Hồ Tùng Mậu"
+16,Steel Coffee,4.4,(46),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Cafe,16 Ngõ 56 - Lê Văn Hiến
+17,H+ Cà Phê_An Bình City,4.8,(11),None,"['Dine-in', 'Takeout']",['Open now'],Coffee shop,17 TT4
+18,Cafe Nắng,5.0,(1),None,['Dine-in'],[],None,None
+19,Chip'S Coffee,4.3,(61),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",None,None

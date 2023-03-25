@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,QUÁN CAFE AIO,4.7,(21),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"6A,, Ngõ 6, Phố Ao Sen,, Quận Hà Đông,, Thành Phố Hà Nội"
+1,The City Coffee,4.1,(184),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,46 Trần Phú
+2,Acof Cafe,4.7,(80),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,"112 C4 Ngõ 1, Khuất Duy Tiến"
+3,JOY Coffe &amp; Tea,4.6,(21),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11:45\u202fPM']",Cafe,LK B2-06 Khu cán bộ chiến sĩ công an
+4,Ind.U Coffee &amp; Concept,4.4,(29),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,Ngách 1 Ng. 140 Đ. Trần Phú
+5,An Hoi An Coffee,4.2,(115),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,B8 - BT1
+6,Cafe Bất động Sản,4.5,(10),None,['Dine-in'],['Open 24 hours'],Cafe,ĐL Chu Văn An
+7,La Viet Coffee (8A Vu Thanh),4.7,(45),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5\u202fPM']",Coffee shop,A3 P. Vũ Thạnh
+8,Highlands Coffee,4.2,(41),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,BT01-8
+9,Era Coffee,4.7,(42),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,256a P. Đặng Tiến Đông
+10,Katimor Cafe,4.7,(54),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"Euroland T1, P. Nguyễn Văn Lộc"
+11,The Coffee House,4.5,(544),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,30 P. Hào Nam
+12,CHỐT Cafe,4.4,(19),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,32 ngõ 634 Đ. Kim Giang
+13,Một Nhà Coffee,4.7,(18),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,5 Ng. 113 P. Hoàng Cầu
+14,Cafe Nhà Kho,4.5,(74),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,599 Đ. La Thành
+15,O' Coffee,4.0,(23),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,75 P. Cửa Nam
+16,Highlands Coffee Nguyễn Trãi,4.3,(550),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,495 Đ. Nguyễn Trãi
+17,A -Z Coffee,4.3,(69),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,175 P. Tây Sơn
+18,Oriberry Coffee,4.4,(185),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,25 P. Đặng Tiến Đông
+19,Cafe 30,4.5,(176),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,30 ngõ 179 P. Quan Nhân

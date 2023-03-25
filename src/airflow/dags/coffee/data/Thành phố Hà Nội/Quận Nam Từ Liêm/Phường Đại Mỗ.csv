@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,The Bookstop Café,4.8,(58),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 7\u202fPM']",Cafe,"Số 6-B14, KĐT"
+1,Thanh Uy Art Coffee,4.9,(19),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,2A Ngh. 3/2 Đ. Liên Cơ
+2,Tem Coffee House- cafe-âm nhạc-bóng đá,5.0,(4),None,['Dine-in'],[],None,None
+3,Cafe Lão Đại,4.3,(43),None,"['Dine-in', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,Phố Trần Hữu Dực
+4,Highlands Coffee,4.2,(828),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,21 Đ. Lê Đức Thọ
+5,MOMA Coffee,4.8,(19),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Closed', ' ⋅ Opens 12:30\u202fPM']",Coffee shop,120 Đình Thôn
+6,chu nguyen coffee,5.0,(2),None,"['Dine-in', 'Drive-through', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,265 Phương Canh
+7,Cafe Nho,4.9,(15),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Coffee shop,P. Hoài Thanh
+8,An Coffee &amp; Tea,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+9,The Coffee House,4.5,(324),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 8:30\u202fPM']",Coffee shop,"Vinhomes The Botanica, B3-01 P. Hàm Nghi"
+10,Nắng Cafe Sudico,4.0,(385),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,TT3/124 P. Trần Văn Lai
+11,Hạo Coffee Mỹ Đình,4.4,(33),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,Ngõ 89 Đ. Lê Đức Thọ
+12,The Hanoi Coffee CS2,5.0,(1),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,142 P. Nguyễn Văn Giáp
+13,Đậm Coffee &amp; Tea,3.9,(116),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"Toà B4, đường Hàm Nghi, phường Cầu Diễn"
+14,Cafe Dự,5.0,(5),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,133 ngõ 322
+15,June Coffee,4.3,(23),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Cafe,2QFC+564
+16,The Audi Coffee Mỹ Đình,4.3,(26),None,['Dine-in'],[],None,None
+17,Nguyễn Coffee,4.9,(16),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,P. Trần Hữu Dực
+18,Time Cafe 타임카페,4.8,(77),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,Số 8 Ngõ 178 Đường Đình Thôn
+19,Milano Coffee,4.3,(53),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 9:30\u202fPM']",Cafe,Ngõ 44 đường P. Nguyễn Cơ Thạch

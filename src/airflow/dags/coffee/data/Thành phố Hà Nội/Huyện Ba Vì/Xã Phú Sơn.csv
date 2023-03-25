@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Stereo Coffee,4.5,(71),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,77 P. Tuệ Tĩnh
+1,Coffee,None,None,None,[],[],None,None
+2,Tranquil Books &amp; Coffee,4.6,"(1,112)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,5 P. Nguyễn Quang Bích
+3,Pi's coffee,5.0,(11),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 4\u202fPM']",Cafe,2b Hàng Than
+4,Ta Coffee,4.9,(460),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Ngo 41 Tây Hồ
+5,S.ii.U Coffee,4.4,(96),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,25 Ng. 36 P. Đào Tấn
+6,AnVy Coffee,4.5,(13),None,"['Dine-in', 'Takeout']",[],None,None
+7,La Viet Coffee (8A Vu Thanh),4.7,(45),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 5\u202fPM']",Coffee shop,A3 P. Vũ Thạnh
+8,Up Coffee,4.6,(9),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,43 P. Thi Sách
+9,The Note Coffee,4.5,"(2,718)",None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,64 P. Lương Văn Can
+10,Ta Cà Phê 2(Roastery-Specialty Coffee),5.0,(212),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 6\u202fPM']",Cafe,N2 Ngõ 57 Láng Hạ
+11,Brik Craft Coffee,4.8,(19),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 8\u202fPM']",Coffee shop,"P113, Cầu thang 4-5 tập thể Văn nghệ sĩ, Ng. Núi Trúc"
+12,Cafe Thai,4.4,(499),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,27 P. Triệu Việt Vương
+13,All Day Coffee 55 Hàng Bún,4.5,(387),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,55 P. Hàng Bún
+14,Sociō Coffee,4.6,(69),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 7\u202fPM']",Coffee shop,118A P. Quán Thánh
+15,An Phu Coffee,3.6,(5),None,['Dine-in'],[],None,None
+16,Busstop Coffee,4.2,(146),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,116 P. Thành Công
+17,D Coffee,4.4,(34),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Coffee shop,104-H6 Ng. 12 P. Láng Hạ
+18,Carina Coffee,4.9,(48),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 7\u202fPM']",Coffee shop,Số 3 ngõ 135/31
+19,Oribeans Coffee,4.3,(326),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,C6 P. Trần Huy Liệu

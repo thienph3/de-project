@@ -1,0 +1,16 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Coffee Sông Feo,4.2,(46),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,tdp: Thượng 1
+1,Coffee 58,4.5,(4),None,['Dine-in'],[],None,None
+2,Quán Nhỏ- Trà Chanh,None,None,None,"['Dine-in', 'Takeout']",[],None,None
+3,Coffee Homes,4.4,(93),None,"['Dine-in', 'Takeout', 'No-contact delivery']",['Open 24 hours'],Cafe,3 Phố Nhổn
+4,Cowboy Coffee,5.0,(1),None,"['Dine-in', 'Takeout']",[],None,None
+5,Chino Tea &amp; Coffee,4.3,(10),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Đường Bờ Tây Sông Nhuệ Hà Nội Hanoi City
+6,Eleven Coffee,4.6,(22),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,82 QL32
+7,Quán Cô Xúy,4.5,(16),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Bubble Tea,113 Trung Kiên
+8,Quán kem,4.1,(57),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",None,None
+9,An cafe &amp; Tea,3.0,(4),None,['Dine-in'],[],None,None
+10,Quận Cà Phê,4.7,(33),None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,12 Đường Phú Minh
+11,Chip'S Coffee,4.3,(61),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",None,None
+12,Tun Coffee &amp; Chill,4.0,(2),None,"['Dine-in', 'Takeout']",[],None,None
+13,Tiệm Trà Thanh,5.0,(10),None,"['Dine-in', 'Drive-through', 'No-contact delivery']",['Open 24 hours'],Cafe,36 ngách 86 Ng. 132 Cầu Diễn
+14,Style City Coffee,4.2,(74),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Toà 21b7

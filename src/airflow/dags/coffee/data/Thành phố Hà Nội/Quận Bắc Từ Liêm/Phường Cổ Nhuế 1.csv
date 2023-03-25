@@ -1,0 +1,11 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Đây Cafe,4.1,(104),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"Số 02, Lô TT03"
+1,Style City Coffee,4.2,(74),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Toà 21b7
+2,Rain Coffee,3.9,(137),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,Số 2 P. Đặng Thùy Trâm
+3,The Coffee House,4.4,(217),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,634 Phạm Văn Đồng
+4,Alpha Cafe,4.3,(144),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,"3Q2G+MW3, Đường số 1"
+5,Coffee HS,4.5,(4),None,['Dine-in'],['Open 24 hours'],Cafe,10000
+6,Coffee A+,3.8,(5),None,"['Dine-in', 'Takeout', 'Delivery']",[],None,None
+7,Quán Chú Bộ Đội,None,None,None,"['Dine-in', 'Curbside pickup', 'No-contact delivery']",[],None,None
+8,Highlands Coffee,4.2,(173),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,232 Phạm Văn Đồng
+9,Cà Phê Tươi,4.3,(55),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"Biệt Thự 5, TT4"
