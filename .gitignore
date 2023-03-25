@@ -130,3 +130,5 @@ dmypy.json
 
 # Remove airflow logs folder
 logs/
+
+.DS_Store
