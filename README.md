@@ -17,7 +17,7 @@ docker-compose 1.28.5
 Create file .env in docker folder with content like that (note using absolute path for AIRFLOW_PROJ_DIR)
 ```
 AIRFLOW_UID=1000
-AIRFLOW_PROJ_DIR=./src/airflow
+AIRFLOW_PROJ_DIR=../src/airflow
 _AIRFLOW_WWW_USER_USERNAME=admin
 _AIRFLOW_WWW_USER_PASSWORD=admin
 _PIP_ADDITIONAL_REQUIREMENTS=
