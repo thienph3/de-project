@@ -1,0 +1,16 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,1857 Coffee,4.5,(61),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 7\u202fPM']",Cafe,"V2, Ngõ 1142 Đ. La Thành"
+1,Cup &amp; Coffee,4.6,(22),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 8\u202fPM']",Cafe,9 Ng. 23 P. Đỗ Quang
+2,Gia Bao Cafe,4.3,(46),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,"2Q6W+X36, Hạ"
+3,The Sun Coffee,4.6,(28),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,233 P. Tô Hiệu
+4,Oleoleo Coffee &amp; Cats,4.9,(159),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Coffee shop,5t2 Ngõ 62 Nguyễn Chí Thanh
+5,Rain Coffee,3.9,(137),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,Số 2 P. Đặng Thùy Trâm
+6,Phố Núi Coffee 233 Tô Hiệu,4.5,(20),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,101d3 P. Tô Hiệu
+7,AHA Cafe,4.1,(59),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"N09-B1, P. Thành Thái"
+8,Cafe 35,4.5,(20),None,['Dine-in'],"['Open', ' ⋅ Closes 5\u202fPM']",Cafe,"2Q9W+JP4, Unnamed Road"
+9,AHA Cafe,4.1,(773),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,195 P. Trung Kính
+10,Sailing Coffee,4.1,(249),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Cafe,23 Ng. 82 P. Chùa Láng
+11,Chất Coffee,4.1,(169),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Cafe,61 Đ. Bưởi
+12,Mequila.coffee,4.7,(38),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,16 Đường nội bộ Khu TT
+13,Cafe Thanh Nhàn,4.1,(25),None,['Dine-in'],"['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,36 P. Nghĩa Đô
+14,Huyen Coffee,4.2,(160),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Cafe,12 P. Duy Tân

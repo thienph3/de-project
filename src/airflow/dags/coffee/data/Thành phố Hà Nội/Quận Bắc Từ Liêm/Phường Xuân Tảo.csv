@@ -1,0 +1,21 @@
+,name,stars,review,price,note,open_time,restautant_type,address
+0,Linh Coffee,4.8,(29),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,"Tầng 1, Toà Taseco (N03T2"
+1,The Second Coffee - Kosmo,4.4,(44),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Cafe,161
+2,Seven Coffee,4.7,(65),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,"Bt3, 18 P. Minh Tảo"
+3,Twitter Beans Coffee Ngoại Giao Đoàn,4.2,(275),None,"['Dine-in', 'Takeout', 'Delivery']","['Open', ' ⋅ Closes 9\u202fPM']",Cafe,"Tầng 1, N02T3 Quang Minh"
+4,Ban Mai Điểm Hẹn Coffee &amp; Tea,5.0,(20),None,['Dine-in'],"['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,BT 3.15 P. Nguyễn Xuân Khoát
+5,ABO coffee,4.4,(12),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 9:30\u202fPM']",Coffee shop,A106 Ng. 1 P. Đỗ Nhuận
+6,Cafe 1989,4.5,(2),None,['Dine-in'],[],None,None
+7,Trung Nguyên Legend Café,4.0,(25),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Khu Chung Cư
+8,MIMITA Coffee,4.7,(44),None,"['Dine-in', 'Curbside pickup', 'Delivery']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,3Q7X+W6
+9,Ban Mai Coffee,4.9,(31),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,"BT3.15, P. Nguyễn Xuân Khoát"
+10,King Coffee Ngoại Giao Đoàn,4.0,(60),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10:30\u202fPM']",Cafe,Nhà 12 BT 6
+11,Quán Cafe Âm Nhạc,3.3,(3),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,"169, Đường Xuân Đỉnh, Huyện Từ Liêm"
+12,Cà phê CuIi 4 Kosmo,5.0,(60),None,"['Dine-in', 'Takeout', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,"Metro Kosmo, S9-10, 161 Đ. Xuân La"
+13,Lava Café &amp; Tea,5.0,(12),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 10\u202fPM']",Coffee shop,"C4, Phòng E, Tòa, P. Đỗ Nhuận"
+14,Cà Phê 217,5.0,(1),None,['Dine-in'],"['Open', ' ⋅ Closes 11\u202fPM']",Cafe,217 Đ. Nguyễn Hoàng Tôn
+15,Fat Cup Coffee,4.9,(17),None,"['Dine-in', 'Takeout']","['Open', ' ⋅ Closes 11\u202fPM']",None,None
+16,LADO cafe,4.3,(14),None,['Dine-in'],[],None,None
+17,Đi Cafe…,4.8,(11),None,"['Dine-in', 'Drive-through', 'No-contact delivery']","['Open', ' ⋅ Closes 11\u202fPM']",Coffee shop,33 Đ. Xuân Tảo
+18,Cafe Min &amp; Tea,5.0,(27),None,"['Dine-in', 'Takeout']",['Open 24 hours'],Coffee shop,"Chung Cư C2, Tầng 1, shop 11"
+19,Cà Phê Love One,None,None,None,['Dine-in'],['Open 24 hours'],Cafe,327 Đ. Nguyễn Hoàng Tôn
